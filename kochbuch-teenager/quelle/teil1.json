@@ -1,0 +1,1021 @@
+{
+  "kapitel": [
+    {
+      "nr": 1,
+      "titel": "Frühstück & Brunch",
+      "untertitel": "Gut in den Tag starten – auch wenn du spät dran bist",
+      "intro": "Frühstück ist die wichtigste Mahlzeit des Tages – das hast du bestimmt schon tausendmal gehört. Aber ehrlich: Morgens zählt jede Minute. Deshalb findest du in diesem Kapitel Rezepte für jede Situation. Manche bereitest du am Abend vor und schnappst sie dir morgens nur aus dem Kühlschrank. Andere sind in fünf Minuten aus der Mikrowelle fertig. Und für entspannte Wochenenden gibt es Pancakes, French Toast und Shakshuka, mit denen du Familie und Freunde zum Brunch einladen kannst. Alle Rezepte kommen mit höchstens fünf Zutaten aus. So startest du satt und gut gelaunt in den Tag, ganz ohne Stress.",
+      "rezepte": [
+        {
+          "nr": 1,
+          "titel": "Fluffige Pancakes",
+          "teaser": "Hoch, weich und goldbraun – diese Pancakes sehen aus wie aus dem American Diner. Und du brauchst dafür nur eine Schüssel und eine Pfanne.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "150 g Mehl",
+            "1 Ei",
+            "200 ml Milch",
+            "1 TL Backpulver",
+            "2 EL Ahornsirup zum Servieren"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Salz",
+            "Öl"
+          ],
+          "schritte": [
+            "Gib Mehl, Backpulver, 1 EL Zucker und eine Prise Salz in eine Schüssel und vermische alles kurz mit einem Schneebesen.",
+            "Schlag das Ei auf, gib es mit der Milch dazu und rühre alles nur so lange, bis keine trockenen Mehlnester mehr da sind. Ein paar kleine Klümpchen sind völlig okay – genau die machen die Pancakes fluffig.",
+            "Erhitze eine beschichtete Pfanne auf mittlerer Hitze und verstreiche darin ½ TL Öl mit einem Stück Küchenpapier.",
+            "Gib pro Pancake etwa 2 EL Teig in die Pfanne. Back sie 1–2 Minuten, bis sich oben kleine Bläschen bilden und die Ränder fest aussehen.",
+            "Wende die Pancakes mit einem Pfannenwender und back sie noch etwa 1 Minute, bis auch die zweite Seite goldbraun ist. Öle die Pfanne zwischendurch bei Bedarf neu.",
+            "Staple die Pancakes auf einem Teller und gieß den Ahornsirup darüber."
+          ],
+          "tipp": "Lass den Teig vor dem Backen 5 Minuten stehen – dann arbeitet das Backpulver schon und die Pancakes gehen noch höher auf.",
+          "variante": "Rühr eine Handvoll Heidelbeeren oder Schokotropfen unter den Teig, dann hast du Blaubeer- oder Schoko-Pancakes.",
+          "naehrwerte": {
+            "kcal": 430,
+            "eiweiss": 13,
+            "kohlenhydrate": 72,
+            "fett": 10
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "A tall stack of fluffy golden American pancakes drizzled with maple syrup on a white plate, 45° angle, bright natural light, modern casual wooden table, no text, no people."
+        },
+        {
+          "nr": 2,
+          "titel": "Overnight Oats Schoko-Banane",
+          "teaser": "Abends zwei Minuten rühren, morgens einfach löffeln: Diese Oats schmecken wie Schokopudding und halten trotzdem bis zur Mittagspause satt.",
+          "zeit_min": 5,
+          "wartezeit": "plus 1 Nacht im Kühlschrank",
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "100 g zarte Haferflocken",
+            "250 ml Milch",
+            "150 g Naturjoghurt",
+            "1 EL Backkakao",
+            "1 reife Banane"
+          ],
+          "vorrat": [
+            "Zucker"
+          ],
+          "schritte": [
+            "Gib Haferflocken, Kakao und 1–2 TL Zucker in eine Schüssel und vermische alles gut, damit der Kakao später nicht klumpt.",
+            "Rühre Milch und Joghurt unter, bis eine gleichmäßig braune, cremige Masse entsteht.",
+            "Schäl die Banane und zerdrücke die Hälfte mit einer Gabel. Rühr das Bananenmus unter die Oats.",
+            "Verteile alles auf zwei Gläser mit Deckel und stell sie über Nacht in den Kühlschrank.",
+            "Schneide am Morgen die zweite Bananenhälfte in Scheiben und leg sie oben auf die Oats. Fertig!"
+          ],
+          "tipp": "Wenn dir die Oats morgens zu fest sind, rühr einfach einen Schuss Milch unter – dann werden sie wieder schön cremig.",
+          "variante": "Für eine vegane Version nimmst du Haferdrink und Sojajoghurt statt Milch und Naturjoghurt.",
+          "naehrwerte": {
+            "kcal": 390,
+            "eiweiss": 14,
+            "kohlenhydrate": 62,
+            "fett": 9
+          },
+          "tags": [
+            "vegetarisch",
+            "ohne Herd",
+            "Meal-Prep"
+          ],
+          "foto_prompt": "Two glass jars of chocolate overnight oats topped with fresh banana slices on a light table, top-down view, bright natural light, modern casual setting, no text, no people."
+        },
+        {
+          "nr": 3,
+          "titel": "French Toast mit Zimt",
+          "teaser": "Außen knusprig, innen weich wie ein Pudding: French Toast macht aus normalem Toastbrot ein Frühstück, das sich nach Wochenende anfühlt.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "4 Scheiben Toastbrot",
+            "2 Eier",
+            "100 ml Milch",
+            "1 TL Zimt",
+            "1 EL Butter"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Salz"
+          ],
+          "schritte": [
+            "Verquirle Eier, Milch, ½ TL Zimt und eine Prise Salz in einem tiefen Teller mit einer Gabel.",
+            "Leg die Toastscheiben nacheinander in die Eiermilch und wende sie einmal. Jede Seite soll etwa 10 Sekunden einweichen, nicht länger, sonst wird das Brot matschig.",
+            "Lass die Butter in einer Pfanne auf mittlerer Hitze schmelzen, bis sie leicht schäumt.",
+            "Brate die Scheiben pro Seite 2–3 Minuten, bis sie goldbraun sind und sich in der Mitte fest anfühlen. So ist auch das Ei komplett durchgegart.",
+            "Misch 1 EL Zucker mit dem restlichen Zimt und streu ihn direkt über den heißen French Toast."
+          ],
+          "tipp": "Leicht altbackenes Toastbrot vom Vortag ist perfekt – es saugt die Eiermilch besser auf, ohne auseinanderzufallen.",
+          "variante": "Leg ein paar Apfelscheiben mit in die Pfanne und brat sie mit – das gibt eine Apfelstrudel-Version.",
+          "naehrwerte": {
+            "kcal": 360,
+            "eiweiss": 14,
+            "kohlenhydrate": 40,
+            "fett": 15
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Golden French toast slices dusted with cinnamon sugar stacked on a plate, 45° angle, bright natural light, modern casual kitchen table, no text, no people."
+        },
+        {
+          "nr": 4,
+          "titel": "Cremiges Rührei auf Toast",
+          "teaser": "Vergiss trockenes Krümel-Rührei: Mit dem richtigen Trick wird dein Rührei samtig weich und richtig cremig.",
+          "zeit_min": 10,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "4 Eier",
+            "2 EL Milch",
+            "1 EL Butter",
+            "4 Scheiben Vollkorntoast",
+            "½ Bund Schnittlauch"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Verquirle die Eier mit der Milch, einer Prise Salz und etwas Pfeffer in einer Schüssel mit einer Gabel.",
+            "Schneide den Schnittlauch mit einer Küchenschere in feine Röllchen. Steck den Toast in den Toaster.",
+            "Lass die Butter in einer beschichteten Pfanne auf niedriger bis mittlerer Hitze schmelzen. Sie soll schmelzen, aber nicht braun werden.",
+            "Gieß die Eier hinein und warte etwa 20 Sekunden. Schieb die Masse dann mit einem Pfannenwender langsam von außen nach innen, sodass große, weiche Flocken entstehen.",
+            "Nimm die Pfanne vom Herd, sobald kein flüssiges Ei mehr zu sehen ist und das Rührei noch glänzt. Es gart in der heißen Pfanne noch kurz nach.",
+            "Verteile das Rührei auf den Toastscheiben und streu den Schnittlauch darüber."
+          ],
+          "tipp": "Geduld ist hier der Game Changer: niedrige Hitze und langsames Schieben machen das Rührei cremig statt gummiartig.",
+          "variante": "Rühr zum Schluss 1 EL Frischkäse unter – dann wird es noch cremiger.",
+          "naehrwerte": {
+            "kcal": 340,
+            "eiweiss": 20,
+            "kohlenhydrate": 26,
+            "fett": 17
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Creamy soft scrambled eggs with chopped chives on toasted wholegrain bread, top-down view, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 5,
+          "titel": "Avocado-Toast mit Spiegelei",
+          "teaser": "Der Instagram-Klassiker zum Selbermachen: knuspriges Brot, cremige Avocado und ein Spiegelei obendrauf. Sieht teuer aus, ist es aber nicht.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "1 reife Avocado",
+            "½ Zitrone",
+            "2 Scheiben Vollkornbrot",
+            "2 Eier",
+            "1 Prise Chiliflocken"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Öl"
+          ],
+          "schritte": [
+            "Halbiere die Avocado: Schneide sie längs rundherum bis zum Kern ein und dreh die Hälften gegeneinander. Lös den Kern mit einem Löffel heraus.",
+            "Kratz das Fruchtfleisch mit einem Löffel in eine Schüssel, presse den Zitronensaft dazu und zerdrücke alles mit einer Gabel. Würze mit Salz und Pfeffer.",
+            "Toaste das Brot im Toaster, bis es knusprig ist.",
+            "Erhitze 1 EL Öl in einer Pfanne auf mittlerer Hitze. Schlag die Eier hinein und brate sie 3–4 Minuten, bis das Eiweiß komplett weiß und fest ist.",
+            "Streich die Avocadocreme auf das Brot, leg je ein Spiegelei darauf und würze mit Salz und Chiliflocken."
+          ],
+          "tipp": "Eine Avocado ist reif, wenn sie auf leichten Druck etwas nachgibt. Harte Avocados reifen in 1–2 Tagen neben einem Apfel nach.",
+          "variante": "Statt Spiegelei passen auch Kirschtomaten und Feta-Krümel auf den Toast.",
+          "naehrwerte": {
+            "kcal": 390,
+            "eiweiss": 14,
+            "kohlenhydrate": 24,
+            "fett": 26
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Two slices of wholegrain toast topped with mashed avocado, a sunny-side-up fried egg and chili flakes, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 6,
+          "titel": "Frühstücks-Burrito",
+          "teaser": "Rührei, Käse und Gemüse eingewickelt in eine Tortilla: Der Burrito ist das perfekte Frühstück zum Mitnehmen, wenn du mal wieder spät dran bist.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 große Weizentortillas",
+            "4 Eier",
+            "60 g geriebener Gouda",
+            "1 Tomate",
+            "2 Frühlingszwiebeln"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Öl"
+          ],
+          "schritte": [
+            "Wasch die Tomate und die Frühlingszwiebeln. Schneide die Tomate in kleine Würfel und die Frühlingszwiebeln in dünne Ringe – das Messer dabei immer vom Körper weg führen.",
+            "Verquirle die Eier mit Salz und Pfeffer. Erhitze 1 EL Öl in einer Pfanne auf mittlerer Hitze und brate die Frühlingszwiebeln 1 Minute an.",
+            "Gib die Eier dazu und rühre sie 2–3 Minuten, bis sie fest und nicht mehr flüssig sind. Nimm die Pfanne vom Herd.",
+            "Wärm die Tortillas nacheinander 20 Sekunden pro Seite in einer zweiten trockenen Pfanne oder in der Mikrowelle an, damit sie beim Rollen nicht reißen.",
+            "Verteile Rührei, Tomatenwürfel und Käse in der Mitte der Tortillas. Klapp die Seiten ein und roll den Burrito von unten fest auf."
+          ],
+          "tipp": "Wickle den Burrito in Alufolie oder Backpapier – so kannst du ihn unterwegs essen, ohne dass etwas herausfällt.",
+          "variante": "Für eine Tex-Mex-Version gibst du noch 3 EL Kidneybohnen aus der Dose und etwas Salsa dazu.",
+          "naehrwerte": {
+            "kcal": 460,
+            "eiweiss": 25,
+            "kohlenhydrate": 36,
+            "fett": 23
+          },
+          "tags": [
+            "vegetarisch",
+            "Lunchbox"
+          ],
+          "foto_prompt": "A breakfast burrito cut in half showing scrambled eggs, melted cheese, diced tomato and spring onions, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 7,
+          "titel": "Bananen-Hafer-Muffins",
+          "teaser": "Saftige Muffins fast ohne Zucker – die Süße kommt von den Bananen. Perfekt für ein schnelles Frühstück oder als Snack für die Schultasche.",
+          "zeit_min": 30,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 sehr reife Bananen",
+            "2 Eier",
+            "150 g zarte Haferflocken",
+            "1 TL Backpulver",
+            "50 g Schokotropfen"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz"
+          ],
+          "schritte": [
+            "Heize den Backofen auf 180 °C Ober-/Unterhitze vor. Fette 8 Mulden eines Muffinblechs mit etwas Öl ein oder setz Papierförmchen hinein.",
+            "Schäl die Bananen und zerdrücke sie in einer Schüssel mit einer Gabel zu Mus.",
+            "Rühre Eier, 3 EL Öl und eine Prise Salz unter. Gib dann Haferflocken und Backpulver dazu und vermische alles zu einem dicken Teig. Heb zum Schluss die Schokotropfen unter.",
+            "Verteile den Teig mit zwei Esslöffeln auf die Mulden, sodass sie etwa zu drei Vierteln voll sind.",
+            "Back die Muffins 18–20 Minuten auf der mittleren Schiene, bis sie goldbraun sind. Mach die Stäbchenprobe: Stich mit einem Holzspieß hinein – kommt er ohne Teig heraus, sind sie fertig.",
+            "Hol das Blech mit Ofenhandschuhen heraus und lass die Muffins 5 Minuten in der Form abkühlen, bevor du sie herausnimmst."
+          ],
+          "tipp": "Je brauner die Bananenschale, desto süßer und aromatischer werden die Muffins – perfekt, um überreife Bananen zu retten.",
+          "variante": "Statt Schokotropfen kannst du auch gehackte Walnüsse oder Heidelbeeren in den Teig geben.",
+          "naehrwerte": {
+            "kcal": 290,
+            "eiweiss": 9,
+            "kohlenhydrate": 38,
+            "fett": 11
+          },
+          "tags": [
+            "vegetarisch",
+            "Meal-Prep",
+            "Lunchbox",
+            "Airfryer-geeignet"
+          ],
+          "foto_prompt": "Golden banana oat muffins with chocolate chips on a cooling rack, one broken open, 45° angle, bright natural light, modern casual kitchen table, no text, no people."
+        },
+        {
+          "nr": 8,
+          "titel": "Joghurt-Bowl mit Pfannen-Granola",
+          "teaser": "Knuspriges Granola in 10 Minuten – ganz ohne Backofen. Auf cremigem Joghurt mit Beeren wird daraus eine Bowl wie im Café.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "80 g kernige Haferflocken",
+            "30 g gehackte Haselnüsse",
+            "1 EL Honig",
+            "300 g Joghurt griechischer Art",
+            "150 g Beeren (frisch oder TK, aufgetaut)"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz"
+          ],
+          "schritte": [
+            "Erhitze 1 EL Öl in einer Pfanne auf mittlerer Hitze. Gib Haferflocken, Haselnüsse und eine Prise Salz dazu.",
+            "Röste alles 4–5 Minuten und rühr dabei ständig um, bis die Haferflocken goldbraun sind und nussig duften.",
+            "Träufle den Honig darüber und rühr noch 1 Minute weiter, bis alles leicht verklebt. Achtung, Honig verbrennt schnell – lieber etwas runter mit der Hitze.",
+            "Kipp das Granola auf einen Teller mit Backpapier und lass es 5 Minuten abkühlen. Dabei wird es richtig knusprig.",
+            "Verteile den Joghurt auf zwei Schüsseln, gib die Beeren darauf und streu das Granola darüber."
+          ],
+          "tipp": "Mach gleich die doppelte Menge Granola und bewahr den Rest in einem Schraubglas auf – es bleibt etwa eine Woche knusprig.",
+          "variante": "Für eine Schoko-Version rührst du 1 TL Kakao unter das Granola, bevor du den Honig dazugibst.",
+          "naehrwerte": {
+            "kcal": 470,
+            "eiweiss": 20,
+            "kohlenhydrate": 42,
+            "fett": 24
+          },
+          "tags": [
+            "vegetarisch",
+            "Meal-Prep"
+          ],
+          "foto_prompt": "A bowl of thick Greek yogurt topped with mixed berries and golden homemade granola clusters, top-down view, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 9,
+          "titel": "Tassen-Omelett aus der Mikrowelle",
+          "teaser": "Kein Herd, keine Pfanne, kaum Abwasch: Dieses Omelett ist in drei Minuten fertig und wird direkt aus der Tasse gelöffelt.",
+          "zeit_min": 8,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "4 Eier",
+            "4 EL Milch",
+            "2 Scheiben Kochschinken",
+            "½ rote Paprika",
+            "40 g geriebener Gouda"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Öl"
+          ],
+          "schritte": [
+            "Pinsle zwei große, mikrowellengeeignete Tassen innen mit etwas Öl aus, damit nichts kleben bleibt.",
+            "Schneide Schinken und Paprika in kleine Würfel.",
+            "Schlag in jede Tasse 2 Eier, gib je 2 EL Milch, Salz und Pfeffer dazu und verquirle alles mit einer Gabel. Rühr Schinken, Paprika und Käse unter.",
+            "Stell eine Tasse in die Mikrowelle und gare sie bei 800 Watt 1 Minute. Rühr einmal um und gare sie weitere 30–60 Sekunden, bis das Ei komplett gestockt ist und nicht mehr flüssig aussieht.",
+            "Die Tasse wird sehr heiß – nimm sie mit einem Ofenhandschuh heraus. Wiederhole das Ganze mit der zweiten Tasse."
+          ],
+          "tipp": "Die Tasse sollte höchstens halb voll sein, denn das Omelett geht in der Mikrowelle ordentlich auf.",
+          "variante": "Für die vegetarische Version ersetzt du den Schinken durch Mais aus der Dose oder Babyspinat.",
+          "naehrwerte": {
+            "kcal": 280,
+            "eiweiss": 22,
+            "kohlenhydrate": 4,
+            "fett": 19
+          },
+          "tags": [
+            "Mikrowelle"
+          ],
+          "foto_prompt": "Two mugs filled with fluffy microwave omelette with ham, red pepper and melted cheese, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 10,
+          "titel": "Apfel-Zimt-Porridge",
+          "teaser": "Warm, cremig und duftet nach Apfelkuchen: Dieses Porridge ist das perfekte Frühstück für kalte Herbst- und Wintermorgen.",
+          "zeit_min": 12,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "100 g zarte Haferflocken",
+            "400 ml Milch",
+            "1 Apfel",
+            "1 TL Zimt",
+            "1 EL Honig"
+          ],
+          "vorrat": [
+            "Salz"
+          ],
+          "schritte": [
+            "Wasch den Apfel, viertele ihn, schneide das Kerngehäuse heraus und raspel eine Hälfte grob. Schneide die andere Hälfte in kleine Würfel.",
+            "Gib Milch, Haferflocken, den geraspelten Apfel, ½ TL Zimt und eine Prise Salz in einen Topf.",
+            "Bring alles auf mittlerer Hitze zum Köcheln und rühre dabei immer wieder um, damit nichts am Boden ansetzt.",
+            "Lass das Porridge 4–5 Minuten leise köcheln, bis es dick und cremig ist. Ist es zu fest, rühr einen Schuss Wasser oder Milch unter.",
+            "Verteile das Porridge auf zwei Schüsseln, streu die Apfelwürfel und den restlichen Zimt darüber und träufle den Honig darauf."
+          ],
+          "tipp": "Eine Prise Salz klingt komisch, ist aber der Trick: Sie macht das Porridge aromatischer und lässt den Apfel süßer schmecken.",
+          "variante": "Im Sommer kannst du statt Apfel auch eine Birne oder eine Handvoll Beeren nehmen.",
+          "naehrwerte": {
+            "kcal": 370,
+            "eiweiss": 13,
+            "kohlenhydrate": 58,
+            "fett": 9
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Two bowls of creamy oatmeal porridge topped with diced apple, cinnamon and a drizzle of honey, top-down view, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 11,
+          "titel": "Bagel mit Frischkäse und Gurke",
+          "teaser": "Frisch, knackig und in fünf Minuten fertig: Der Bagel-Klassiker aus New York schmeckt zum Frühstück genauso gut wie in der Pause.",
+          "zeit_min": 8,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 Bagels",
+            "100 g Frischkäse",
+            "½ Salatgurke",
+            "½ Bund Schnittlauch"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Schneide die Bagels waagerecht mit einem Brotmesser auf. Halte den Bagel dabei flach auf dem Brett und schneide vom Körper weg.",
+            "Toaste die Bagelhälften im Toaster, bis sie leicht gebräunt sind.",
+            "Schneide den Schnittlauch mit einer Küchenschere in feine Röllchen und rühr die Hälfte unter den Frischkäse. Würze mit Salz und Pfeffer.",
+            "Wasch die Gurke und schneide sie in dünne Scheiben.",
+            "Bestreich die Bagelhälften dick mit dem Frischkäse, leg die Gurkenscheiben darauf, streu den restlichen Schnittlauch darüber und klapp sie zusammen."
+          ],
+          "tipp": "Tupf die Gurkenscheiben kurz mit Küchenpapier ab – dann weicht der Bagel in der Brotdose nicht durch.",
+          "variante": "Mit ein paar Scheiben Putenbrust oder Räucherlachs aus der Packung wird der Bagel noch herzhafter.",
+          "naehrwerte": {
+            "kcal": 360,
+            "eiweiss": 12,
+            "kohlenhydrate": 52,
+            "fett": 11
+          },
+          "tags": [
+            "vegetarisch",
+            "ohne Herd",
+            "Lunchbox"
+          ],
+          "foto_prompt": "Two toasted bagels with thick cream cheese, thin cucumber slices and chives, one cut in half, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 12,
+          "titel": "Shakshuka – Eier in Tomatensauce",
+          "teaser": "Eier, die in würziger Tomatensauce garen: Shakshuka kommt aus Nordafrika und ist das perfekte Brunch-Gericht, wenn Freunde da sind.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€",
+          "zutaten": [
+            "1 Zwiebel",
+            "1 rote Paprika",
+            "1 Dose stückige Tomaten (400 g)",
+            "1 TL Paprikapulver edelsüß",
+            "4 Eier"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer",
+            "Zucker"
+          ],
+          "schritte": [
+            "Schäl die Zwiebel und schneide sie in feine Würfel. Wasch die Paprika, entferne die Kerne und schneide sie in kleine Stücke.",
+            "Erhitze 2 EL Öl in einer großen Pfanne auf mittlerer Hitze. Brate Zwiebel und Paprika darin 5 Minuten, bis die Zwiebel glasig und die Paprika weich ist.",
+            "Rühr Paprikapulver ein, gib die Tomaten dazu und würze mit Salz, Pfeffer und einer Prise Zucker. Lass die Sauce 5 Minuten köcheln, bis sie etwas eindickt.",
+            "Drück mit einem Löffel vier kleine Mulden in die Sauce und schlag in jede vorsichtig ein Ei.",
+            "Leg einen Deckel auf die Pfanne und lass alles auf niedriger bis mittlerer Hitze 6–8 Minuten garen, bis das Eiweiß komplett weiß und fest ist.",
+            "Würze die Eier mit etwas Salz und Pfeffer und stell die Pfanne direkt auf den Tisch – Vorsicht, der Griff ist heiß!"
+          ],
+          "tipp": "Dazu passt Fladenbrot oder Baguette, mit dem du die Sauce aufstippen kannst – das ist eigentlich das Beste daran.",
+          "variante": "Für mehr Schärfe gibst du eine Prise Chiliflocken oder etwas Kreuzkümmel in die Sauce.",
+          "naehrwerte": {
+            "kcal": 300,
+            "eiweiss": 17,
+            "kohlenhydrate": 16,
+            "fett": 19
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Shakshuka in a cast iron pan with four poached eggs in a rich tomato and red pepper sauce, top-down view, bright natural light, modern casual table, no text, no people."
+        }
+      ]
+    },
+    {
+      "nr": 2,
+      "titel": "Pausensnacks & Lunchbox",
+      "untertitel": "Schluss mit langweiligen Pausenbroten",
+      "intro": "Das gleiche Käsebrot jeden Tag? Muss nicht sein. In diesem Kapitel findest du Snacks und Mittagessen, die du ganz einfach in die Brotdose packen kannst – und um die dich deine Freunde in der Pause beneiden werden. Von Wrap-Schnecken über Onigiri bis zu Energy-Balls ist alles dabei, was satt macht und trotzdem schmeckt. Viele Rezepte kannst du am Abend vorher oder am Sonntag für mehrere Tage vorbereiten. Achte auf das Meal-Prep-Zeichen! Und einige Snacks eignen sich auch perfekt für den Filmabend oder die nächste Party mit deinen Leuten.",
+      "rezepte": [
+        {
+          "nr": 13,
+          "titel": "Wrap-Schnecken mit Frischkäse und Schinken",
+          "teaser": "Aufgerollt, aufgeschnitten, fertig: Die bunten Schnecken sehen in der Brotdose richtig cool aus und sind in zehn Minuten gemacht.",
+          "zeit_min": 10,
+          "wartezeit": "plus 15 Minuten im Kühlschrank (optional)",
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 große Weizentortillas",
+            "100 g Frischkäse",
+            "4 Scheiben Kochschinken",
+            "1 Handvoll Babyspinat"
+          ],
+          "vorrat": [
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Leg die Tortillas flach auf ein Brett und bestreich sie bis zum Rand dünn mit Frischkäse. Würze mit etwas Pfeffer.",
+            "Verteile je 2 Scheiben Schinken auf den Tortillas und leg den gewaschenen, gut abgetropften Babyspinat darauf.",
+            "Roll die Tortillas von einer Seite aus möglichst fest auf. Der Frischkäse am Rand wirkt wie Kleber.",
+            "Wickel die Rollen in Frischhaltefolie und leg sie 15 Minuten in den Kühlschrank – dann lassen sie sich sauberer schneiden.",
+            "Schneide die Rollen mit einem scharfen Messer in etwa 2 cm breite Scheiben. Schneide dabei mit sägenden Bewegungen und halte die Finger vom Messer weg."
+          ],
+          "tipp": "Lass an einem Rand 2 cm Frischkäse ohne Belag – so klebt die Rolle am Ende perfekt zu.",
+          "variante": "Vegetarisch wird es mit Paprikastreifen und geriebenen Karotten statt Schinken.",
+          "naehrwerte": {
+            "kcal": 330,
+            "eiweiss": 15,
+            "kohlenhydrate": 30,
+            "fett": 16
+          },
+          "tags": [
+            "ohne Herd",
+            "Lunchbox",
+            "Party"
+          ],
+          "foto_prompt": "Colorful tortilla pinwheels filled with cream cheese, ham and baby spinach arranged on a board, top-down view, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 14,
+          "titel": "Lunchbox-Nudelsalat",
+          "teaser": "Nudeln, Tomaten, Mozzarella und Pesto – dieser Salat schmeckt kalt sogar noch besser als warm und ist der Star in jeder Brotdose.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "200 g Fusilli",
+            "150 g Kirschtomaten",
+            "125 g Mini-Mozzarella-Kugeln",
+            "3 EL grünes Pesto"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Öl"
+          ],
+          "schritte": [
+            "Bring in einem großen Topf reichlich Wasser zum Kochen und salze es kräftig. Koch die Nudeln nach Packungsanweisung, bis sie bissfest sind.",
+            "Gieß die Nudeln in ein Sieb ab – Vorsicht vor dem heißen Dampf – und spül sie kurz mit kaltem Wasser ab, damit sie schneller abkühlen und nicht zusammenkleben.",
+            "Wasch die Kirschtomaten und halbiere sie. Lass die Mozzarella-Kugeln abtropfen.",
+            "Vermische Nudeln, Tomaten und Mozzarella in einer Schüssel mit dem Pesto und 1 EL Öl. Schmeck mit Salz und Pfeffer ab.",
+            "Füll den Salat in zwei Brotdosen und stell ihn bis zum nächsten Tag in den Kühlschrank."
+          ],
+          "tipp": "Nudeln saugen über Nacht Soße auf – heb also 1 EL Pesto auf und rühr ihn morgens noch unter.",
+          "variante": "Mit rotem Pesto und ein paar Oliven bekommt der Salat einen ganz anderen Geschmack.",
+          "naehrwerte": {
+            "kcal": 590,
+            "eiweiss": 23,
+            "kohlenhydrate": 76,
+            "fett": 21
+          },
+          "tags": [
+            "vegetarisch",
+            "Meal-Prep",
+            "Lunchbox"
+          ],
+          "foto_prompt": "Pasta salad with fusilli, halved cherry tomatoes, mini mozzarella balls and green pesto in a lunchbox, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 15,
+          "titel": "Club-Sandwich",
+          "teaser": "Drei Etagen Toast, dazwischen Pute, Tomate und Salat: Das Club-Sandwich ist der Hotel-Klassiker, den du ganz leicht zu Hause hinbekommst.",
+          "zeit_min": 12,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "6 Scheiben Toastbrot",
+            "100 g Putenbrust-Aufschnitt",
+            "1 Tomate",
+            "4 Blätter Eisbergsalat",
+            "2 EL Mayonnaise"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Toaste die Toastscheiben im Toaster, bis sie goldbraun und knusprig sind.",
+            "Wasch Tomate und Salat. Schneide die Tomate in dünne Scheiben und tupf den Salat trocken.",
+            "Bestreich alle Toastscheiben auf einer Seite dünn mit Mayonnaise.",
+            "Belege eine Scheibe mit Salat, Putenbrust und Tomate, würze mit Salz und Pfeffer und leg eine zweite Scheibe darauf. Wiederhole den Belag und schließe mit der dritten Scheibe ab.",
+            "Drück das Sandwich leicht an, steck zwei Zahnstocher hinein und schneide es diagonal in zwei Dreiecke."
+          ],
+          "tipp": "Die Zahnstocher halten die Etagen zusammen – vor dem Reinbeißen aber unbedingt wieder herausziehen!",
+          "variante": "Statt Putenbrust passen auch Ei-Scheiben von hart gekochten Eiern und eine Scheibe Käse.",
+          "naehrwerte": {
+            "kcal": 430,
+            "eiweiss": 21,
+            "kohlenhydrate": 50,
+            "fett": 16
+          },
+          "tags": [
+            "ohne Herd",
+            "Lunchbox"
+          ],
+          "foto_prompt": "A triple-decker club sandwich with turkey, tomato and lettuce cut into triangles held with toothpicks, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 16,
+          "titel": "Hummus selbst gemacht mit Gemüsesticks",
+          "teaser": "Selbst gemachter Hummus ist cremiger, günstiger und schmeckt viel besser als der aus dem Becher. Mit Karottensticks wird daraus ein Snack, den du nicht mehr hergeben willst.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "1 Dose Kichererbsen (400 g)",
+            "2 EL Tahin (Sesammus)",
+            "½ Zitrone",
+            "1 kleine Knoblauchzehe",
+            "3 Karotten"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Wasser"
+          ],
+          "schritte": [
+            "Gieß die Kichererbsen in ein Sieb, spül sie kurz unter kaltem Wasser ab und lass sie gut abtropfen.",
+            "Schäl den Knoblauch und press den Saft der halben Zitrone aus.",
+            "Gib Kichererbsen, Tahin, Zitronensaft, Knoblauch, 2 EL Öl, ½ TL Salz und 3 EL kaltes Wasser in einen hohen Becher und püriere alles mit dem Pürierstab 2–3 Minuten, bis der Hummus glatt und cremig ist.",
+            "Ist der Hummus zu fest, gib löffelweise mehr Wasser dazu. Schmeck mit Salz und Zitronensaft ab.",
+            "Schäl die Karotten, schneide sie zuerst halb und dann längs in Sticks. Schneide dabei immer vom Körper weg.",
+            "Füll den Hummus in eine Schale, träufle etwas Öl darüber und serviere die Karottensticks dazu."
+          ],
+          "tipp": "Eiskaltes Wasser ist der Geheimtrick für extra fluffigen Hummus – damit wird er fast so luftig wie im Restaurant.",
+          "variante": "Kein Tahin im Haus? Dann nimm 1 EL Erdnussbutter – schmeckt anders, aber auch richtig lecker.",
+          "naehrwerte": {
+            "kcal": 380,
+            "eiweiss": 13,
+            "kohlenhydrate": 38,
+            "fett": 19
+          },
+          "tags": [
+            "vegan",
+            "ohne Herd",
+            "Lunchbox",
+            "Meal-Prep",
+            "Party"
+          ],
+          "foto_prompt": "A bowl of smooth homemade hummus drizzled with olive oil surrounded by carrot sticks, top-down view, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 17,
+          "titel": "Pizzaschnecken aus Blätterteig",
+          "teaser": "Knusprig, käsig und in 25 Minuten aus dem Ofen: Pizzaschnecken sind der Hit auf jeder Party und schmecken auch kalt in der Pause.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "1 Rolle Blätterteig (Kühlregal, ca. 275 g)",
+            "100 g passierte Tomaten",
+            "1 TL getrockneter Oregano",
+            "80 g Salami in Scheiben",
+            "100 g geriebener Gouda"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Heize den Backofen auf 200 °C Ober-/Unterhitze vor und leg ein Backblech mit Backpapier aus.",
+            "Rühr die passierten Tomaten mit Oregano, Salz und Pfeffer in einer kleinen Schüssel zusammen.",
+            "Roll den Blätterteig auf seinem Papier aus und bestreich ihn mit der Tomatensoße. Lass an einer langen Seite 2 cm frei.",
+            "Verteile Salami und Käse darauf und roll den Teig von der belegten langen Seite her fest auf.",
+            "Schneide die Rolle mit einem scharfen Messer in etwa 12 gleich dicke Scheiben und leg sie mit etwas Abstand flach aufs Blech.",
+            "Back die Schnecken 13–15 Minuten, bis sie aufgegangen und goldbraun sind. Hol das Blech mit Ofenhandschuhen heraus."
+          ],
+          "tipp": "Leg die Rolle vor dem Schneiden 5 Minuten ins Gefrierfach – dann quetschst du die Schnecken beim Schneiden nicht platt.",
+          "variante": "Für eine vegetarische Version nimmst du statt Salami Mais und klein geschnittene Paprika.",
+          "naehrwerte": {
+            "kcal": 420,
+            "eiweiss": 13,
+            "kohlenhydrate": 26,
+            "fett": 29
+          },
+          "tags": [
+            "Party",
+            "Lunchbox",
+            "Airfryer-geeignet"
+          ],
+          "foto_prompt": "Golden puff pastry pizza pinwheels with tomato sauce, salami and melted cheese on a baking tray, top-down view, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 18,
+          "titel": "Schoko-Energy-Balls",
+          "teaser": "Kleine Kugeln mit großer Wirkung: Diese Energy-Balls schmecken wie Pralinen, liefern aber Energie für Sport und Mathe-Test.",
+          "zeit_min": 15,
+          "wartezeit": "plus 30 Minuten im Kühlschrank",
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "100 g Datteln (entsteint)",
+            "80 g zarte Haferflocken",
+            "2 EL Erdnussbutter",
+            "2 EL Backkakao",
+            "2 EL Kokosraspeln"
+          ],
+          "vorrat": [
+            "Salz",
+            "Wasser"
+          ],
+          "schritte": [
+            "Leg die Datteln 5 Minuten in eine Schüssel mit heißem Wasser aus dem Wasserkocher, damit sie weich werden. Gieß das Wasser danach ab.",
+            "Gib Datteln, Haferflocken, Erdnussbutter, Kakao und eine Prise Salz in einen hohen Becher oder Zerkleinerer.",
+            "Püriere alles, bis eine klebrige Masse entsteht, die zusammenhält, wenn du sie zwischen den Fingern drückst. Ist sie zu trocken, gib 1 EL Wasser dazu.",
+            "Form mit feuchten Händen etwa 12 walnussgroße Kugeln.",
+            "Wälze die Kugeln in den Kokosraspeln und stell sie mindestens 30 Minuten in den Kühlschrank, bis sie fest sind."
+          ],
+          "tipp": "In einer Dose halten die Energy-Balls im Kühlschrank etwa eine Woche – ideal für die ganze Schulwoche.",
+          "variante": "Statt in Kokosraspeln kannst du die Kugeln auch in gehackten Nüssen oder Kakao wälzen.",
+          "naehrwerte": {
+            "kcal": 260,
+            "eiweiss": 7,
+            "kohlenhydrate": 34,
+            "fett": 10
+          },
+          "tags": [
+            "vegan",
+            "ohne Herd",
+            "Meal-Prep",
+            "Lunchbox"
+          ],
+          "foto_prompt": "Chocolate energy balls rolled in shredded coconut on a small plate, a few cut in half, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 19,
+          "titel": "Couscous-Salat mit Feta",
+          "teaser": "Couscous musst du nicht kochen – nur mit heißem Wasser übergießen. Mit Feta, Gurke und Tomaten wird daraus ein frischer Salat für die Brotdose.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "150 g Couscous",
+            "½ Salatgurke",
+            "150 g Kirschtomaten",
+            "100 g Feta",
+            "1 Zitrone"
+          ],
+          "vorrat": [
+            "Wasser",
+            "Salz",
+            "Pfeffer",
+            "Öl"
+          ],
+          "schritte": [
+            "Gib den Couscous mit ½ TL Salz in eine Schüssel und übergieß ihn mit 200 ml kochendem Wasser aus dem Wasserkocher. Deck die Schüssel mit einem Teller ab und lass ihn 5 Minuten quellen.",
+            "Wasch Gurke und Tomaten. Schneide die Gurke in kleine Würfel und halbiere die Tomaten.",
+            "Press die Zitrone aus und verrühre 3 EL Zitronensaft mit 3 EL Öl, Salz und Pfeffer zu einem Dressing.",
+            "Lockere den Couscous mit einer Gabel auf, bis keine Klumpen mehr da sind, und lass ihn kurz abkühlen.",
+            "Misch Gurke, Tomaten und Dressing unter und zerbröckle den Feta darüber."
+          ],
+          "tipp": "Wenn du den Salat für den nächsten Tag vorbereitest, gib den Feta erst morgens dazu – dann bleibt er schön stückig.",
+          "variante": "Mit einer Dose abgetropfter Kichererbsen wird der Salat noch sättigender.",
+          "naehrwerte": {
+            "kcal": 500,
+            "eiweiss": 18,
+            "kohlenhydrate": 62,
+            "fett": 20
+          },
+          "tags": [
+            "vegetarisch",
+            "ohne Herd",
+            "Meal-Prep",
+            "Lunchbox"
+          ],
+          "foto_prompt": "A bowl of couscous salad with diced cucumber, halved cherry tomatoes and crumbled feta, top-down view, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 20,
+          "titel": "Chicken-Caesar-Wrap",
+          "teaser": "Knackiger Salat, saftiges Hähnchen und das berühmte Caesar-Dressing – alles eingerollt in einen Wrap, den du überallhin mitnehmen kannst.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€€",
+          "zutaten": [
+            "1 Hähnchenbrustfilet (ca. 250 g)",
+            "2 große Weizentortillas",
+            "1 Romanasalatherz",
+            "30 g geriebener Parmesan",
+            "3 EL Caesar-Dressing (fertig)"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Schneide das Hähnchen auf einem eigenen Brett in fingerdicke Streifen und würze es mit Salz und Pfeffer. Wasch danach Brett, Messer und Hände gründlich.",
+            "Erhitze 1 EL Öl in einer Pfanne auf mittlerer bis hoher Hitze und brate die Hähnchenstreifen 6–8 Minuten rundherum an.",
+            "Schneide ein dickes Stück auf: Das Fleisch muss innen komplett weiß sein und darf nicht mehr rosa sein. Erst dann ist es durchgegart.",
+            "Wasch den Salat, schüttel ihn trocken und schneide ihn in feine Streifen. Vermische ihn in einer Schüssel mit dem Dressing und dem Parmesan.",
+            "Wärm die Tortillas kurz in der Pfanne oder Mikrowelle an. Verteile Salat und Hähnchen darauf, klapp die Seiten ein und roll die Wraps fest auf."
+          ],
+          "tipp": "Wenn der Wrap in die Brotdose soll, lass das Hähnchen vorher komplett abkühlen – sonst wird der Salat schlapp.",
+          "variante": "Für die vegetarische Version nimmst du geröstete Kichererbsen aus der Pfanne statt Hähnchen.",
+          "naehrwerte": {
+            "kcal": 520,
+            "eiweiss": 40,
+            "kohlenhydrate": 38,
+            "fett": 22
+          },
+          "tags": [
+            "Lunchbox"
+          ],
+          "foto_prompt": "A chicken Caesar wrap cut in half showing grilled chicken strips, crisp romaine lettuce and parmesan, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 21,
+          "titel": "Herzhafte Käse-Schinken-Muffins",
+          "teaser": "Muffins müssen nicht süß sein: Diese hier sind voller Käse und Schinken und machen in der großen Pause viel länger satt als ein Schokoriegel.",
+          "zeit_min": 30,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "200 g Mehl",
+            "2 TL Backpulver",
+            "2 Eier",
+            "100 g Kochschinkenwürfel",
+            "100 g geriebener Gouda"
+          ],
+          "vorrat": [
+            "Öl",
+            "Wasser",
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Heize den Backofen auf 180 °C Ober-/Unterhitze vor. Fette 10 Mulden eines Muffinblechs mit Öl ein oder setz Papierförmchen hinein.",
+            "Vermische Mehl, Backpulver, ½ TL Salz und etwas Pfeffer in einer Schüssel.",
+            "Verquirle in einer zweiten Schüssel die Eier mit 80 ml Öl und 120 ml Wasser.",
+            "Gieß die flüssige Mischung zum Mehl und rühr nur so lange, bis alles gerade feucht ist. Heb Schinken und ¾ des Käses unter.",
+            "Verteile den Teig auf die Mulden, streu den restlichen Käse darüber und back die Muffins 18–20 Minuten, bis sie goldbraun sind und bei der Stäbchenprobe kein Teig mehr am Holzspieß klebt.",
+            "Hol das Blech mit Ofenhandschuhen heraus und lass die Muffins kurz in der Form abkühlen."
+          ],
+          "tipp": "Nicht zu lange rühren! Wenn du den Teig zu viel bearbeitest, werden die Muffins fest statt locker.",
+          "variante": "Statt Schinken kannst du gewürfelte Paprika und Mais nehmen – dann sind sie vegetarisch.",
+          "naehrwerte": {
+            "kcal": 500,
+            "eiweiss": 20,
+            "kohlenhydrate": 40,
+            "fett": 29
+          },
+          "tags": [
+            "Meal-Prep",
+            "Lunchbox",
+            "Party",
+            "Airfryer-geeignet"
+          ],
+          "foto_prompt": "Savory cheese and ham muffins with golden melted cheese tops on a wooden board, one broken open, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 22,
+          "titel": "Reiswaffeln mit Erdnussbutter und Banane",
+          "teaser": "Knusprig, cremig, süß: Der schnellste Snack im ganzen Buch ist in fünf Minuten fertig und gibt dir Power für den Nachmittag.",
+          "zeit_min": 5,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "4 Vollkorn-Reiswaffeln",
+            "2 EL Erdnussbutter",
+            "1 Banane",
+            "½ TL Zimt"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Leg die Reiswaffeln nebeneinander auf ein Brett.",
+            "Bestreich jede Reiswaffel vorsichtig mit etwa ½ EL Erdnussbutter. Am besten geht das mit dem Rücken eines Teelöffels, dann brechen die Waffeln nicht.",
+            "Schäl die Banane und schneide sie in dünne Scheiben.",
+            "Verteile die Bananenscheiben auf den Reiswaffeln.",
+            "Streu zum Schluss etwas Zimt darüber und iss die Waffeln gleich, solange sie knusprig sind."
+          ],
+          "tipp": "Für die Brotdose packst du Reiswaffeln und Belag getrennt ein und belegst sie erst in der Pause – sonst werden sie weich.",
+          "variante": "Statt Erdnussbutter schmeckt auch Frischkäse mit Erdbeeren richtig lecker.",
+          "naehrwerte": {
+            "kcal": 230,
+            "eiweiss": 6,
+            "kohlenhydrate": 30,
+            "fett": 9
+          },
+          "tags": [
+            "vegan",
+            "ohne Herd"
+          ],
+          "foto_prompt": "Wholegrain rice cakes spread with peanut butter and topped with banana slices and a dusting of cinnamon, top-down view, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 23,
+          "titel": "Onigiri mit Thunfisch",
+          "teaser": "Onigiri sind japanische Reisbällchen und das Lieblings-Pausenessen in Japan. Mit Thunfisch-Mayo gefüllt werden sie auch bei dir zum Lunchbox-Liebling.",
+          "zeit_min": 30,
+          "wartezeit": "plus 10 Minuten Abkühlen",
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€€",
+          "zutaten": [
+            "200 g Sushireis",
+            "1 Dose Thunfisch im eigenen Saft (ca. 150 g)",
+            "2 EL Mayonnaise",
+            "1 EL Sojasauce",
+            "2 Blätter Nori-Algen"
+          ],
+          "vorrat": [
+            "Wasser",
+            "Salz",
+            "Zucker"
+          ],
+          "schritte": [
+            "Gib den Reis in ein Sieb und spül ihn unter kaltem Wasser, bis das Wasser fast klar ist.",
+            "Bring den Reis mit 250 ml Wasser in einem Topf mit Deckel zum Kochen, schalte auf niedrige Hitze und lass ihn 12 Minuten garen. Nimm den Topf vom Herd und lass den Reis mit Deckel 10 Minuten quellen.",
+            "Lass den Thunfisch gut abtropfen und vermische ihn mit Mayonnaise und Sojasauce.",
+            "Rühr ½ TL Salz und 1 TL Zucker unter den Reis und lass ihn abkühlen, bis du ihn gut anfassen kannst.",
+            "Mach deine Hände nass und reib sie mit etwas Salz ein. Nimm eine Handvoll Reis, drück eine Mulde hinein, gib 1 TL Thunfisch hinein und form den Reis darum zu einem Dreieck.",
+            "Schneide die Nori-Blätter in Streifen und wickle je einen Streifen unten um die Onigiri."
+          ],
+          "tipp": "Nasse, gesalzene Hände sind der Trick – so klebt der Reis nicht an den Fingern und die Onigiri bekommen gleich etwas Geschmack.",
+          "variante": "Statt Thunfisch kannst du auch Frischkäse mit etwas Gurke als Füllung nehmen.",
+          "naehrwerte": {
+            "kcal": 520,
+            "eiweiss": 24,
+            "kohlenhydrate": 86,
+            "fett": 9
+          },
+          "tags": [
+            "Lunchbox"
+          ],
+          "foto_prompt": "Triangle-shaped Japanese onigiri rice balls wrapped with nori strips, one cut open to show tuna mayo filling, 45° angle, bright natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 24,
+          "titel": "Apfel-Nachos",
+          "teaser": "Nachos mal anders: knackige Apfelscheiben statt Chips, dazu Erdnussbutter, Schokolade und Kokos. Ein Snack, über den sich jeder freut.",
+          "zeit_min": 10,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 Äpfel",
+            "½ Zitrone",
+            "2 EL Erdnussbutter",
+            "20 g Zartbitterschokolade",
+            "1 EL Kokosraspeln"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Wasch die Äpfel, halbiere sie und schneide das Kerngehäuse heraus. Leg die Hälften mit der flachen Seite aufs Brett und schneide sie in dünne Scheiben – so rutschen sie nicht weg.",
+            "Leg die Apfelscheiben fächerartig auf einen großen Teller und beträufle sie mit Zitronensaft, damit sie nicht braun werden.",
+            "Gib die Erdnussbutter in eine kleine mikrowellengeeignete Schüssel und erwärme sie 15–20 Sekunden, bis sie flüssig ist. Träufle sie mit einem Löffel über die Äpfel.",
+            "Brich die Schokolade in Stücke und schmilz sie in der Mikrowelle in 20-Sekunden-Schritten, bis sie glatt ist. Rühr zwischendurch immer um.",
+            "Träufle die Schokolade über die Apfelscheiben und streu die Kokosraspeln darüber. Sofort servieren."
+          ],
+          "tipp": "Säuerliche Äpfel wie Elstar oder Braeburn passen am besten zur süßen Schokolade.",
+          "variante": "Statt Kokosraspeln kannst du auch gehackte Nüsse oder bunte Streusel nehmen – perfekt für Partys.",
+          "naehrwerte": {
+            "kcal": 300,
+            "eiweiss": 7,
+            "kohlenhydrate": 30,
+            "fett": 17
+          },
+          "tags": [
+            "vegetarisch",
+            "Mikrowelle",
+            "Party"
+          ],
+          "foto_prompt": "Apple nachos: thin apple slices fanned on a plate drizzled with peanut butter and melted dark chocolate, sprinkled with coconut, top-down view, bright natural light, modern casual table, no text, no people."
+        }
+      ]
+    }
+  ]
+}

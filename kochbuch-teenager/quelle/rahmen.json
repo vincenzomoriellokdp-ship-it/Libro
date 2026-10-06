@@ -1,0 +1,747 @@
+{
+ "impressum": [
+  "Copyright © 2026 Gertraud Kron. Alle Rechte vorbehalten.",
+  "Dieses Werk einschließlich aller seiner Teile ist urheberrechtlich geschützt. Jede Verwertung außerhalb der engen Grenzen des Urheberrechtsgesetzes ist ohne schriftliche Zustimmung der Autorin unzulässig. Das gilt insbesondere für Vervielfältigungen, Übersetzungen sowie die Einspeicherung und Verarbeitung in elektronischen Systemen.",
+  "Alle Rezepte und Hinweise in diesem Buch wurden mit größter Sorgfalt erarbeitet und geprüft. Dennoch kann keine Garantie für Vollständigkeit und Richtigkeit übernommen werden. Eine Haftung der Autorin für Personen-, Sach- oder Vermögensschäden ist ausgeschlossen. Kinder und Jugendliche sollten in der Küche – besonders beim Umgang mit Messern, heißem Fett und Strom – bei Bedarf von einem Erwachsenen unterstützt werden.",
+  "Allergie-Hinweis: Bitte prüfe bei Lebensmittelallergien oder -unverträglichkeiten immer die Zutatenlisten auf den Verpackungen. Die angegebenen Nährwerte sind Schätzungen.",
+  "Verantwortlich: [Name und Anschrift des Verantwortlichen gemäß KDP-Vorgaben]"
+ ],
+ "einleitung": {
+  "titel": "Hey, schön, dass du da bist!",
+  "absaetze": [
+   "Du hast dieses Buch in der Hand – oder auf dem Bildschirm. Vielleicht hast du es dir selbst ausgesucht, vielleicht hat es dir jemand geschenkt, der findet, dass du ruhig mal den Kochlöffel schwingen könntest. Egal wie: Gute Entscheidung! Denn Kochen können ist eine der nützlichsten Fähigkeiten überhaupt. Und ehrlich gesagt macht es auch richtig Spaß.",
+   "Stell dir vor: Du kommst nach der Schule nach Hause, der Magen knurrt, und statt dir zum dritten Mal in dieser Woche eine Tiefkühlpizza in den Ofen zu schieben, zauberst du in 15 Minuten eine cremige Pasta oder einen knusprigen Wrap. Ohne Hilfe. Ohne Stress. Einfach, weil du weißt, wie es geht. Genau das ist Unabhängigkeit – und die fühlt sich ziemlich gut an.",
+   "Kochen hat aber noch mehr zu bieten. Du kannst deine Freunde zum Gaming-Abend mit selbst gemachten Nachos oder Mini-Pizzen überraschen. Du kannst deiner Familie an einem stressigen Tag das Abendessen abnehmen (die werden staunen!). Und du sparst eine Menge Geld: Ein Burger vom Lieferdienst kostet schnell das Drei- oder Vierfache von dem, was du für einen selbst gemachten ausgibst. Das Taschengeld bleibt also für die wirklich wichtigen Dinge.",
+   "Dazu kommt: Wenn du selbst kochst, weißt du genau, was in deinem Essen steckt. Du bestimmst, wie viel Salz, wie viel Zucker und wie viel Gemüse auf dem Teller landet. Das heißt nicht, dass es hier nur Salat und Brokkoli gibt – keine Sorge. Burger, Pizza, Pasta und Süßes haben in diesem Buch ihren festen Platz. Aber eben selbst gemacht, mit frischen Zutaten und ohne unnötigen Kram.",
+   "Was dich erwartet? 100 Rezepte, die alle drei Regeln erfüllen: Sie brauchen höchstens fünf Zutaten (plus ein paar Basics, die sowieso in jeder Küche stehen), sie sind in maximal 30 Minuten fertig, und sie schmecken einfach. Die Rezepte sind in neun Kapitel sortiert – vom Frühstück über das schnelle Mittagessen nach der Schule bis hin zu Partyfood, Desserts und Smoothies. Alle Zutaten bekommst du im ganz normalen Supermarkt, und die meisten Gerichte kosten pro Portion weniger als ein Döner.",
+   "Damit du gut startest, findest du vor den Rezepten ein Kapitel mit Küchen-Basics: welche Ausstattung du brauchst, wie du richtig schneidest, wie du sicher und sauber arbeitest und was Begriffe wie „blanchieren“ oder „al dente“ eigentlich bedeuten. Am Ende wartet ein Bonus-Kapitel übers Lagern, Einfrieren und Reste-Retten. Und mit dem 15-Tage-Essensplan samt Einkaufslisten musst du dir nicht mal selbst überlegen, was du kochen willst.",
+   "Du hast noch nie gekocht? Perfekt, dann bist du hier genau richtig. Jedes Rezept ist Schritt für Schritt erklärt, ohne Fachchinesisch und ohne Vorwissen. Es gibt nur eine Voraussetzung, und die erfüllst du schon. Unser Motto lautet nämlich: Wenn du lesen kannst, kannst du kochen.",
+   "Und falls mal etwas schiefgeht – die Nudeln zu weich, das Rührei zu trocken, die Pfannkuchen nicht ganz rund: Willkommen im Club! Das passiert jedem, auch Profis. Jeder Fehler macht dich ein bisschen besser. Also: Schürze um (oder auch nicht), Hände waschen und los geht’s. Ich bin mir sicher, du wirst überrascht sein, was du alles draufhast!"
+  ]
+ },
+ "so_funktionierts": {
+  "titel": "So funktioniert dieses Buch",
+  "absaetze": [
+   "Bevor du loslegst, ein kurzer Blick darauf, wie die Rezepte aufgebaut sind. Jedes Rezept folgt demselben Muster, damit du dich schnell zurechtfindest und auf einen Blick siehst, ob es gerade zu dir, deiner Zeit und deinem Geldbeutel passt.",
+   "Am wichtigsten: Lies jedes Rezept einmal komplett durch, bevor du anfängst. Dann weißt du, was auf dich zukommt, und kannst alle Zutaten und Utensilien bereitlegen. Profis nennen das „Mise en Place“ – alles an seinem Platz. Das klingt fancy, spart aber vor allem Zeit und Nerven.",
+   "Hier sind alle Infos, die du bei den Rezepten findest:"
+  ],
+  "liste": [
+   {
+    "begriff": "Zeit",
+    "erklaerung": "Die Gesamtzeit für Vorbereitung und Kochen – nie mehr als 30 Minuten. Muss etwas zusätzlich kühlen, ziehen oder über Nacht ruhen, steht das extra als Wartezeit dabei. Da musst du nichts tun, nur abwarten."
+   },
+   {
+    "begriff": "Portionen",
+    "erklaerung": "Für wie viele Personen das Rezept reicht. Die meisten Rezepte sind für 1–2 Personen gedacht. Für mehr Leute verdoppelst du einfach alle Mengen."
+   },
+   {
+    "begriff": "Level",
+    "erklaerung": "„Einfach“ heißt: klappt garantiert auch beim allerersten Mal. „Mittel“ heißt: Es gibt ein, zwei Schritte, bei denen du etwas aufmerksamer sein musst – aber nichts, was du nicht schaffst."
+   },
+   {
+    "begriff": "Kosten",
+    "erklaerung": "€ bedeutet unter 1,50 € pro Portion, €€ liegt zwischen 1,50 und 3 €, €€€ über 3 €. Die Angaben sind Richtwerte und hängen davon ab, wo und was du einkaufst."
+   },
+   {
+    "begriff": "Die 5-Zutaten-Regel",
+    "erklaerung": "Jedes Rezept kommt mit höchstens fünf Zutaten aus. Nicht mitgezählt werden nur die Vorratszutaten Salz, Pfeffer, Öl, Zucker und Wasser – die hast du sowieso zu Hause. Welche du davon brauchst, steht beim Rezept unter „Aus dem Vorrat“."
+   },
+   {
+    "begriff": "Tipp & Variante",
+    "erklaerung": "Der Tipp verrät dir einen kleinen Profi-Trick, der dein Gericht noch besser macht. Die Variante zeigt dir, wie du das Rezept abwandeln kannst – zum Beispiel vegetarisch, schärfer oder mit dem, was gerade im Kühlschrank liegt."
+   },
+   {
+    "begriff": "Nährwerte",
+    "erklaerung": "Kalorien, Eiweiß, Kohlenhydrate und Fett pro Portion. Das sind gerundete Schätzungen, keine Laborwerte. Sie helfen dir bei der Orientierung, du musst sie aber nicht auswendig lernen."
+   },
+   {
+    "begriff": "Tags",
+    "erklaerung": "Kleine Hinweise wie „vegetarisch“, „vegan“, „Mikrowelle“, „Airfryer-geeignet“ oder „Lunchbox“. So findest du schnell das passende Rezept – etwa wenn du etwas für die Schule mitnehmen willst oder nur eine Mikrowelle zur Verfügung hast."
+   }
+  ]
+ },
+ "kuechen_basics": {
+  "titel": "Küchen-Basics: Dein Start in die Küche",
+  "intro": [
+   "Bevor es an die Rezepte geht, kommt hier dein kleiner Crashkurs. Keine Angst, das ist kein langweiliger Theorieteil, sondern das Wissen, das dir das Kochen ab dem ersten Tag leichter macht.",
+   "Du musst nicht alles auf einmal lesen. Blättere einfach immer wieder hierher zurück, wenn du einen Begriff nicht kennst oder dir bei etwas unsicher bist. Nach ein paar Rezepten wirst du merken: Vieles davon machst du bald ganz automatisch."
+  ],
+  "abschnitte": [
+   {
+    "titel": "Deine Grundausstattung",
+    "absaetze": [
+     "Du brauchst keine Profiküche, um die Rezepte in diesem Buch nachzukochen. Die folgenden Dinge sind in den meisten Haushalten ohnehin vorhanden. Falls etwas fehlt: Viele Utensilien bekommst du günstig im Supermarkt oder Discounter."
+    ],
+    "liste": [
+     {
+      "begriff": "Scharfes Messer",
+      "erklaerung": "Ein mittelgroßes Koch- oder Gemüsemesser ist dein wichtigstes Werkzeug – ein scharfes Messer ist übrigens sicherer als ein stumpfes, weil es nicht abrutscht."
+     },
+     {
+      "begriff": "Schneidebrett",
+      "erklaerung": "Am besten zwei: eines für Gemüse und Obst, eines für rohes Fleisch."
+     },
+     {
+      "begriff": "Pfanne",
+      "erklaerung": "Eine beschichtete Pfanne (ca. 24–28 cm) für Rührei, Pfannkuchen, Burger-Patties und alles, was brutzeln soll."
+     },
+     {
+      "begriff": "Topf",
+      "erklaerung": "Ein mittelgroßer und ein großer Topf mit Deckel für Nudeln, Reis, Suppen und Soßen."
+     },
+     {
+      "begriff": "Sieb",
+      "erklaerung": "Zum Abgießen von Nudeln und zum Waschen von Obst, Gemüse oder Dosenbohnen."
+     },
+     {
+      "begriff": "Pfannenwender",
+      "erklaerung": "Damit wendest du Pfannkuchen, Patties und Toasts, ohne dir die Finger zu verbrennen."
+     },
+     {
+      "begriff": "Kochlöffel",
+      "erklaerung": "Zum Umrühren in Topf und Pfanne – Holz oder Silikon schont die Beschichtung."
+     },
+     {
+      "begriff": "Schneebesen",
+      "erklaerung": "Zum Verquirlen von Eiern, Teigen und Dressings, damit keine Klümpchen bleiben."
+     },
+     {
+      "begriff": "Messbecher",
+      "erklaerung": "Damit du Flüssigkeiten wie Milch oder Wasser genau abmessen kannst."
+     },
+     {
+      "begriff": "Küchenwaage",
+      "erklaerung": "Für Mehl, Zucker und Nudeln – vor allem beim Backen kommt es auf die Menge an."
+     },
+     {
+      "begriff": "Reibe",
+      "erklaerung": "Für Käse, Möhren, Zucchini oder Zitronenschale."
+     },
+     {
+      "begriff": "Schüsseln",
+      "erklaerung": "Ein paar unterschiedlich große Schüsseln zum Mischen, Marinieren und Servieren."
+     },
+     {
+      "begriff": "Backblech & Backpapier",
+      "erklaerung": "Für Ofengerichte, Pizza und Kekse – Backpapier spart dir das Schrubben."
+     },
+     {
+      "begriff": "Stabmixer oder Standmixer",
+      "erklaerung": "Für Smoothies, Suppen und Soßen. Kein Muss, aber ein echter Game Changer."
+     }
+    ]
+   },
+   {
+    "titel": "Dein Grundvorrat",
+    "absaetze": [
+     "Fünf Dinge zählen in diesem Buch nie als Zutat, weil sie in jeder Küche stehen sollten: Salz, Pfeffer, Öl, Zucker und Wasser. Wasser kommt aus der Leitung, um die anderen vier kümmerst du dich am besten selbst. Wenn eins davon fast leer ist, schreib es gleich auf die Einkaufsliste.",
+     "Beim Öl reicht für den Anfang ein neutrales Rapsöl oder Sonnenblumenöl – damit kannst du braten, backen und Dressings machen. Wenn du magst, besorgst du zusätzlich ein Olivenöl für Salate und Pasta. Beim Pfeffer ist eine Pfeffermühle super, weil frisch gemahlener Pfeffer viel aromatischer schmeckt.",
+     "Außerdem gibt es ein paar Dinge, die zwar als Zutat zählen, die du aber gern immer im Haus haben solltest. Damit kannst du spontan kochen, ohne extra einkaufen zu gehen:"
+    ],
+    "liste": [
+     {
+      "begriff": "Nudeln & Reis",
+      "erklaerung": "Lange haltbar, günstig und die Basis für unzählige Gerichte."
+     },
+     {
+      "begriff": "Mehl",
+      "erklaerung": "Für Pfannkuchen, Waffeln und zum Andicken von Soßen."
+     },
+     {
+      "begriff": "Eier",
+      "erklaerung": "Rührei, Omelett, French Toast – Eier sind echte Alleskönner."
+     },
+     {
+      "begriff": "Dosentomaten & Tomatenmark",
+      "erklaerung": "Die Grundlage für fast jede Tomatensoße und viele Pfannengerichte."
+     },
+     {
+      "begriff": "Zwiebeln & Knoblauch",
+      "erklaerung": "Bringen Geschmack in so gut wie jedes herzhafte Gericht."
+     },
+     {
+      "begriff": "Butter & Milch",
+      "erklaerung": "Für Frühstück, Backen und cremige Soßen."
+     },
+     {
+      "begriff": "Geriebener Käse",
+      "erklaerung": "Macht fast alles besser – Pizza, Pasta, Toast und Wraps."
+     },
+     {
+      "begriff": "Gewürze",
+      "erklaerung": "Paprikapulver, Oregano, Currypulver und Zimt sind ein guter Start."
+     },
+     {
+      "begriff": "Dosen- und TK-Ware",
+      "erklaerung": "Mais, Kidneybohnen, Kichererbsen und TK-Gemüse wie Erbsen oder Spinat sind schnell, günstig und halten ewig."
+     },
+     {
+      "begriff": "Haferflocken",
+      "erklaerung": "Für Porridge, Overnight Oats, Kekse und Smoothies."
+     }
+    ]
+   },
+   {
+    "titel": "Schneiden wie ein Profi",
+    "absaetze": [
+     "Schneiden ist die Grundlage fast jedes Rezepts. Am Anfang dauert es noch etwas länger, aber mit ein bisschen Übung wirst du richtig schnell. Wichtig: Sicherheit geht vor Tempo. Niemand erwartet, dass du schneidest wie ein TV-Koch.",
+     "Der Krallengriff: Das ist die wichtigste Technik überhaupt. Mit der Hand, die das Lebensmittel festhält, formst du eine Kralle – die Fingerspitzen sind nach innen gebogen, die Fingerkuppen zeigen nach hinten. Die Fingerknöchel führen das Messer an der Seite entlang. So kommen deine Fingerspitzen der Klinge gar nicht erst nahe. Schiebe die Kralle langsam nach hinten, während du schneidest.",
+     "Stabil schneiden: Runde Lebensmittel wie Möhren, Kartoffeln oder Gurken rollen gern weg. Schneide sie deshalb zuerst einmal der Länge nach durch und lege sie mit der flachen Seite aufs Brett. Jetzt liegen sie sicher. Damit das Brett selbst nicht rutscht, legst du ein feuchtes Küchentuch darunter.",
+     "Knoblauch: Drücke die Knoblauchzehe mit der flachen Seite des Messers kurz an – dann löst sich die Schale ganz leicht. Schneide das harte Ende ab und hacke die Zehe dann fein oder drücke sie durch eine Knoblauchpresse. Achtung: Knoblauch verbrennt schnell und wird dann bitter. Gib ihn deshalb erst kurz vor Ende des Anbratens in die Pfanne.",
+     "Kräuter: Wasche die Kräuter und tupfe sie trocken. Zupfe die Blättchen von den harten Stielen (bei Petersilie und Koriander kannst du die dünnen Stiele mitverwenden). Lege die Blätter auf einen Haufen und hacke mit einem großen Messer in Wippbewegungen darüber, bis sie fein sind. Basilikum lieber in Streifen schneiden oder zupfen, weil es sonst schnell schwarz wird.",
+     "Und so würfelst du eine Zwiebel – Schritt für Schritt:"
+    ],
+    "schritte": [
+     "Schneide das obere Ende (die Spitze) der Zwiebel ab, die Wurzel bleibt dran – sie hält die Zwiebel beim Schneiden zusammen.",
+     "Halbiere die Zwiebel der Länge nach, also durch die Wurzel hindurch.",
+     "Ziehe die braune Schale und die erste dünne Haut ab.",
+     "Lege eine Hälfte mit der flachen Seite aufs Brett, die Wurzel zeigt von dir weg.",
+     "Schneide die Hälfte mehrmals der Länge nach ein – bis kurz vor die Wurzel, aber nicht durch.",
+     "Jetzt schneidest du quer dazu dünne Scheiben ab. Dabei fallen automatisch kleine Würfel heraus. Den Wurzelrest wirfst du weg.",
+     "Tränen-Tipp: Ein scharfes Messer und eine kalte Zwiebel aus dem Kühlschrank helfen gegen das Augenbrennen."
+    ]
+   },
+   {
+    "titel": "Sicherheit in der Küche",
+    "absaetze": [
+     "Kochen ist nicht gefährlich – wenn du ein paar Regeln kennst. Lies dir diesen Abschnitt gut durch, er ist wirklich wichtig. Und wenn du dir bei etwas unsicher bist, frag lieber einmal mehr einen Erwachsenen."
+    ],
+    "liste": [
+     {
+      "begriff": "Messer",
+      "erklaerung": "Schneide immer vom Körper weg und auf einem Brett, nie in der Hand. Lege Messer nach dem Benutzen flach auf die Arbeitsfläche und wirf sie nie ins Spülwasser, wo du sie nicht siehst. Fällt ein Messer runter: zurückspringen, nicht auffangen!"
+     },
+     {
+      "begriff": "Pfannen- und Topfstiele",
+      "erklaerung": "Dreh die Griffe immer zur Seite oder nach hinten, damit niemand hängen bleibt und den Topf herunterreißt."
+     },
+     {
+      "begriff": "Heißes Fett",
+      "erklaerung": "Bleib immer am Herd, wenn Öl in der Pfanne heiß wird. Wenn Fett anfängt zu qualmen, schalte die Platte aus und zieh die Pfanne vorsichtig von der heißen Stelle."
+     },
+     {
+      "begriff": "Fettbrand: niemals mit Wasser löschen!",
+      "erklaerung": "Fängt Öl Feuer, kein Wasser drauf – das führt zu einer gefährlichen Stichflamme. Stattdessen: Herd ausschalten, Deckel oder ein großes Backblech auf die Pfanne legen und so die Flamme ersticken. Deckel draufbleiben lassen, bis alles abgekühlt ist. Wenn das Feuer nicht ausgeht: raus aus der Küche, Tür zu, 112 anrufen."
+     },
+     {
+      "begriff": "Spritzendes Fett",
+      "erklaerung": "Lege Lebensmittel immer von dir weg in heißes Öl, nie werfen. Tupfe nasse Zutaten vorher trocken – Wasser lässt Fett spritzen."
+     },
+     {
+      "begriff": "Backofen",
+      "erklaerung": "Benutze immer Topflappen oder Ofenhandschuhe, und zwar trockene – nasse leiten die Hitze sofort durch. Öffne die Ofentür vorsichtig und halte dein Gesicht kurz weg, denn es kommt ein Schwall heißer Dampf heraus."
+     },
+     {
+      "begriff": "Strom",
+      "erklaerung": "Fasse Stecker und Elektrogeräte nie mit nassen Händen an. Halte Kabel von Spüle und Herdplatten fern. Zieh den Stecker, bevor du einen Mixer oder Stabmixer reinigst oder hineingreifst."
+     },
+     {
+      "begriff": "Dampf",
+      "erklaerung": "Wenn du Nudeln abgießt oder einen Deckel hebst, kommt heißer Dampf hoch. Gieße vom Körper weg ab und heb den Deckel so an, dass der Dampf von dir wegzieht."
+     },
+     {
+      "begriff": "Erste Hilfe bei Verbrennungen",
+      "erklaerung": "Kleine Verbrennungen sofort 10–20 Minuten unter lauwarmes, fließendes Wasser halten – nicht eiskalt und kein Eis, das schädigt die Haut zusätzlich. Keine Hausmittel wie Butter, Mehl oder Zahnpasta! Bei Blasen, großen Flächen oder Verbrennungen im Gesicht sofort einen Erwachsenen holen und ärztliche Hilfe suchen."
+     },
+     {
+      "begriff": "Schnittwunden",
+      "erklaerung": "Kleine Schnitte kurz ausbluten lassen, sauber halten und ein Pflaster drauf. Bei tiefen Schnitten oder starker Blutung: Druck auf die Wunde und sofort Hilfe holen."
+     }
+    ]
+   },
+   {
+    "titel": "Hygiene-Regeln",
+    "absaetze": [
+     "In der Küche geht es nicht nur um Geschmack, sondern auch um Sauberkeit. Bakterien siehst du nicht, aber sie können dir den Magen ordentlich verderben. Mit diesen einfachen Regeln bist du auf der sicheren Seite:"
+    ],
+    "liste": [
+     {
+      "begriff": "Hände waschen",
+      "erklaerung": "Vor dem Kochen, nach dem Anfassen von rohem Fleisch, Geflügel oder Eiern und nach dem Naseputzen: Hände mit Seife waschen, ca. 20–30 Sekunden lang."
+     },
+     {
+      "begriff": "Haare zusammen",
+      "erklaerung": "Lange Haare zum Zopf binden – sie landen sonst gern im Essen oder kommen der Herdplatte zu nahe."
+     },
+     {
+      "begriff": "Rohes Fleisch getrennt",
+      "erklaerung": "Rohes Fleisch und vor allem Geflügel nie mit Lebensmitteln in Kontakt bringen, die roh gegessen werden, zum Beispiel Salat oder Brot."
+     },
+     {
+      "begriff": "Eigenes Brett",
+      "erklaerung": "Nimm für rohes Fleisch ein extra Schneidebrett und ein extra Messer. Danach beides heiß und mit Spülmittel abwaschen."
+     },
+     {
+      "begriff": "Geflügel nicht waschen",
+      "erklaerung": "Rohes Hähnchen nicht unter dem Wasserhahn abspülen – dabei verteilen sich Keime durch Spritzer in der ganzen Spüle. Lieber mit Küchenpapier trocken tupfen und das Papier direkt wegwerfen."
+     },
+     {
+      "begriff": "Hähnchen gut durchgaren",
+      "erklaerung": "Geflügel muss immer komplett durch sein. Im Inneren sollte es mindestens 75 °C erreichen – das kannst du mit einem Fleischthermometer prüfen. Ohne Thermometer: Schneide das dickste Stück auf. Es darf innen nicht mehr rosa sein, und der austretende Saft muss klar sein."
+     },
+     {
+      "begriff": "Hackfleisch",
+      "erklaerung": "Hackfleisch verdirbt besonders schnell. Kauf es frisch, verarbeite es am selben Tag und brate es immer vollständig durch."
+     },
+     {
+      "begriff": "Obst und Gemüse waschen",
+      "erklaerung": "Alles, was roh gegessen wird, vorher gründlich unter fließendem Wasser abspülen."
+     },
+     {
+      "begriff": "Saubere Lappen",
+      "erklaerung": "Spüllappen und Geschirrtücher regelmäßig wechseln und heiß waschen. Ein feuchter, alter Schwamm ist ein Paradies für Bakterien."
+     },
+     {
+      "begriff": "Kühlkette einhalten",
+      "erklaerung": "Gekühlte Lebensmittel nach dem Einkauf schnell in den Kühlschrank bringen und Reste nicht stundenlang draußen stehen lassen."
+     }
+    ]
+   },
+   {
+    "titel": "Das kleine Küchen-Lexikon",
+    "absaetze": [
+     "Manche Rezepte klingen, als wären sie in einer Geheimsprache geschrieben. Hier übersetzen wir die wichtigsten Begriffe, damit du nie wieder rätseln musst:"
+    ],
+    "liste": [
+     {
+      "begriff": "Abschmecken",
+      "erklaerung": "Am Ende probieren und nachwürzen, meistens mit Salz und Pfeffer, bis es dir richtig gut schmeckt."
+     },
+     {
+      "begriff": "Ablöschen",
+      "erklaerung": "Eine Flüssigkeit (z. B. Wasser, Brühe oder Sahne) in die heiße Pfanne oder den Topf gießen, nachdem etwas angebraten wurde. Dabei zischt es kurz – das ist normal."
+     },
+     {
+      "begriff": "Al dente",
+      "erklaerung": "Italienisch für „auf den Zahn“: Nudeln sind gar, haben innen aber noch einen leichten Biss. Probier am besten eine Nudel kurz vor Ende der Kochzeit."
+     },
+     {
+      "begriff": "Anbraten",
+      "erklaerung": "Lebensmittel in heißem Öl bei mittlerer bis hoher Hitze braten, bis sie leicht braun werden. Das bringt Röstaromen."
+     },
+     {
+      "begriff": "Andünsten",
+      "erklaerung": "Lebensmittel bei mittlerer Hitze in etwas Fett weich werden lassen, ohne dass sie braun werden."
+     },
+     {
+      "begriff": "Blanchieren",
+      "erklaerung": "Gemüse kurz in kochendem Wasser garen und dann sofort in kaltes Wasser geben. So bleibt es knackig und schön farbig."
+     },
+     {
+      "begriff": "Glasig",
+      "erklaerung": "Zwiebeln werden beim Andünsten durchscheinend statt weiß – dann sind sie weich, aber noch nicht braun."
+     },
+     {
+      "begriff": "Köcheln",
+      "erklaerung": "Etwas bei kleiner bis mittlerer Hitze leicht blubbern lassen. Es sprudelt nicht wild, sondern bildet nur kleine Bläschen."
+     },
+     {
+      "begriff": "Marinieren",
+      "erklaerung": "Fleisch, Tofu oder Gemüse in eine Mischung aus Öl, Gewürzen und Säure einlegen, damit es Geschmack annimmt."
+     },
+     {
+      "begriff": "Panieren",
+      "erklaerung": "Etwas nacheinander in Mehl, verquirltem Ei und Paniermehl wenden, damit es beim Braten eine knusprige Hülle bekommt."
+     },
+     {
+      "begriff": "Prise",
+      "erklaerung": "Die Menge, die du zwischen Daumen und Zeigefinger greifen kannst – also eine ganz kleine Menge, meist von Salz oder Gewürzen."
+     },
+     {
+      "begriff": "EL / TL",
+      "erklaerung": "Esslöffel und Teelöffel. Gemeint ist ein normal gehäufter Löffel aus der Besteckschublade, es sei denn, im Rezept steht „gestrichen“."
+     },
+     {
+      "begriff": "Pürieren",
+      "erklaerung": "Etwas mit dem Stabmixer oder Mixer ganz fein und cremig zerkleinern."
+     },
+     {
+      "begriff": "Reduzieren",
+      "erklaerung": "Eine Soße ohne Deckel köcheln lassen, damit Wasser verdampft. Dadurch wird sie dicker und der Geschmack intensiver."
+     },
+     {
+      "begriff": "Unterheben",
+      "erklaerung": "Eine lockere Masse (z. B. geschlagene Sahne) vorsichtig mit einem Teigschaber unter eine andere mischen, damit die Luft drinbleibt. Nicht wild rühren!"
+     },
+     {
+      "begriff": "Verquirlen",
+      "erklaerung": "Etwas mit Gabel oder Schneebesen kräftig verrühren, bis es gleichmäßig vermischt ist, z. B. Eier."
+     },
+     {
+      "begriff": "Vorheizen",
+      "erklaerung": "Den Backofen schon vor dem Backen auf die richtige Temperatur bringen. Das dauert meist 10–15 Minuten."
+     },
+     {
+      "begriff": "Ober-/Unterhitze",
+      "erklaerung": "Die Hitze kommt von oben und unten. Gut für Pizza, Aufläufe und Kuchen. Stell die Form am besten auf die mittlere Schiene."
+     },
+     {
+      "begriff": "Umluft",
+      "erklaerung": "Ein Ventilator verteilt die heiße Luft im Ofen. Bei Umluft stellst du die Temperatur etwa 20 Grad niedriger ein als bei Ober-/Unterhitze."
+     },
+     {
+      "begriff": "Ziehen lassen",
+      "erklaerung": "Etwas bei geringer oder ausgeschalteter Hitze ruhen lassen, damit es gar wird oder Geschmack annimmt."
+     },
+     {
+      "begriff": "Zimmertemperatur",
+      "erklaerung": "Etwa 20 Grad. Butter oder Eier „mit Zimmertemperatur“ nimmst du ca. 30 Minuten vorher aus dem Kühlschrank."
+     }
+    ]
+   },
+   {
+    "titel": "Mengen & Maße",
+    "absaetze": [
+     "Nicht jeder hat immer eine Waage griffbereit. Diese Faustregeln helfen dir, wenn du mal schätzen musst. Für Backrezepte lohnt sich das genaue Abwiegen aber trotzdem."
+    ],
+    "liste": [
+     {
+      "begriff": "1 EL (Esslöffel)",
+      "erklaerung": "ca. 15 ml Flüssigkeit, etwa 10 g Mehl oder 15 g Zucker."
+     },
+     {
+      "begriff": "1 TL (Teelöffel)",
+      "erklaerung": "ca. 5 ml Flüssigkeit, etwa 3 g Mehl oder 5 g Salz bzw. Zucker."
+     },
+     {
+      "begriff": "1 Prise",
+      "erklaerung": "So viel, wie zwischen Daumen und Zeigefinger passt – weniger als 1 g."
+     },
+     {
+      "begriff": "1 Tasse",
+      "erklaerung": "In diesem Buch etwa 200 ml. Eine normale Kaffeetasse kommt dem ziemlich nah."
+     },
+     {
+      "begriff": "Flüssigkeiten",
+      "erklaerung": "1 Liter = 1.000 ml. Bei Wasser und Milch entspricht 1 ml ungefähr 1 g, du kannst also auch abwiegen."
+     },
+     {
+      "begriff": "Nudeln & Reis",
+      "erklaerung": "Als Hauptgericht rechnet man ca. 100–125 g ungekochte Nudeln und ca. 60–80 g ungekochten Reis pro Person."
+     },
+     {
+      "begriff": "Butter",
+      "erklaerung": "1 EL Butter sind ungefähr 10–15 g. Auf vielen Butterpackungen sind Markierungen aufgedruckt."
+     },
+     {
+      "begriff": "Einheiten-Abkürzungen",
+      "erklaerung": "g = Gramm, kg = Kilogramm, ml = Milliliter, l = Liter, Pck. = Packung, Msp. = Messerspitze."
+     }
+    ]
+   },
+   {
+    "titel": "Kochen mit kleinem Budget",
+    "absaetze": [
+     "Gut essen muss nicht teuer sein. Mit ein paar cleveren Tricks bleibt mehr vom Taschengeld übrig – und du lernst ganz nebenbei, wie man mit Geld umgeht."
+    ],
+    "liste": [
+     {
+      "begriff": "Mit Plan einkaufen",
+      "erklaerung": "Überlege vorher, was du die nächsten Tage kochen willst, und schreib eine Einkaufsliste. Wer ohne Liste einkauft, kauft fast immer zu viel. Der 15-Tage-Plan in diesem Buch hilft dir dabei."
+     },
+     {
+      "begriff": "Nie hungrig einkaufen",
+      "erklaerung": "Mit leerem Magen landen garantiert Chips, Süßigkeiten und andere Spontankäufe im Wagen."
+     },
+     {
+      "begriff": "Eigenmarken nehmen",
+      "erklaerung": "Die günstigen Eigenmarken der Supermärkte sind oft genauso gut wie Markenprodukte. Probier es einfach aus."
+     },
+     {
+      "begriff": "Grundpreis vergleichen",
+      "erklaerung": "Auf dem Preisschild steht klein der Preis pro Kilo oder Liter. So siehst du sofort, ob die große Packung wirklich günstiger ist."
+     },
+     {
+      "begriff": "Saisonal kaufen",
+      "erklaerung": "Obst und Gemüse, das gerade Saison hat, ist meistens günstiger und schmeckt besser. Im Winter sind Kohl, Möhren und Äpfel top, im Sommer Tomaten, Zucchini und Beeren."
+     },
+     {
+      "begriff": "TK und Dose nutzen",
+      "erklaerung": "Tiefkühlgemüse und -obst sind günstig, halten lange und sind oft genauso nährstoffreich wie frische Ware. Dosenbohnen und -tomaten sind echte Sparhelden."
+     },
+     {
+      "begriff": "Weniger Fleisch",
+      "erklaerung": "Fleisch ist meist die teuerste Zutat. Mit Bohnen, Linsen, Eiern oder Tofu sparst du Geld – und viele dieser Gerichte sind richtig lecker."
+     },
+     {
+      "begriff": "Reste verwerten",
+      "erklaerung": "Was übrig bleibt, wird zum nächsten Mittagessen oder Lunchbox-Snack. Wie das geht, zeigt dir das Bonus-Kapitel am Ende des Buchs."
+     }
+    ]
+   }
+  ]
+ },
+ "bonus_konservierung": {
+  "titel": "BONUS: Die Geheimnisse der Konservierung – Reste retten, clever lagern, Geld sparen",
+  "intro": [
+   "In Deutschland landen jedes Jahr riesige Mengen an Lebensmitteln im Müll, und ein großer Teil davon kommt aus privaten Haushalten. Das ist nicht nur schade ums Essen, sondern auch um dein Geld. Die gute Nachricht: Mit ein bisschen Wissen kannst du das ziemlich einfach ändern.",
+   "In diesem Bonus-Kapitel erfährst du, wie du Lebensmittel richtig lagerst, wie lange Reste halten, wie du wie ein Profi einfrierst und was die Daten auf der Verpackung wirklich bedeuten. Außerdem bekommst du einen Meal-Prep-Plan für die Schulwoche, drei Mini-Rezepte zum Haltbarmachen und Ideen, wie du aus Resten neue Gerichte zauberst. Klingt nach Oma-Wissen? Ist es auch ein bisschen – aber Oma wusste eben, wie es geht."
+  ],
+  "abschnitte": [
+   {
+    "titel": "Richtig lagern im Kühlschrank",
+    "absaetze": [
+     "Wusstest du, dass es im Kühlschrank verschiedene Temperaturzonen gibt? Kalte Luft sinkt nach unten, deshalb ist es unten kälter als oben. Wer das weiß, kann seine Lebensmittel deutlich länger frisch halten. Ideal ist eine Temperatur von etwa 4 bis 7 Grad im mittleren Bereich.",
+     "So nutzt du die Fächer richtig:"
+    ],
+    "liste": [
+     {
+      "begriff": "Oberstes Fach",
+      "erklaerung": "Hier ist es am wärmsten. Perfekt für Käse, geöffnete Marmelade, Reste in Dosen und alles, was nicht so stark gekühlt werden muss."
+     },
+     {
+      "begriff": "Mittleres Fach",
+      "erklaerung": "Milchprodukte wie Joghurt, Quark, Sahne und Frischkäse fühlen sich hier wohl."
+     },
+     {
+      "begriff": "Unterstes Fach (über dem Gemüsefach)",
+      "erklaerung": "Die kälteste Stelle. Hier gehören rohes Fleisch, Hackfleisch, Geflügel und Wurst hin – am besten in einer geschlossenen Dose, damit nichts auf andere Lebensmittel tropft."
+     },
+     {
+      "begriff": "Gemüsefach",
+      "erklaerung": "Für Obst und Gemüse, das Kühle mag, zum Beispiel Möhren, Paprika, Salat, Brokkoli oder Beeren."
+     },
+     {
+      "begriff": "Kühlschranktür",
+      "erklaerung": "Hier ist es wegen des ständigen Öffnens am wärmsten. Ideal für Getränke, Butter, Eier, Ketchup, Senf und Soßen."
+     },
+     {
+      "begriff": "Gar nicht in den Kühlschrank",
+      "erklaerung": "Tomaten, Bananen, Kartoffeln, Zwiebeln, Knoblauch, Brot und Avocados (solange sie noch nicht reif sind). Sie verlieren im Kühlschrank Geschmack oder werden schneller schlecht."
+     }
+    ]
+   },
+   {
+    "titel": "Haltbarkeit von Resten",
+    "absaetze": [
+     "Du hast zu viel gekocht? Super, dann hast du schon das Essen für morgen! Wichtig ist nur, dass du Reste richtig behandelst: Lass sie nicht stundenlang offen herumstehen, sondern füll sie in eine verschließbare Dose und stell sie in den Kühlschrank, sobald sie nicht mehr dampfend heiß sind.",
+     "Ganz wichtig bei Reis: Gekochter Reis sollte schnell abkühlen und spätestens nach etwa einer Stunde in den Kühlschrank. Im Reis können sich sonst Keime vermehren, die auch durch erneutes Erhitzen nicht unschädlich werden. Am besten breitest du ihn flach auf einem Teller aus, damit er schneller abkühlt. Reisreste immer gut durcherhitzen und nicht mehrmals aufwärmen.",
+     "Diese Zeiten gelten als grobe Richtwerte für gut verschlossene Reste im Kühlschrank:",
+     "Grundsätzlich gilt: Wenn etwas komisch riecht, schimmelt, schleimig ist oder seltsam aussieht, wirf es weg. Bei Schimmel auf weichen Lebensmitteln wie Brot, Joghurt, Soßen oder Obst reicht es nicht, die Stelle wegzuschneiden – die unsichtbaren Fäden ziehen sich durch das ganze Lebensmittel."
+    ],
+    "liste": [
+     {
+      "begriff": "Gekochte Nudeln (ohne Soße)",
+      "erklaerung": "2–3 Tage"
+     },
+     {
+      "begriff": "Gekochter Reis",
+      "erklaerung": "1–2 Tage – schnell abkühlen lassen!"
+     },
+     {
+      "begriff": "Gekochte Kartoffeln",
+      "erklaerung": "2–3 Tage"
+     },
+     {
+      "begriff": "Gerichte mit Fleisch oder Geflügel",
+      "erklaerung": "1–2 Tage"
+     },
+     {
+      "begriff": "Gerichte mit Hackfleisch",
+      "erklaerung": "1 Tag"
+     },
+     {
+      "begriff": "Suppen und Eintöpfe",
+      "erklaerung": "2–3 Tage"
+     },
+     {
+      "begriff": "Tomatensoße (ohne Fleisch)",
+      "erklaerung": "3–4 Tage"
+     },
+     {
+      "begriff": "Gegartes Gemüse",
+      "erklaerung": "2–3 Tage"
+     },
+     {
+      "begriff": "Hart gekochte Eier (mit Schale)",
+      "erklaerung": "bis zu 1 Woche"
+     },
+     {
+      "begriff": "Pizza vom Vortag",
+      "erklaerung": "2–3 Tage"
+     },
+     {
+      "begriff": "Geschnittenes Obst",
+      "erklaerung": "1–2 Tage"
+     },
+     {
+      "begriff": "Geöffnete Dosenware",
+      "erklaerung": "in eine Dose umfüllen, 2–3 Tage"
+     }
+    ]
+   },
+   {
+    "titel": "Einfrieren wie ein Profi",
+    "absaetze": [
+     "Dein Gefrierfach ist eine Zeitmaschine: Es stoppt den Verderb fast komplett. Viele Gerichte kannst du gut vorkochen, einfrieren und an einem stressigen Tag einfach auftauen. Bei –18 Grad halten sich die meisten Lebensmittel mehrere Monate.",
+     "Das kannst du gut einfrieren: Suppen, Eintöpfe, Chili, Bolognese und andere Soßen, Brot und Brötchen (am besten in Scheiben oder halbiert), Pfannkuchen, Waffeln, Muffins, geriebenen Käse, Butter, Hackfleisch und Hähnchen (roh oder gegart), reife Bananen (geschält, perfekt für Smoothies) und Beeren.",
+     "Das wird nach dem Auftauen eher matschig: Salat, Gurke, rohe Tomaten, Radieschen, ganze rohe Kartoffeln, gekochte Eier, Joghurt, Quark und Gerichte mit viel Mayonnaise. Nudeln gehen zwar, werden aber oft weicher – friere sie am besten mit der Soße ein und koche sie beim nächsten Mal lieber etwas kürzer.",
+     "Die goldenen Regeln fürs Einfrieren:"
+    ],
+    "schritte": [
+     "Lass warme Speisen erst abkühlen, bevor sie ins Gefrierfach kommen. Heißes Essen lässt die anderen Lebensmittel antauen.",
+     "Fülle Essen portionsweise ab. So taust du nur auf, was du wirklich brauchst.",
+     "Benutze gut verschließbare Gefrierdosen oder Gefrierbeutel und drücke so viel Luft wie möglich heraus. Luft verursacht „Gefrierbrand“ – trockene, graue Stellen.",
+     "Lass bei Flüssigkeiten wie Suppe etwas Platz nach oben, denn sie dehnen sich beim Gefrieren aus.",
+     "Beschrifte jede Dose oder jeden Beutel mit Inhalt und Datum. Glaub mir: In drei Wochen weißt du nicht mehr, ob das Chili oder Bolognese ist.",
+     "Taue am besten im Kühlschrank auf, zum Beispiel über Nacht. Bei Zimmertemperatur können sich am Rand schnell Keime vermehren. Für spontanen Hunger geht auch die Auftaufunktion der Mikrowelle.",
+     "Was einmal aufgetaut ist, solltest du nicht wieder roh einfrieren – vor allem bei Fleisch. Verbrauche es innerhalb von ein bis zwei Tagen. Ausnahme: Wenn du aufgetautes rohes Fleisch zu einem Gericht verkochst, darfst du dieses Gericht wieder einfrieren."
+    ]
+   },
+   {
+    "titel": "Mindesthaltbarkeitsdatum vs. Verbrauchsdatum",
+    "absaetze": [
+     "Auf fast jeder Verpackung steht ein Datum. Aber Achtung, es gibt zwei verschiedene – und die bedeuten etwas völlig Unterschiedliches.",
+     "Das Mindesthaltbarkeitsdatum (MHD) erkennst du an der Formulierung „mindestens haltbar bis …“. Es ist eine Garantie des Herstellers: Bis zu diesem Datum behält das Produkt bei richtiger Lagerung seine Eigenschaften wie Geschmack, Farbe und Konsistenz. Danach ist es aber nicht automatisch schlecht! Joghurt, Nudeln, Reis, Konserven, Käse oder Schokolade sind oft noch lange danach genießbar.",
+     "Die Methode für das MHD heißt: Schauen, riechen, schmecken. Sieht das Produkt normal aus, riecht es normal und schmeckt eine kleine Probe normal? Dann kannst du es essen. So landen viel weniger Lebensmittel im Müll.",
+     "Das Verbrauchsdatum dagegen erkennst du an „zu verbrauchen bis …“. Es steht auf leicht verderblichen Lebensmitteln wie rohem Hackfleisch, frischem Geflügel oder frischem Fisch. Dieses Datum ist eine echte Grenze: Danach solltest du das Lebensmittel nicht mehr essen, auch wenn es noch gut aussieht und riecht. Keime, die krank machen, kannst du nämlich weder sehen noch riechen.",
+     "Kurz gesagt: MHD heißt „oft länger gut“, Verbrauchsdatum heißt „Stopp“."
+    ]
+   },
+   {
+    "titel": "Meal-Prep für die Schulwoche",
+    "absaetze": [
+     "Meal-Prep bedeutet: Du kochst an einem Tag vor und hast dann für mehrere Tage etwas Leckeres parat. Das spart unter der Woche Zeit und Geld, und du greifst nach der Schule seltener zu Chips oder Fast Food. Ein bis anderthalb Stunden am Sonntag reichen völlig.",
+     "Ein paar Tipps vorweg: Plane Gerichte, die sich gut halten, zum Beispiel Nudelsalat, Wraps zum Selbst-Zusammenbauen, Ofengemüse, Chili oder Overnight Oats. Bereite lieber Bausteine vor als komplette Gerichte, dann kannst du jeden Tag neu kombinieren. Und denk daran: Gekochter Reis, Fleisch- und Hackgerichte halten nur ein bis zwei Tage – was du später in der Woche essen willst, frierst du lieber portionsweise ein.",
+     "So könnte dein Sonntags-Plan aussehen:"
+    ],
+    "schritte": [
+     "Plane: Such dir zwei bis drei Rezepte für die Woche aus und schreib eine Einkaufsliste. Schau vorher in Kühlschrank und Vorratsschrank, was schon da ist.",
+     "Starte mit dem, was am längsten dauert: Ofengemüse aufs Blech und in den Ofen, Wasser für Nudeln oder Reis aufsetzen.",
+     "Während das gart, schneidest du rohes Gemüse für Snacks: Möhren-, Gurken- und Paprikasticks in eine Dose mit etwas feuchtem Küchenpapier.",
+     "Koche eine größere Portion Nudeln für einen Nudelsalat oder eine Pasta-Lunchbox und eine Soße, die du später einfrieren kannst.",
+     "Bereite zwei bis drei Gläser Overnight Oats für die ersten Tage vor – das Frühstück ist damit schon erledigt.",
+     "Koche ein paar Eier hart. Sie halten mit Schale im Kühlschrank bis zu einer Woche und sind ein perfekter Pausensnack.",
+     "Lass alles abkühlen, fülle es in Dosen ab und beschrifte sie. Was du erst ab Mittwoch isst, kommt ins Gefrierfach.",
+     "Zum Schluss: Küche aufräumen, zurücklehnen, stolz sein. Die Woche kann kommen!"
+    ]
+   },
+   {
+    "titel": "Schnelles Einlegen: Rote Zwiebeln",
+    "absaetze": [
+     "Eingelegtes Gemüse ist ein echter Geschmacks-Booster. Es macht Burger, Wraps, Bowls und Tacos sofort interessanter. Das Beste: Du brauchst dafür kein Einkochen und keine Spezialausrüstung. Diese „Quick-Pickles“ sind in wenigen Minuten gemacht und halten im Kühlschrank etwa eine Woche.",
+     "Eingelegte rote Zwiebeln werden nach kurzer Zeit leuchtend pink und schmecken mild-säuerlich. Ein absoluter Hingucker!"
+    ],
+    "rezept": {
+     "titel": "Rote Zwiebeln eingelegt",
+     "zeit_min": 10,
+     "wartezeit": "plus mind. 30 Minuten ziehen lassen",
+     "zutaten": [
+      "2 rote Zwiebeln",
+      "100 ml heller Essig (z. B. Apfelessig oder Weißweinessig)"
+     ],
+     "vorrat": [
+      "Wasser",
+      "Zucker",
+      "Salz"
+     ],
+     "schritte": [
+      "Schäle die Zwiebeln und schneide sie in dünne Ringe oder Halbringe.",
+      "Fülle die Zwiebeln in ein sauberes Schraubglas (ca. 400 ml).",
+      "Gib den Essig, 100 ml Wasser, 1 EL Zucker und 1 TL Salz in einen kleinen Topf und erhitze alles, bis sich Zucker und Salz gelöst haben. Das Ganze muss nicht kochen.",
+      "Gieße die warme Flüssigkeit über die Zwiebeln, bis sie bedeckt sind. Drücke sie mit einem Löffel etwas herunter.",
+      "Lass das Glas offen abkühlen, verschließe es dann und stell es in den Kühlschrank. Nach etwa 30 Minuten kannst du die Zwiebeln schon essen, am nächsten Tag sind sie am besten."
+     ]
+    }
+   },
+   {
+    "titel": "Schnelles Einlegen: Quick-Pickles Gurke",
+    "absaetze": [
+     "Knackige Essiggurken selbst gemacht – ganz ohne stundenlanges Einkochen. Perfekt auf Burgern, im Sandwich oder einfach als Snack direkt aus dem Glas."
+    ],
+    "rezept": {
+     "titel": "Quick-Pickles Gurke",
+     "zeit_min": 10,
+     "wartezeit": "plus mind. 1 Stunde ziehen lassen",
+     "zutaten": [
+      "1 Salatgurke (oder 4 Minigurken)",
+      "150 ml heller Essig",
+      "1 Knoblauchzehe",
+      "½ TL Senfkörner oder 1 TL getrockneter Dill"
+     ],
+     "vorrat": [
+      "Wasser",
+      "Zucker",
+      "Salz"
+     ],
+     "schritte": [
+      "Wasche die Gurke und schneide sie in dünne Scheiben oder Sticks.",
+      "Schäle die Knoblauchzehe und halbiere sie.",
+      "Fülle Gurke, Knoblauch und Senfkörner oder Dill in ein sauberes Schraubglas.",
+      "Erhitze Essig, 150 ml Wasser, 2 EL Zucker und 1 TL Salz in einem kleinen Topf, bis sich alles gelöst hat.",
+      "Gieße die Flüssigkeit über die Gurken, lass alles abkühlen und stelle das verschlossene Glas in den Kühlschrank. Nach einer Stunde schmecken sie schon gut, nach einem Tag richtig nach Gewürzgurke. Haltbar etwa eine Woche."
+     ]
+    }
+   },
+   {
+    "titel": "Blitz-Marmelade mit Chiasamen",
+    "absaetze": [
+     "Marmelade selbst machen klingt nach Oma und stundenlangem Einkochen? Nicht mit diesem Trick! Chiasamen quellen in Flüssigkeit auf und machen die Fruchtmasse ganz von allein dick – ohne Gelierzucker und mit viel weniger Zucker als gekaufte Marmelade. Das Ergebnis schmeckt super fruchtig und passt auf Brot, Pfannkuchen, Joghurt oder Porridge.",
+     "Weil diese Marmelade nicht eingekocht wird, hält sie im Kühlschrank etwa eine Woche. Du kannst sie aber auch portionsweise einfrieren."
+    ],
+    "rezept": {
+     "titel": "Blitz-Marmelade mit Chiasamen",
+     "zeit_min": 10,
+     "wartezeit": "plus mind. 30 Minuten quellen lassen",
+     "zutaten": [
+      "300 g Beeren (frisch oder TK, z. B. Erdbeeren, Himbeeren oder Beerenmischung)",
+      "2 EL Chiasamen",
+      "1 EL Zitronensaft"
+     ],
+     "vorrat": [
+      "Zucker"
+     ],
+     "schritte": [
+      "Gib die Beeren in einen kleinen Topf. Große Erdbeeren schneidest du vorher klein.",
+      "Erhitze die Beeren bei mittlerer Hitze etwa 5 Minuten, bis sie weich werden und Saft ziehen. Zerdrücke sie mit einer Gabel oder einem Kartoffelstampfer.",
+      "Rühre 1–2 EL Zucker und den Zitronensaft unter und nimm den Topf vom Herd.",
+      "Rühre die Chiasamen ein und fülle die Masse in ein sauberes Glas.",
+      "Lass die Marmelade abkühlen und dann mindestens 30 Minuten im Kühlschrank fest werden. Je länger, desto dicker wird sie."
+     ]
+    }
+   },
+   {
+    "titel": "Reste-Ideen: Aus alt mach lecker",
+    "absaetze": [
+     "Reste sind kein Problem, sondern die Zutat für dein nächstes Gericht. Mit diesen Ideen wird aus dem, was übrig ist, etwas richtig Leckeres – und du wirfst kaum noch etwas weg."
+    ],
+    "liste": [
+     {
+      "begriff": "Übriger Reis",
+      "erklaerung": "Gebratener Reis ist sogar mit Reis vom Vortag am besten, weil er nicht so klebt! Brate den kalten Reis in etwas Öl mit TK-Erbsen und Möhrenwürfeln an, schiebe ihn zur Seite, verquirle ein Ei in der freien Pfannenhälfte und mische alles mit einem Schuss Sojasoße. Wichtig: gut durcherhitzen."
+     },
+     {
+      "begriff": "Übrige Nudeln",
+      "erklaerung": "Mach daraus eine Nudel-Frittata: Nudeln in einer Pfanne mit etwas Öl anbraten, 2–3 verquirlte Eier mit geriebenem Käse darübergießen und bei kleiner Hitze mit Deckel stocken lassen. Oder du mischst sie kalt mit Gemüse und Dressing zu einem Nudelsalat für die Lunchbox."
+     },
+     {
+      "begriff": "Altes Brot",
+      "erklaerung": "Trockenes Brot wird zu French Toast (in Ei-Milch-Mischung tauchen und in der Pfanne braten), zu knusprigen Croûtons für Suppe und Salat (Würfel in Öl anrösten) oder zu Paniermehl (ganz trocken werden lassen und fein reiben)."
+     },
+     {
+      "begriff": "Gemüsereste",
+      "erklaerung": "Ein paar Möhren, eine halbe Paprika, eine schrumpelige Zucchini? Alles klein schneiden und als Ofengemüse rösten, in ein Omelett geben oder mit Brühe zu einer Suppe kochen und pürieren. Auch auf einer Pizza oder in einer Quesadilla sind Gemüsereste perfekt aufgehoben."
+     },
+     {
+      "begriff": "Obstreste",
+      "erklaerung": "Braune Bananen sind ideal für Bananenpfannkuchen oder einen Smoothie. Weiches Obst schneidest du klein und frierst es ein – so hast du immer eine Smoothie-Basis parat. Oder du kochst es mit etwas Zucker zu einem schnellen Kompott für Joghurt und Porridge."
+     }
+    ]
+   }
+  ]
+ },
+ "schlusswort": {
+  "titel": "Du hast es drauf!",
+  "absaetze": [
+   "Wow, du bist am Ende des Buchs angekommen! Ob du schon alle 100 Rezepte ausprobiert hast oder erst ein paar – eines steht fest: Du bist jetzt jemand, der kochen kann. Und das ist eine Fähigkeit, die dich dein ganzes Leben begleiten wird.",
+   "Denk mal zurück an dein erstes Rezept. Vielleicht warst du ein bisschen nervös, hast jeden Schritt dreimal gelesen und dich gefragt, ob das wirklich klappt. Und dann stand da ein fertiges Gericht vor dir, das du selbst gemacht hast. Dieses Gefühl kann dir keiner mehr nehmen.",
+   "Jetzt ist die Zeit, mutig zu werden. Nimm deine Lieblingsrezepte und verändere sie. Probier ein neues Gewürz aus, tausche eine Zutat aus, kombiniere zwei Ideen zu einer ganz neuen. Die Tipps und Varianten bei den Rezepten sind nur der Anfang. Die besten Gerichte entstehen oft genau dann, wenn man einfach mal ausprobiert, was im Kühlschrank liegt.",
+   "Und vergiss nicht: Kochen ist am schönsten, wenn man es teilt. Lade deine Freunde zum Movie-Abend ein, überrasche deine Familie mit einem Frühstück am Wochenende oder bring selbst gebackene Kekse mit in die Schule. Essen verbindet – und du bist jetzt derjenige oder diejenige, der es auf den Tisch bringt.",
+   "Wenn mal etwas danebengeht, lach drüber und versuch es nochmal. Jeder Koch, jede Köchin hat schon Pfannkuchen verbrannt und Nudeln verkocht. Das gehört dazu.",
+   "Ich wünsche dir ganz viel Spaß in deiner Küche und guten Appetit bei allem, was du noch kochen wirst!",
+   "Eine kleine Bitte zum Schluss: Wenn dir dieses Buch gefallen hat, würde ich mich riesig über eine ehrliche Bewertung auf Amazon freuen. Schon ein, zwei Sätze helfen anderen Teenagern und Eltern dabei, das passende Kochbuch zu finden. Und mir zeigen sie, was dir gefallen hat und was ich noch besser machen kann. Danke dir!",
+   "Deine Gertraud Kron"
+  ]
+ }
+}

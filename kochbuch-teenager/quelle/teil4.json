@@ -1,0 +1,1152 @@
+{
+  "kapitel": [
+    {
+      "nr": 7,
+      "titel": "Gaming-, Movie- & Partyfood",
+      "untertitel": "Snacks für Zocker-Abende, Filmnächte und Partys",
+      "intro": "Der Film läuft gleich an, die Controller sind geladen oder deine Freunde stehen schon vor der Tür – und jetzt? Statt teurer Chipstüten zauberst du dir in diesem Kapitel Snacks, die richtig Eindruck machen. Von knusprigen Nachos mit geschmolzenem Käse über Mozzarella-Sticks bis zu klebrigen Honig-BBQ-Wings ist alles dabei. Die meisten Rezepte reichen für vier Leute und lassen sich prima vorbereiten, damit du selbst nichts verpasst. Viele Snacks gelingen auch im Airfryer, und ein paar kommen sogar ganz ohne Herd aus. Stell einfach alles auf den Tisch, verteil ein paar Servietten – und lass die Party starten.",
+      "rezepte": [
+        {
+          "nr": 73,
+          "titel": "Überbackene Nachos",
+          "teaser": "Knusprige Chips, geschmolzener Käse und ein Klecks Schmand – diese Nachos sind der Klassiker für jeden Filmabend. In 15 Minuten steht das Blech auf dem Tisch.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "200 g Tortilla-Chips (Natur oder Paprika)",
+            "200 g geriebener Gouda oder Cheddar",
+            "1 kleine Dose Mais (140 g Abtropfgewicht)",
+            "200 g Salsa-Dip (Glas)",
+            "150 g Schmand"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Heize den Backofen auf 200 °C Ober-/Unterhitze vor und lege ein Backblech mit Backpapier aus.",
+            "Gieße den Mais in ein Sieb und lass ihn gut abtropfen.",
+            "Verteile die Hälfte der Chips auf dem Blech, gib die Hälfte vom Mais, ein paar Kleckse Salsa und die Hälfte vom Käse darauf. Wiederhole das Ganze mit dem Rest.",
+            "Schiebe das Blech auf die mittlere Schiene und backe die Nachos 6–8 Minuten, bis der Käse geschmolzen ist und leicht Blasen wirft.",
+            "Hol das Blech mit Ofenhandschuhen heraus – es ist sehr heiß! Setze ein paar Kleckse Schmand obendrauf und serviere die Nachos sofort."
+          ],
+          "tipp": "Schichte die Chips in zwei Lagen statt in einem hohen Berg – so bekommt jeder Chip etwas Käse ab und nichts wird matschig.",
+          "variante": "Für mehr Schärfe streust du ein paar Jalapeño-Ringe aus dem Glas über den Käse.",
+          "naehrwerte": {
+            "kcal": 520,
+            "eiweiss": 17,
+            "kohlenhydrate": 42,
+            "fett": 31
+          },
+          "tags": [
+            "vegetarisch",
+            "Party"
+          ],
+          "foto_prompt": "Top-down view of a baking tray of loaded nachos with melted golden cheese, sweet corn, dollops of tomato salsa and sour cream. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 74,
+          "titel": "Popcorn in drei Varianten",
+          "teaser": "Einmal Mais, dreimal Kino-Feeling: süß, salzig oder mit Zimt. Selbst gemachtes Popcorn ist günstiger als jede Kinotüte und schmeckt viel frischer.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "100 g Popcornmais",
+            "40 g Butter",
+            "1 TL Zimt"
+          ],
+          "vorrat": [
+            "Öl",
+            "Zucker",
+            "Salz"
+          ],
+          "schritte": [
+            "Gib 2 EL Öl und 3 Maiskörner in einen großen Topf mit Deckel und erhitze alles bei mittlerer bis hoher Hitze. Sobald die Testkörner aufploppen, ist das Öl heiß genug.",
+            "Schütte den restlichen Popcornmais in den Topf, setze sofort den Deckel auf und schüttle den Topf ab und zu leicht. Nimm ihn vom Herd, wenn zwischen dem Ploppen 2–3 Sekunden Pause sind.",
+            "Lass den Deckel noch 1 Minute drauf, damit keine heißen Körner herausspringen. Verteile das Popcorn dann gleichmäßig auf drei Schüsseln.",
+            "Schmelze die Butter in einem kleinen Topf bei niedriger Hitze. Salzig: Träufle ein Drittel der Butter über die erste Schüssel und streue 1/2 TL Salz darüber.",
+            "Süß: Rühre 2 EL Zucker unter ein Drittel der Butter und mische es mit der zweiten Schüssel. Zimt: Verrühre den Rest Butter mit 1 EL Zucker und dem Zimt und schwenke damit die dritte Schüssel durch."
+          ],
+          "tipp": "Schüttle jede Schüssel nach dem Würzen mit einem Teller als Deckel kräftig durch – so verteilt sich die Butter am besten.",
+          "variante": "Für eine herzhafte Pizza-Variante streust du statt Zimt 1 TL getrockneten Oregano über das salzige Popcorn.",
+          "naehrwerte": {
+            "kcal": 230,
+            "eiweiss": 3,
+            "kohlenhydrate": 26,
+            "fett": 13
+          },
+          "tags": [
+            "vegetarisch",
+            "Party"
+          ],
+          "foto_prompt": "Three bowls of homemade popcorn side by side: plain salted, sugar-glazed and cinnamon-dusted, 45° angle on a light wooden table. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 75,
+          "titel": "Mozzarella-Sticks",
+          "teaser": "Außen knusprig, innen zieht der Käse lange Fäden – Mozzarella-Sticks sind einfach Kult. Mit Tomatendip schmecken sie wie aus dem Diner.",
+          "zeit_min": 25,
+          "wartezeit": "plus 30 Minuten im Gefrierfach",
+          "portionen": 4,
+          "level": "Mittel",
+          "kosten": "€€",
+          "zutaten": [
+            "250 g Mozzarella am Stück (Pizzakäse-Block)",
+            "2 Eier",
+            "3 EL Mehl",
+            "80 g Paniermehl",
+            "200 g Pizzasauce zum Dippen"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz"
+          ],
+          "schritte": [
+            "Schneide den Mozzarella in etwa 1,5 cm dicke Stifte. Führe das Messer dabei immer vom Körper weg.",
+            "Stelle drei tiefe Teller nebeneinander: einen mit Mehl, einen mit den verquirlten Eiern und einer Prise Salz, einen mit Paniermehl.",
+            "Wende jeden Stick erst im Mehl, dann im Ei und dann im Paniermehl. Tauche ihn danach noch einmal in Ei und Paniermehl – die doppelte Panade hält den Käse drin.",
+            "Lege die Sticks auf einen Teller und stelle sie 30 Minuten ins Gefrierfach, damit sie beim Braten nicht auslaufen.",
+            "Erhitze in einer Pfanne etwa 1 cm hoch Öl bei mittlerer bis hoher Hitze. Brate die Sticks portionsweise 1–2 Minuten pro Seite, bis sie rundum goldbraun sind. Vorsicht, heißes Öl spritzt!",
+            "Lass die Sticks kurz auf Küchenpapier abtropfen. Erwärme die Pizzasauce in einem kleinen Topf und serviere sie als Dip dazu."
+          ],
+          "tipp": "Nicht zu lange braten: Sobald die Panade goldbraun ist, sofort raus damit, sonst bricht der Käse durch.",
+          "variante": "Mische 1 TL getrockneten Oregano ins Paniermehl, dann schmecken die Sticks noch mehr nach Pizza.",
+          "naehrwerte": {
+            "kcal": 390,
+            "eiweiss": 22,
+            "kohlenhydrate": 24,
+            "fett": 23
+          },
+          "tags": [
+            "vegetarisch",
+            "Airfryer-geeignet",
+            "Party"
+          ],
+          "foto_prompt": "Golden crispy breaded mozzarella sticks, one pulled apart with a long cheese stretch, with a small bowl of tomato dipping sauce, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 76,
+          "titel": "Honig-BBQ-Chicken-Wings",
+          "teaser": "Klebrig, süß und ein bisschen rauchig – bei diesen Wings leckt sich jeder die Finger ab. Der Ofen macht dabei fast die ganze Arbeit.",
+          "zeit_min": 30,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "800 g Chicken Wings (geteilt)",
+            "5 EL BBQ-Sauce",
+            "2 EL Honig",
+            "1 TL Paprikapulver edelsüß"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Heize den Backofen auf 220 °C Umluft vor und lege ein Blech mit Backpapier aus.",
+            "Tupfe die Wings mit Küchenpapier trocken und mische sie in einer Schüssel mit 1 EL Öl, Paprikapulver, 1 TL Salz und etwas Pfeffer. Wasch dir danach gründlich die Hände, weil rohes Hähnchen Keime haben kann.",
+            "Verteile die Wings mit etwas Abstand auf dem Blech und backe sie 15 Minuten auf der mittleren Schiene.",
+            "Verrühre in der Zwischenzeit BBQ-Sauce und Honig in einer großen Schüssel.",
+            "Hol das Blech mit Ofenhandschuhen heraus, gib die Wings in die Schüssel und schwenke sie in der Sauce. Leg sie zurück aufs Blech und backe sie weitere 8–10 Minuten, bis sie glänzend und an den Rändern leicht dunkel sind.",
+            "Schneide einen dicken Wing zur Probe an: Das Fleisch muss komplett durch sein und darf innen nicht mehr rosa sein."
+          ],
+          "tipp": "Je trockener die Haut vor dem Backen ist, desto knuspriger werden die Wings – also das Abtupfen nicht weglassen.",
+          "variante": "Für eine scharfe Version rührst du 1 TL Sriracha oder Chiliflocken unter die Honig-BBQ-Sauce.",
+          "naehrwerte": {
+            "kcal": 410,
+            "eiweiss": 32,
+            "kohlenhydrate": 15,
+            "fett": 25
+          },
+          "tags": [
+            "Airfryer-geeignet",
+            "Party"
+          ],
+          "foto_prompt": "Sticky glazed honey barbecue chicken wings piled on a parchment-lined tray, glossy and slightly charred at the edges, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 77,
+          "titel": "Guacamole mit Tortilla-Chips",
+          "teaser": "Cremig, frisch und mit einem Spritzer Limette – diese Guacamole ist in zehn Minuten fertig. Einmal selbst gemacht, willst du keine aus dem Glas mehr.",
+          "zeit_min": 10,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "3 reife Avocados",
+            "1 Limette",
+            "1 Tomate",
+            "1/2 rote Zwiebel",
+            "200 g Tortilla-Chips (Natur)"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Schneide die Avocados der Länge nach rundherum bis zum Kern ein und drehe die Hälften gegeneinander auseinander. Löse den Kern vorsichtig mit einem Löffel heraus.",
+            "Löffle das Fruchtfleisch in eine Schüssel und zerdrücke es mit einer Gabel – ein paar kleine Stückchen dürfen ruhig bleiben.",
+            "Presse die Limette aus und rühre den Saft sofort unter, damit die Guacamole schön grün bleibt.",
+            "Schneide die Tomate und die Zwiebel in sehr kleine Würfel und mische sie unter. Schmecke alles mit Salz und Pfeffer ab.",
+            "Fülle die Guacamole in eine Schale und serviere sie mit den Tortilla-Chips."
+          ],
+          "tipp": "Reife Avocados geben auf leichten Druck nach. Sind sie noch hart, leg sie mit einem Apfel in eine Papiertüte – dann sind sie in ein bis zwei Tagen reif.",
+          "variante": "Wenn du es schärfer magst, rührst du ein paar Spritzer Tabasco oder etwas fein gehackte Chili unter.",
+          "naehrwerte": {
+            "kcal": 430,
+            "eiweiss": 6,
+            "kohlenhydrate": 34,
+            "fett": 30
+          },
+          "tags": [
+            "vegan",
+            "ohne Herd",
+            "Party"
+          ],
+          "foto_prompt": "Bowl of chunky fresh guacamole with diced tomato and red onion, lime wedge, surrounded by tortilla chips, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 78,
+          "titel": "Würstchen im Blätterteig",
+          "teaser": "Würstchen im goldenen Teigmantel sind der Hit auf jeder Party. Mit fertigem Blätterteig brauchst du dafür nur ein paar Handgriffe.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "1 Rolle Blätterteig (275 g, Kühlregal)",
+            "8 Wiener Würstchen",
+            "2 EL mittelscharfer Senf",
+            "1 Ei",
+            "1 EL Sesam"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Heize den Backofen auf 200 °C Ober-/Unterhitze vor. Nimm den Blätterteig 5 Minuten vorher aus dem Kühlschrank, dann bricht er beim Ausrollen nicht.",
+            "Rolle den Teig samt Backpapier aus und schneide ihn mit einem Messer oder Pizzaschneider in 8 gleich breite Streifen.",
+            "Bestreiche jeden Streifen dünn mit Senf und wickle ihn spiralförmig um ein Würstchen.",
+            "Lege die Würstchen auf ein Blech mit Backpapier. Verquirle das Ei und pinsle den Teig damit ein, dann streust du den Sesam darüber.",
+            "Backe die Würstchen 15–18 Minuten auf der mittleren Schiene, bis der Teig aufgegangen und goldbraun ist. Hol das Blech mit Ofenhandschuhen heraus und lass alles kurz abkühlen."
+          ],
+          "tipp": "Schneide die Würstchen vor dem Einwickeln einmal in der Mitte durch – so bekommst du 16 Partyhappen, die man gut mit den Fingern essen kann.",
+          "variante": "Vegetarisch klappt es genauso mit veganen Wiener Würstchen aus dem Kühlregal.",
+          "naehrwerte": {
+            "kcal": 520,
+            "eiweiss": 17,
+            "kohlenhydrate": 28,
+            "fett": 38
+          },
+          "tags": [
+            "Airfryer-geeignet",
+            "Lunchbox",
+            "Party"
+          ],
+          "foto_prompt": "Golden puff pastry wrapped sausages sprinkled with sesame seeds on a baking tray with a small bowl of mustard, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 79,
+          "titel": "Kartoffelchips aus der Mikrowelle",
+          "teaser": "Knusprige Chips ohne Fritteuse und mit ganz wenig Fett? Mit der Mikrowelle klappt das erstaunlich gut – und du bestimmst die Würze selbst.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 mittelgroße festkochende Kartoffeln (ca. 300 g)",
+            "1 TL Paprikapulver edelsüß",
+            "1/2 TL Knoblauchpulver"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz"
+          ],
+          "schritte": [
+            "Wasche die Kartoffeln gründlich. Schäle sie, wenn du magst – mit Schale werden die Chips rustikaler.",
+            "Hobel die Kartoffeln mit einem Gemüsehobel in hauchdünne Scheiben. Benutze unbedingt den Restehalter, damit deine Finger sicher sind.",
+            "Leg die Scheiben in eine Schüssel mit kaltem Wasser, schwenke sie kurz und tupfe sie danach mit Küchenpapier richtig trocken.",
+            "Mische die Scheiben mit 1 EL Öl, Paprikapulver, Knoblauchpulver und 1/2 TL Salz. Lege einen großen Teller mit Backpapier aus und verteile darauf eine Lage Kartoffelscheiben, ohne dass sie sich überlappen.",
+            "Gare die Chips bei 800 Watt 3–5 Minuten, bis sie hellgold sind und an einigen Stellen leicht braun werden. Behalte sie im Blick, ab hier geht es schnell.",
+            "Nimm den Teller vorsichtig heraus (er ist heiß!) und lass die Chips 1 Minute abkühlen – dann werden sie richtig knusprig. Wiederhole das mit den restlichen Scheiben."
+          ],
+          "tipp": "Je gleichmäßiger und dünner die Scheiben sind, desto gleichzeitiger werden sie knusprig.",
+          "variante": "Statt Paprika und Knoblauch passen auch getrocknete Kräuter wie Rosmarin oder Oregano.",
+          "naehrwerte": {
+            "kcal": 190,
+            "eiweiss": 3,
+            "kohlenhydrate": 26,
+            "fett": 8
+          },
+          "tags": [
+            "vegan",
+            "Mikrowelle",
+            "Party"
+          ],
+          "foto_prompt": "Thin homemade golden potato chips dusted with paprika in a white bowl, a few scattered on parchment paper, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 80,
+          "titel": "Knoblauch-Käse-Brot",
+          "teaser": "Duftendes Baguette mit Knoblauchbutter und geschmolzenem Käse – dieses Brot ist schneller weg, als du gucken kannst.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "1 Baguette (ca. 250 g)",
+            "60 g weiche Butter",
+            "2 Knoblauchzehen",
+            "100 g geriebener Mozzarella",
+            "1 TL getrocknete italienische Kräuter"
+          ],
+          "vorrat": [
+            "Salz"
+          ],
+          "schritte": [
+            "Heize den Backofen auf 200 °C Ober-/Unterhitze vor und nimm die Butter rechtzeitig aus dem Kühlschrank.",
+            "Schäle den Knoblauch, presse ihn durch eine Knoblauchpresse und verrühre ihn mit Butter, Kräutern und einer Prise Salz.",
+            "Schneide das Baguette der Länge nach auf und streiche beide Hälften mit der Knoblauchbutter ein.",
+            "Verteile den Mozzarella darauf und lege die Hälften auf ein Blech mit Backpapier.",
+            "Backe das Brot 8–10 Minuten, bis der Käse geschmolzen ist und die Ränder goldbraun und knusprig sind. Hol es mit Ofenhandschuhen heraus und schneide es in breite Streifen."
+          ],
+          "tipp": "Wer es extra knusprig mag, schaltet für die letzten 1–2 Minuten den Grill an – aber nicht weggehen, sonst wird der Käse schwarz.",
+          "variante": "Für eine würzige Version legst du vor dem Käse ein paar Salami-Scheiben auf das Brot.",
+          "naehrwerte": {
+            "kcal": 330,
+            "eiweiss": 11,
+            "kohlenhydrate": 33,
+            "fett": 17
+          },
+          "tags": [
+            "vegetarisch",
+            "Party"
+          ],
+          "foto_prompt": "Halved baguette topped with garlic herb butter and bubbling golden melted mozzarella, cut into strips on a wooden board, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 81,
+          "titel": "Tomate-Mozzarella-Spieße",
+          "teaser": "Die italienische Lieblingskombi am Spieß: frisch, bunt und in zehn Minuten fertig. Perfekt, wenn auf dem Partytisch auch etwas Leichtes stehen soll.",
+          "zeit_min": 10,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "250 g Cherrytomaten",
+            "250 g Mini-Mozzarella-Kugeln",
+            "1 Topf Basilikum",
+            "2 EL Balsamico-Creme"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Wasche die Cherrytomaten und tupfe sie trocken. Gieße den Mozzarella in einem Sieb ab.",
+            "Zupfe die Basilikumblätter von den Stielen. Große Blätter kannst du einmal halbieren.",
+            "Stecke abwechselnd Tomate, Basilikumblatt und Mozzarella-Kugel auf kleine Holzspieße – pro Spieß etwa zwei Runden.",
+            "Lege die Spieße auf eine Platte, beträufle sie mit etwas Öl und würze sie mit Salz und Pfeffer.",
+            "Ziehe kurz vor dem Servieren die Balsamico-Creme in dünnen Streifen darüber."
+          ],
+          "tipp": "Gib die Balsamico-Creme erst ganz zum Schluss dazu, sonst weicht sie den Mozzarella auf und die Spieße sehen nicht mehr so frisch aus.",
+          "variante": "Für eine herzhaftere Variante steckst du noch ein gefaltetes Stück Salami oder ein paar Gurkenwürfel mit auf den Spieß.",
+          "naehrwerte": {
+            "kcal": 200,
+            "eiweiss": 12,
+            "kohlenhydrate": 6,
+            "fett": 14
+          },
+          "tags": [
+            "vegetarisch",
+            "ohne Herd",
+            "Lunchbox",
+            "Party"
+          ],
+          "foto_prompt": "Colorful skewers of cherry tomatoes, fresh basil leaves and mini mozzarella balls drizzled with balsamic glaze on a white platter, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 82,
+          "titel": "Süßkartoffel-Pommes",
+          "teaser": "Süßkartoffel-Pommes sind außen knusprig, innen weich und leicht süßlich. Mit Kräuterquark zum Dippen ein mega Snack für den Filmabend.",
+          "zeit_min": 30,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "500 g Süßkartoffeln",
+            "1 EL Speisestärke",
+            "1 TL Paprikapulver edelsüß",
+            "150 g Kräuterquark"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz"
+          ],
+          "schritte": [
+            "Heize den Backofen auf 220 °C Umluft vor und lege ein Blech mit Backpapier aus.",
+            "Schäle die Süßkartoffeln und schneide sie in etwa 1 cm dicke Stifte. Arbeite auf einem rutschfesten Brett und schneide vom Körper weg – Süßkartoffeln sind ziemlich hart.",
+            "Gib die Stifte in eine Schüssel, streue die Speisestärke darüber und schüttle alles gut durch. Mische dann 2 EL Öl und das Paprikapulver unter.",
+            "Verteile die Pommes in einer einzigen Lage mit etwas Abstand auf dem Blech. Liegen sie übereinander, werden sie nicht knusprig.",
+            "Backe sie 20–22 Minuten und wende sie nach der Hälfte der Zeit. Sie sind fertig, wenn die Ränder braun und knusprig sind.",
+            "Salze die Pommes erst nach dem Backen und serviere sie mit dem Kräuterquark."
+          ],
+          "tipp": "Die Speisestärke ist der Game Changer: Sie zieht Feuchtigkeit aus der Oberfläche und sorgt für die knusprige Kruste.",
+          "variante": "Im Airfryer brauchen die Pommes bei 200 °C etwa 15 Minuten – zwischendurch einmal kräftig schütteln.",
+          "naehrwerte": {
+            "kcal": 380,
+            "eiweiss": 9,
+            "kohlenhydrate": 56,
+            "fett": 13
+          },
+          "tags": [
+            "vegetarisch",
+            "Airfryer-geeignet"
+          ],
+          "foto_prompt": "Crispy orange sweet potato fries in a parchment-lined basket with a small bowl of herb quark dip, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 83,
+          "titel": "Warmer Pizza-Dip",
+          "teaser": "Alles, was du an Pizza liebst, als cremiger Dip aus dem Ofen. Einfach Baguette reintunken und genießen!",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "200 g Frischkäse",
+            "150 g Pizzasauce",
+            "100 g geriebener Mozzarella",
+            "50 g Salami in Scheiben",
+            "1 Baguette zum Dippen"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Heize den Backofen auf 200 °C Ober-/Unterhitze vor.",
+            "Rühre den Frischkäse in einer Schüssel cremig und streiche ihn in eine kleine ofenfeste Form.",
+            "Verteile die Pizzasauce gleichmäßig darauf und streue den Mozzarella darüber.",
+            "Schneide die Salami in Viertel und lege sie auf den Käse.",
+            "Backe den Dip 15 Minuten, bis der Käse geschmolzen ist und leicht Blasen wirft. Hol die Form mit Ofenhandschuhen heraus und schneide in der Zwischenzeit das Baguette in Scheiben.",
+            "Lass den Dip 2–3 Minuten abkühlen, bevor ihr reintunkt – innen ist er richtig heiß."
+          ],
+          "tipp": "Röste die Baguettescheiben in den letzten 5 Minuten mit im Ofen, dann sind sie schön knusprig und brechen beim Dippen nicht.",
+          "variante": "Vegetarisch wird der Dip mit Paprikawürfeln oder Mais statt Salami.",
+          "naehrwerte": {
+            "kcal": 470,
+            "eiweiss": 17,
+            "kohlenhydrate": 39,
+            "fett": 27
+          },
+          "tags": [
+            "Party"
+          ],
+          "foto_prompt": "Bubbling hot pizza dip in a small baking dish with melted mozzarella and salami, surrounded by toasted baguette slices, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 84,
+          "titel": "Knusper-Kichererbsen",
+          "teaser": "Knusprig wie Chips, aber mit viel Eiweiß: Geröstete Kichererbsen sind der perfekte Snack zum Zocken. Und sie hinterlassen keine fettigen Finger am Controller.",
+          "zeit_min": 30,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 Dosen Kichererbsen (je 240 g Abtropfgewicht)",
+            "1 TL Paprikapulver geräuchert",
+            "1/2 TL Knoblauchpulver"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz"
+          ],
+          "schritte": [
+            "Heize den Backofen auf 220 °C Umluft vor und lege ein Blech mit Backpapier aus.",
+            "Gieße die Kichererbsen in ein Sieb, spüle sie kalt ab und lass sie gut abtropfen.",
+            "Tupfe sie mit Küchenpapier richtig trocken. Lose Häutchen, die dabei abgehen, kannst du wegwerfen.",
+            "Mische die Kichererbsen in einer Schüssel mit 2 EL Öl, Paprikapulver, Knoblauchpulver und 1 TL Salz.",
+            "Verteile sie auf dem Blech und röste sie 20–25 Minuten. Schüttle das Blech nach der Hälfte der Zeit einmal mit Ofenhandschuhen durch. Sie sind fertig, wenn sie goldbraun sind und beim Draufbeißen knacken.",
+            "Lass sie auf dem Blech abkühlen – dabei werden sie noch knuspriger."
+          ],
+          "tipp": "Am knusprigsten sind die Kichererbsen am selben Tag. Bewahre sie offen in einer Schale auf, in einer geschlossenen Dose werden sie weich.",
+          "variante": "Für eine süße Version mischst du sie statt mit Paprika und Knoblauch mit Zimt und 1 EL Zucker.",
+          "naehrwerte": {
+            "kcal": 230,
+            "eiweiss": 10,
+            "kohlenhydrate": 28,
+            "fett": 8
+          },
+          "tags": [
+            "vegan",
+            "Airfryer-geeignet",
+            "Meal-Prep",
+            "Lunchbox"
+          ],
+          "foto_prompt": "Golden roasted crunchy chickpeas seasoned with smoked paprika in a small bowl, some scattered on parchment paper, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        }
+      ]
+    },
+    {
+      "nr": 8,
+      "titel": "Süßes & Desserts",
+      "untertitel": "Weil Nachtisch einfach sein muss",
+      "intro": "Mal ehrlich: Ein gutes Essen ist erst mit Nachtisch komplett. In diesem Kapitel findest du Desserts, die schnell gehen und trotzdem richtig beeindrucken. Der Schoko-Tassenkuchen ist in wenigen Minuten aus der Mikrowelle, die Bananen-Nice-Cream braucht nur eine Handvoll Zutaten, und das Tiramisu im Glas klappt ganz ohne Ei und Kaffee. Wenn du mehr Lust auf Pfanne hast, probier Crêpes oder einen echten Kaiserschmarrn. Viele Rezepte eignen sich auch super, um Freunde oder deine Familie zu überraschen. Also: Schürze an, Löffel bereit – jetzt wird's süß!",
+      "rezepte": [
+        {
+          "nr": 85,
+          "titel": "Schoko-Tassenkuchen (Mug Cake)",
+          "teaser": "Warmer Schokokuchen in nur fünf Minuten – direkt aus der Tasse gelöffelt. Perfekt, wenn die Lust auf Süßes ganz plötzlich kommt.",
+          "zeit_min": 10,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "8 EL Mehl",
+            "4 EL Kakaopulver (ungesüßt)",
+            "1/2 TL Backpulver",
+            "8 EL Milch",
+            "2 EL Schokotropfen"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Öl",
+            "Salz"
+          ],
+          "schritte": [
+            "Nimm zwei große mikrowellengeeignete Tassen (mind. 300 ml). Gib in jede Tasse 4 EL Mehl, 2 EL Kakao, 3 EL Zucker, 1/4 TL Backpulver und eine Prise Salz.",
+            "Rühre alles mit einer Gabel gut durch, damit keine Klümpchen vom Backpulver bleiben.",
+            "Gib in jede Tasse 4 EL Milch und 2 EL Öl und rühre so lange, bis ein glatter, dicker Teig entsteht. Kratze dabei auch den Boden der Tasse aus.",
+            "Streue die Schokotropfen obendrauf und drücke sie leicht in den Teig.",
+            "Gare jede Tasse einzeln bei 800 Watt 60–90 Sekunden. Der Kuchen ist fertig, wenn er aufgegangen ist und oben fest aussieht, in der Mitte aber noch leicht feucht ist.",
+            "Nimm die Tasse mit einem Topflappen heraus – sie ist heiß! Lass den Kuchen 1 Minute abkühlen und iss ihn warm."
+          ],
+          "tipp": "Lieber etwas zu kurz als zu lange garen: Ein paar Sekunden zu viel, und der Kuchen wird trocken und gummiartig.",
+          "variante": "Lege vor dem Garen 1 TL Nuss-Nougat-Creme in die Mitte des Teigs – dann hast du einen flüssigen Schokokern.",
+          "naehrwerte": {
+            "kcal": 390,
+            "eiweiss": 7,
+            "kohlenhydrate": 52,
+            "fett": 18
+          },
+          "tags": [
+            "vegetarisch",
+            "Mikrowelle"
+          ],
+          "foto_prompt": "Chocolate mug cake in a white ceramic mug with melted chocolate chips on top and a spoon beside it, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 86,
+          "titel": "Schoko-Cookies",
+          "teaser": "Außen knusprig, innen weich und voller Schokostückchen – genau so müssen Cookies sein. Der Duft aus dem Ofen lockt garantiert alle in die Küche.",
+          "zeit_min": 25,
+          "wartezeit": "plus 10 Minuten Abkühlen",
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "100 g weiche Butter",
+            "1 Ei",
+            "150 g Mehl",
+            "1/2 TL Backpulver",
+            "75 g Schokotropfen"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Salz"
+          ],
+          "schritte": [
+            "Heize den Backofen auf 180 °C Ober-/Unterhitze vor und lege ein Blech mit Backpapier aus.",
+            "Verrühre die weiche Butter mit 80 g Zucker und einer Prise Salz mit dem Handrührgerät, bis die Masse hell und cremig ist. Rühre dann das Ei unter.",
+            "Mische Mehl und Backpulver und rühre sie kurz unter die Buttermasse, bis gerade so ein Teig entsteht. Hebe die Schokotropfen mit einem Löffel unter.",
+            "Forme mit zwei Teelöffeln etwa 12 kleine Teighäufchen und setze sie mit viel Abstand auf das Blech – die Cookies laufen beim Backen auseinander.",
+            "Backe sie 10–12 Minuten, bis die Ränder goldbraun sind. Die Mitte darf noch weich aussehen, sie wird beim Abkühlen fest.",
+            "Hol das Blech mit Ofenhandschuhen heraus und lass die Cookies 10 Minuten auf dem Blech abkühlen, bevor du sie herunternimmst."
+          ],
+          "tipp": "Nimm die Cookies lieber eine Minute zu früh aus dem Ofen – dann bleiben sie innen schön chewy.",
+          "variante": "Mit weißen Schokotropfen und einer Handvoll gehackter Haselnüsse werden daraus Edel-Cookies.",
+          "naehrwerte": {
+            "kcal": 510,
+            "eiweiss": 7,
+            "kohlenhydrate": 60,
+            "fett": 27
+          },
+          "tags": [
+            "vegetarisch",
+            "Lunchbox",
+            "Party"
+          ],
+          "foto_prompt": "Stack of golden chocolate chip cookies with gooey melted chocolate, one broken in half, on a cooling rack, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 87,
+          "titel": "Bananen-Nice-Cream",
+          "teaser": "Eis aus nur einer Hauptzutat? Gefrorene Bananen werden im Mixer so cremig wie Softeis. Richtig lecker – und ganz ohne Eismaschine.",
+          "zeit_min": 5,
+          "wartezeit": "plus mindestens 4 Stunden Gefrieren der Bananen",
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "3 reife Bananen",
+            "4 EL Milch",
+            "1 EL Erdnussbutter",
+            "1 EL Schokoraspeln"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Schäle die Bananen, schneide sie in etwa 2 cm dicke Scheiben und friere sie in einem Gefrierbeutel mindestens 4 Stunden ein.",
+            "Nimm die Bananenscheiben aus dem Gefrierfach und lass sie 2–3 Minuten antauen.",
+            "Gib die Bananen mit der Milch und der Erdnussbutter in einen Standmixer oder einen hohen Becher und püriere alles. Halte den Pürierstab dabei gut fest.",
+            "Mach zwischendurch eine kurze Pause und schiebe die Masse mit einem Löffel nach unten. Püriere so lange, bis sie glatt und cremig wie Softeis ist.",
+            "Fülle die Nice-Cream in zwei Schalen, streue die Schokoraspeln darüber und iss sie sofort."
+          ],
+          "tipp": "Je reifer die Bananen mit braunen Pünktchen sind, desto süßer wird dein Eis – Zucker brauchst du dann gar nicht.",
+          "variante": "Für eine vegane Version nimmst du Haferdrink statt Milch, für Schoko-Eis rührst du 1 EL Kakao mit unter.",
+          "naehrwerte": {
+            "kcal": 230,
+            "eiweiss": 5,
+            "kohlenhydrate": 40,
+            "fett": 6
+          },
+          "tags": [
+            "vegetarisch",
+            "ohne Herd"
+          ],
+          "foto_prompt": "Two bowls of creamy banana nice cream topped with chocolate shavings and a drizzle of peanut butter, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 88,
+          "titel": "Crêpes mit Schokocreme",
+          "teaser": "Hauchdünne Crêpes, warm gefaltet und mit Schokocreme gefüllt – wie vom Jahrmarkt, nur bei dir zu Hause.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€",
+          "zutaten": [
+            "125 g Mehl",
+            "250 ml Milch",
+            "2 Eier",
+            "15 g Butter",
+            "4 EL Nuss-Nougat-Creme"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Salz"
+          ],
+          "schritte": [
+            "Verrühre Mehl, Milch, Eier, 1 EL Zucker und eine Prise Salz mit einem Schneebesen zu einem glatten, recht flüssigen Teig.",
+            "Erhitze eine beschichtete Pfanne bei mittlerer Hitze und gib ein kleines Stück Butter hinein.",
+            "Gieße eine kleine Kelle Teig in die Pfanne und schwenke sie sofort, sodass sich der Teig hauchdünn verteilt.",
+            "Backe den Crêpe etwa 1 Minute, bis sich der Rand leicht löst und die Unterseite goldene Flecken hat. Wende ihn mit einem Pfannenwender und backe die zweite Seite 30 Sekunden.",
+            "Wiederhole das mit dem restlichen Teig und gib ab und zu etwas Butter in die Pfanne. Stapel die fertigen Crêpes auf einem Teller.",
+            "Bestreiche jeden Crêpe mit Nuss-Nougat-Creme, falte ihn zweimal zu einem Dreieck und serviere ihn warm."
+          ],
+          "tipp": "Lass den Teig 5 Minuten ruhen, während die Pfanne heiß wird – dann werden die Crêpes gleichmäßiger und reißen nicht so leicht.",
+          "variante": "Statt Schokocreme schmecken die Crêpes auch mit Apfelmus und Zimt-Zucker.",
+          "naehrwerte": {
+            "kcal": 560,
+            "eiweiss": 17,
+            "kohlenhydrate": 68,
+            "fett": 25
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Thin golden crêpes folded into triangles with chocolate hazelnut spread oozing out, on a plate, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 89,
+          "titel": "Apple Crumble im Glas",
+          "teaser": "Warme Zimtäpfel unter knusprigen Streuseln – ein Dessert, das nach Herbst und Gemütlichkeit schmeckt. Im Glas angerichtet sieht es aus wie aus dem Café.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 Äpfel",
+            "1/2 TL Zimt",
+            "50 g Mehl",
+            "30 g Butter",
+            "30 g zarte Haferflocken"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Wasser"
+          ],
+          "schritte": [
+            "Schäle die Äpfel, viertle sie, entferne das Kerngehäuse und schneide sie in kleine Würfel.",
+            "Gib die Apfelwürfel mit 1 EL Zucker, dem Zimt und 2 EL Wasser in einen Topf. Dünste sie bei mittlerer Hitze mit Deckel 6–8 Minuten, bis sie weich, aber nicht matschig sind.",
+            "Verknete Mehl, Butter, Haferflocken und 2 EL Zucker in einer Schüssel mit den Fingern zu groben Streuseln.",
+            "Röste die Streusel in einer Pfanne ohne Fett bei mittlerer Hitze 5–6 Minuten unter Rühren, bis sie goldbraun sind und duften.",
+            "Verteile die warmen Äpfel auf zwei Gläser und gib die Streusel darüber. Iss den Crumble am besten noch warm."
+          ],
+          "tipp": "Säuerliche Äpfel wie Boskop oder Elstar passen am besten, weil sie einen schönen Kontrast zu den süßen Streuseln bilden.",
+          "variante": "Im Sommer kannst du die Äpfel durch TK-Beeren ersetzen – die musst du nur 3 Minuten erwärmen.",
+          "naehrwerte": {
+            "kcal": 360,
+            "eiweiss": 5,
+            "kohlenhydrate": 54,
+            "fett": 14
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Two glass jars layered with warm cinnamon apple compote and golden crumble topping, a spoon beside them, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 90,
+          "titel": "Schoko-Erdbeeren",
+          "teaser": "Saftige Erdbeeren im Schokomantel sehen aus wie vom Konditor, sind aber super einfach. Ideal für einen Filmabend oder als Mitbringsel.",
+          "zeit_min": 15,
+          "wartezeit": "plus 20 Minuten im Kühlschrank",
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "500 g Erdbeeren",
+            "100 g Zartbitterschokolade",
+            "50 g weiße Schokolade",
+            "2 EL bunte Zuckerstreusel"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Wasche die Erdbeeren vorsichtig, lass das Grün dran und tupfe sie mit Küchenpapier komplett trocken. Nasse Erdbeeren nimmt die Schokolade nicht an.",
+            "Brich die Zartbitterschokolade in eine mikrowellengeeignete Schüssel und schmelze sie bei 600 Watt in 30-Sekunden-Schritten. Rühre nach jedem Schritt um, bis sie glatt ist.",
+            "Halte jede Erdbeere am Grün fest, tauche sie zu zwei Dritteln in die Schokolade und lass sie kurz abtropfen. Lege sie auf ein Brett mit Backpapier.",
+            "Schmelze die weiße Schokolade genauso und ziehe sie mit einem Löffel in feinen Streifen über die Erdbeeren. Streue sofort ein paar Zuckerstreusel darauf.",
+            "Stelle die Erdbeeren 20 Minuten in den Kühlschrank, bis die Schokolade fest ist."
+          ],
+          "tipp": "Weiße Schokolade verbrennt schnell – schmelze sie deshalb nur in 20-Sekunden-Schritten und lieber etwas zu vorsichtig.",
+          "variante": "Statt Streuseln kannst du die Erdbeeren auch in gehackte Nüsse oder Kokosraspeln tauchen.",
+          "naehrwerte": {
+            "kcal": 240,
+            "eiweiss": 3,
+            "kohlenhydrate": 30,
+            "fett": 12
+          },
+          "tags": [
+            "vegetarisch",
+            "Mikrowelle",
+            "Party"
+          ],
+          "foto_prompt": "Fresh strawberries dipped in dark chocolate with white chocolate drizzle and colorful sprinkles on parchment paper, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 91,
+          "titel": "Tiramisu im Glas",
+          "teaser": "Cremig, schokoladig und ganz ohne Ei und Kaffee: Dieses Tiramisu bekommt seinen Geschmack von Kakao-Milch. Ein Dessert zum Angeben!",
+          "zeit_min": 15,
+          "wartezeit": "plus 1 Stunde im Kühlschrank",
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "8 Löffelbiskuits",
+            "125 g Mascarpone",
+            "150 g Naturjoghurt",
+            "100 ml Milch",
+            "2 EL Kakaopulver (ungesüßt)"
+          ],
+          "vorrat": [
+            "Zucker"
+          ],
+          "schritte": [
+            "Erwärme die Milch kurz in der Mikrowelle oder in einem kleinen Topf und verrühre sie mit 1 EL Kakaopulver und 1 TL Zucker. Lass sie etwas abkühlen.",
+            "Verrühre Mascarpone, Joghurt und 2 EL Zucker in einer Schüssel zu einer glatten Creme.",
+            "Brich die Löffelbiskuits in Stücke, die in deine Gläser passen. Tauche die Hälfte davon kurz in die Kakao-Milch – nur 1–2 Sekunden, sonst zerfallen sie.",
+            "Lege die getränkten Biskuits in zwei Gläser und verteile die Hälfte der Creme darauf. Wiederhole die Schichten mit den restlichen Biskuits und der Creme.",
+            "Stelle die Gläser mindestens 1 Stunde in den Kühlschrank. Siebe kurz vor dem Servieren den restlichen Kakao darüber."
+          ],
+          "tipp": "Das Kakaopulver lässt sich am gleichmäßigsten mit einem kleinen Teesieb verteilen – so sieht dein Tiramisu aus wie vom Italiener.",
+          "variante": "Für eine sommerliche Version legst du zwischen die Schichten ein paar Erdbeerscheiben.",
+          "naehrwerte": {
+            "kcal": 480,
+            "eiweiss": 10,
+            "kohlenhydrate": 42,
+            "fett": 30
+          },
+          "tags": [
+            "vegetarisch",
+            "Meal-Prep"
+          ],
+          "foto_prompt": "Tiramisu layered in glass jars with ladyfingers, creamy mascarpone and a thick dusting of cocoa powder, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 92,
+          "titel": "Knusper-Puffreis-Riegel mit Marshmallows",
+          "teaser": "Klebrig-süß und richtig knusprig: Diese Riegel aus Puffreis und geschmolzenen Marshmallows sind schnell gemacht und perfekt für die Brotdose.",
+          "zeit_min": 15,
+          "wartezeit": "plus 30 Minuten Abkühlen",
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "150 g Marshmallows",
+            "30 g Butter",
+            "100 g Puffreis (ungesüßt)",
+            "50 g Vollmilchschokolade"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Lege eine kleine Auflaufform (ca. 20 x 20 cm) mit Backpapier aus.",
+            "Schmelze die Butter in einem großen Topf bei niedriger Hitze. Gib die Marshmallows dazu und rühre ständig, bis sie komplett geschmolzen sind.",
+            "Nimm den Topf vom Herd und rühre den Puffreis zügig unter, bis alles gleichmäßig überzogen ist.",
+            "Drücke die Masse mit einem leicht geölten Löffel fest in die Form. Vorsicht, die Marshmallow-Masse ist heiß und klebrig.",
+            "Schmelze die Schokolade in der Mikrowelle in 30-Sekunden-Schritten und ziehe sie in Streifen über die Masse.",
+            "Lass alles 30 Minuten abkühlen und schneide es dann mit einem scharfen Messer in 8 Riegel."
+          ],
+          "tipp": "Bei niedriger Hitze schmelzen die Marshmallows gleichmäßig – bei zu viel Hitze werden sie zäh und die Riegel steinhart.",
+          "variante": "Mische eine Handvoll bunte Schokolinsen unter den Puffreis, dann werden die Riegel extra bunt.",
+          "naehrwerte": {
+            "kcal": 370,
+            "eiweiss": 4,
+            "kohlenhydrate": 66,
+            "fett": 10
+          },
+          "tags": [
+            "Lunchbox",
+            "Party"
+          ],
+          "foto_prompt": "Square crispy puffed rice marshmallow bars with chocolate drizzle, stacked on parchment paper, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 93,
+          "titel": "Frozen-Joghurt-Bruch",
+          "teaser": "Gefrorener Joghurt mit Beeren und Schoko, in Stücke gebrochen – ein Eis-Snack, der richtig erfrischt. Sieht bunt aus und ist schnell vorbereitet.",
+          "zeit_min": 10,
+          "wartezeit": "plus 3 Stunden im Gefrierfach",
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "500 g Joghurt griechischer Art",
+            "2 EL Honig",
+            "150 g gemischte Beeren (frisch oder TK)",
+            "30 g Schokoraspeln",
+            "3 EL Knuspermüsli"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Lege ein kleines Blech oder ein großes Brett, das in dein Gefrierfach passt, mit Backpapier aus.",
+            "Verrühre den Joghurt mit dem Honig in einer Schüssel.",
+            "Streiche den Joghurt etwa 1 cm dick auf das Backpapier.",
+            "Verteile die Beeren, die Schokoraspeln und das Müsli darauf und drücke alles leicht in den Joghurt.",
+            "Friere den Joghurt mindestens 3 Stunden ein, bis er ganz fest ist. Brich ihn dann mit den Händen in Stücke und iss ihn sofort – er schmilzt schnell."
+          ],
+          "tipp": "Bewahre die Stücke in einem Gefrierbeutel im Gefrierfach auf, dann hast du immer einen kalten Snack parat.",
+          "variante": "Statt Beeren passen auch Mango- oder Bananenstückchen, und statt Müsli gehackte Nüsse.",
+          "naehrwerte": {
+            "kcal": 240,
+            "eiweiss": 9,
+            "kohlenhydrate": 22,
+            "fett": 12
+          },
+          "tags": [
+            "vegetarisch",
+            "ohne Herd",
+            "Meal-Prep"
+          ],
+          "foto_prompt": "Pieces of frozen yogurt bark topped with mixed berries, chocolate shavings and granola on parchment paper, top-down view. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 94,
+          "titel": "Kaiserschmarrn",
+          "teaser": "Fluffig, in Stücke gerissen und leicht karamellisiert – Kaiserschmarrn ist der Hüttenklassiker aus Österreich. Mit Apfelmus einfach himmlisch.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€",
+          "zutaten": [
+            "3 Eier",
+            "120 g Mehl",
+            "200 ml Milch",
+            "20 g Butter",
+            "200 g Apfelmus"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Salz"
+          ],
+          "schritte": [
+            "Trenne die Eier: Gib das Eiweiß in eine saubere Rührschüssel und das Eigelb in eine zweite Schüssel.",
+            "Verrühre Eigelb, Mehl, Milch, 1 EL Zucker und eine Prise Salz zu einem glatten Teig. Schlage das Eiweiß mit dem Handrührgerät steif und hebe es vorsichtig unter den Teig.",
+            "Erhitze die Hälfte der Butter in einer großen beschichteten Pfanne bei mittlerer Hitze. Gieße den Teig hinein und lass ihn mit Deckel 4–5 Minuten stocken, bis die Unterseite goldbraun ist.",
+            "Teile den Teig mit dem Pfannenwender in vier Stücke und wende sie. Brate die zweite Seite 2–3 Minuten.",
+            "Reiße den Schmarrn mit zwei Gabeln in mundgerechte Stücke. Gib die restliche Butter und 1 EL Zucker dazu und schwenke alles 1–2 Minuten, bis die Stücke leicht karamellisiert und innen nicht mehr flüssig sind.",
+            "Verteile den Kaiserschmarrn auf zwei Teller und serviere ihn mit Apfelmus."
+          ],
+          "tipp": "Die Schüssel fürs Eiweiß muss absolut fettfrei sein – schon ein Tropfen Eigelb verhindert, dass es steif wird.",
+          "variante": "Ganz klassisch streust du noch eine Handvoll Rosinen in den Teig, bevor er in die Pfanne kommt.",
+          "naehrwerte": {
+            "kcal": 530,
+            "eiweiss": 19,
+            "kohlenhydrate": 68,
+            "fett": 19
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Fluffy torn Kaiserschmarrn pancake pieces, lightly caramelized, in a pan with a bowl of applesauce on the side, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        }
+      ]
+    },
+    {
+      "nr": 9,
+      "titel": "Drinks & Smoothies",
+      "untertitel": "Selbst gemixt statt teuer gekauft",
+      "intro": "Warum fünf Euro für einen Bubble Tea oder einen Smoothie to go ausgeben, wenn du sie zu Hause viel günstiger selbst mixen kannst? In diesem Kapitel zeigen wir dir Drinks für jede Laune: fruchtige Smoothies fürs Frühstück, erfrischende Limonade und Eistee für heiße Tage und eine heiße Schokolade deluxe für gemütliche Winterabende. Du brauchst dafür meistens nur einen Mixer oder einen Topf und ein paar Minuten Zeit. Und das Beste: Du entscheidest selbst, wie süß dein Drink wird. Also, schnapp dir ein Glas und mix los!",
+      "rezepte": [
+        {
+          "nr": 95,
+          "titel": "Erdbeer-Bananen-Smoothie",
+          "teaser": "Der Smoothie-Klassiker schlechthin: fruchtig, cremig und in fünf Minuten fertig. Perfekt fürs schnelle Frühstück oder nach dem Sport.",
+          "zeit_min": 5,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "200 g Erdbeeren (frisch oder TK)",
+            "1 reife Banane",
+            "200 ml Milch",
+            "150 g Naturjoghurt",
+            "1 TL Honig"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Wasche frische Erdbeeren und entferne das Grün. TK-Erdbeeren kannst du direkt gefroren verwenden.",
+            "Schäle die Banane und brich sie in Stücke.",
+            "Gib Erdbeeren, Banane, Milch, Joghurt und Honig in einen Standmixer oder einen hohen Becher.",
+            "Püriere alles etwa 30 Sekunden, bis der Smoothie ganz glatt und cremig ist. Ist er zu dick, gibst du noch einen Schuss Milch dazu.",
+            "Gieße den Smoothie in zwei Gläser und trink ihn gleich."
+          ],
+          "tipp": "Mit TK-Erdbeeren wird der Smoothie automatisch eiskalt und schön dick – Eiswürfel brauchst du dann nicht.",
+          "variante": "Für eine vegane Variante nimmst du Haferdrink und Sojajoghurt und lässt den Honig weg.",
+          "naehrwerte": {
+            "kcal": 200,
+            "eiweiss": 8,
+            "kohlenhydrate": 32,
+            "fett": 5
+          },
+          "tags": [
+            "vegetarisch",
+            "ohne Herd"
+          ],
+          "foto_prompt": "Two tall glasses of pink strawberry banana smoothie with fresh strawberries and banana slices beside them, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 96,
+          "titel": "Pfirsich-Eistee selbst gemacht",
+          "teaser": "Fruchtiger Eistee ganz ohne Koffein und mit viel weniger Zucker als aus dem Supermarkt. Einmal angesetzt, hast du einen ganzen Liter für heiße Tage.",
+          "zeit_min": 15,
+          "wartezeit": "plus 1 Stunde im Kühlschrank",
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "4 Beutel Rooibostee",
+            "1 Dose Pfirsiche (Abtropfgewicht 250 g)",
+            "1 Zitrone",
+            "1 Handvoll Eiswürfel"
+          ],
+          "vorrat": [
+            "Wasser",
+            "Zucker"
+          ],
+          "schritte": [
+            "Bringe 750 ml Wasser im Wasserkocher zum Kochen. Gieße es in eine hitzebeständige Kanne und hänge die Teebeutel hinein.",
+            "Lass den Tee 5 Minuten ziehen und nimm die Beutel dann heraus. Rühre 3 EL Zucker ein, bis er sich aufgelöst hat.",
+            "Gieße die Pfirsiche ab und fange den Saft dabei auf. Püriere die Hälfte der Pfirsiche mit dem Saft und schneide den Rest in Spalten.",
+            "Presse die Zitrone aus. Rühre das Pfirsichpüree und den Zitronensaft in den Tee und gieße 250 ml kaltes Wasser dazu.",
+            "Stelle den Eistee mindestens 1 Stunde in den Kühlschrank. Serviere ihn mit Eiswürfeln und den Pfirsichspalten im Glas."
+          ],
+          "tipp": "Rooibostee ist von Natur aus koffeinfrei und schmeckt leicht süßlich – perfekt für Eistee.",
+          "variante": "Statt Pfirsich passen auch TK-Himbeeren – dann bekommst du einen pinken Beeren-Eistee.",
+          "naehrwerte": {
+            "kcal": 90,
+            "eiweiss": 1,
+            "kohlenhydrate": 21,
+            "fett": 0
+          },
+          "tags": [
+            "vegan",
+            "Meal-Prep"
+          ],
+          "foto_prompt": "Glass pitcher and two glasses of peach iced tea with ice cubes, peach slices and lemon wedges, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 97,
+          "titel": "Bubble Tea selbst gemacht",
+          "teaser": "Der Trend-Drink aus Taiwan geht auch zu Hause – und kostet nur einen Bruchteil. Kugeln mit dem dicken Strohhalm hochziehen macht einfach Spaß!",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€€",
+          "zutaten": [
+            "60 g Tapiokaperlen (Quick-Cook)",
+            "2 Beutel Rooibostee",
+            "300 ml Milch",
+            "1 Handvoll Eiswürfel"
+          ],
+          "vorrat": [
+            "Wasser",
+            "Zucker"
+          ],
+          "schritte": [
+            "Bringe 1 Liter Wasser in einem Topf zum Kochen. Gib die Tapiokaperlen hinein und rühre sofort um, damit sie nicht am Boden kleben.",
+            "Koche die Perlen nach Packungsangabe (meist 5 Minuten) bei mittlerer Hitze. Sie sind fertig, wenn sie rundum durchscheinend und weich sind.",
+            "Gieße die Perlen in ein Sieb ab, spüle sie kurz kalt ab und mische sie in einer Schüssel mit 2 EL Zucker. Lass sie 5 Minuten ziehen, dann werden sie schön süß.",
+            "Brühe in der Zwischenzeit die Teebeutel mit 200 ml kochendem Wasser auf, lass sie 5 Minuten ziehen und rühre 1 EL Zucker ein. Kühle den Tee mit ein paar Eiswürfeln ab.",
+            "Verteile die Perlen auf zwei große Gläser, gib Eiswürfel darauf und gieße erst den Tee, dann die Milch darüber.",
+            "Rühre kurz um und trink den Bubble Tea mit einem breiten Strohhalm. Kau die Perlen gut, bevor du sie runterschluckst."
+          ],
+          "tipp": "Tapiokaperlen schmecken frisch am besten – nach ein paar Stunden werden sie hart. Koche also nur so viele, wie ihr gleich trinkt.",
+          "variante": "Für einen Erdbeer-Bubble-Tea pürierst du 100 g Erdbeeren mit der Milch, bevor du sie ins Glas gießt.",
+          "naehrwerte": {
+            "kcal": 280,
+            "eiweiss": 7,
+            "kohlenhydrate": 52,
+            "fett": 5
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Two tall glasses of homemade milk bubble tea with dark tapioca pearls at the bottom, ice cubes and wide straws, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 98,
+          "titel": "Mango-Lassi",
+          "teaser": "Cremig, fruchtig und ein bisschen exotisch: Mango-Lassi ist der Lieblingsdrink aus Indien. Mit TK-Mango klappt er das ganze Jahr.",
+          "zeit_min": 5,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "250 g Mangostücke (TK oder frisch)",
+            "300 g Naturjoghurt",
+            "150 ml Milch",
+            "1 TL Honig",
+            "1 Prise gemahlener Kardamom"
+          ],
+          "vorrat": [],
+          "schritte": [
+            "Lass TK-Mango 5 Minuten antauen. Frische Mango schälst du und schneidest das Fruchtfleisch vom Kern.",
+            "Gib Mango, Joghurt, Milch und Honig in einen Standmixer oder einen hohen Becher.",
+            "Püriere alles etwa 30 Sekunden, bis der Lassi ganz glatt ist.",
+            "Schmecke ihn ab: Ist er dir zu sauer, gib noch etwas Honig dazu, ist er zu dick, noch einen Schuss Milch.",
+            "Gieße den Lassi in zwei Gläser und streue eine Prise Kardamom darüber."
+          ],
+          "tipp": "Mit TK-Mango brauchst du kein Eis – der Lassi wird direkt schön kalt und cremig.",
+          "variante": "Statt Mango kannst du auch Pfirsiche aus der Dose nehmen, dann wird es ein Pfirsich-Lassi.",
+          "naehrwerte": {
+            "kcal": 230,
+            "eiweiss": 9,
+            "kohlenhydrate": 34,
+            "fett": 6
+          },
+          "tags": [
+            "vegetarisch",
+            "ohne Herd"
+          ],
+          "foto_prompt": "Two glasses of creamy orange mango lassi sprinkled with ground cardamom, mango cubes beside them, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 99,
+          "titel": "Heiße Schokolade deluxe",
+          "teaser": "Mit echter Schokolade, Sahnehaube und Marshmallows wird aus Kakao ein richtiges Wintererlebnis. Perfekt für gemütliche Abende auf dem Sofa.",
+          "zeit_min": 10,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "500 ml Milch",
+            "60 g Zartbitterschokolade",
+            "1 EL Kakaopulver (ungesüßt)",
+            "4 EL Sprühsahne",
+            "1 Handvoll Mini-Marshmallows"
+          ],
+          "vorrat": [
+            "Zucker"
+          ],
+          "schritte": [
+            "Hacke die Schokolade mit einem großen Messer klein. Halte dabei die Finger der anderen Hand gekrümmt.",
+            "Verrühre in einem Topf 3 EL Milch mit Kakaopulver und 1 EL Zucker zu einer glatten Paste – so gibt es keine Klümpchen.",
+            "Gieße die restliche Milch dazu und erhitze alles bei mittlerer Hitze unter Rühren, bis die Milch dampft. Sie sollte nicht kochen, sonst brennt sie an.",
+            "Nimm den Topf vom Herd, gib die Schokolade hinein und rühre mit einem Schneebesen, bis sie komplett geschmolzen ist.",
+            "Gieße die heiße Schokolade in zwei große Becher und setze eine Haube aus Sprühsahne und ein paar Marshmallows obendrauf."
+          ],
+          "tipp": "Schäume die Schokolade vor dem Eingießen kurz mit dem Schneebesen auf – dann wird sie besonders cremig.",
+          "variante": "Eine Prise Zimt in der Milch macht daraus eine weihnachtliche Zimt-Schokolade.",
+          "naehrwerte": {
+            "kcal": 430,
+            "eiweiss": 13,
+            "kohlenhydrate": 42,
+            "fett": 23
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Two mugs of rich hot chocolate topped with whipped cream, mini marshmallows and cocoa dusting, on a cozy wooden table, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        },
+        {
+          "nr": 100,
+          "titel": "Zitronen-Minz-Limonade",
+          "teaser": "Spritzig, sauer-süß und mit frischer Minze – diese Limonade ist der perfekte Durstlöscher für den Sommer. Und sie ist viel günstiger als aus der Flasche.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "3 Zitronen",
+            "1 Topf frische Minze",
+            "750 ml Mineralwasser mit Kohlensäure",
+            "1 Handvoll Eiswürfel"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Wasser"
+          ],
+          "schritte": [
+            "Erhitze 100 ml Wasser mit 4 EL Zucker in einem kleinen Topf bei mittlerer Hitze und rühre, bis sich der Zucker aufgelöst hat. Lass den Sirup abkühlen.",
+            "Presse 2 Zitronen aus und schneide die dritte in dünne Scheiben. Pass beim Schneiden auf deine Finger auf.",
+            "Zupfe die Minzblätter ab und drücke sie in einem Krug leicht mit einem Löffel an, damit sie ihr Aroma abgeben.",
+            "Gib Zitronensaft, Zitronenscheiben und den abgekühlten Zuckersirup in den Krug und verrühre alles.",
+            "Gieße kurz vor dem Servieren das kalte Mineralwasser dazu und gib die Eiswürfel hinein."
+          ],
+          "tipp": "Rolle die Zitronen vor dem Auspressen mit etwas Druck über die Arbeitsfläche – dann geben sie viel mehr Saft.",
+          "variante": "Mit einer Handvoll TK-Himbeeren im Krug wird daraus eine pinke Himbeer-Limo.",
+          "naehrwerte": {
+            "kcal": 60,
+            "eiweiss": 0,
+            "kohlenhydrate": 15,
+            "fett": 0
+          },
+          "tags": [
+            "vegan",
+            "Party"
+          ],
+          "foto_prompt": "Glass pitcher of sparkling lemonade with lemon slices, fresh mint leaves and ice cubes, with two filled glasses, 45° angle. bright, appetizing, natural light, modern casual table, no text, no people."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+ "titel": "Dein 15-Tage-Essensplan",
+ "intro": [
+  "Keine Lust, jeden Tag zu überlegen, was du kochen sollst? Dann nimm einfach diesen Plan. Er führt dich in drei Etappen à fünf Tage durch das Buch – mit Frühstück, Mittagessen oder Lunchbox, Abendessen und einem Snack.",
+  "Der Trick: Die meisten Rezepte sind für zwei Portionen. Koch abends also ganz entspannt, iss mit deiner Familie, einem Geschwisterkind oder Freunden – oder pack die zweite Portion als „Rest“ am nächsten Tag in deine Lunchbox. So sparst du Zeit, Geld und wirfst nichts weg.",
+  "Zu jeder Etappe gibt es eine passende Einkaufsliste, nach Supermarkt-Abteilungen sortiert. Die Mengen reichen für alle Rezepte der fünf Tage. Tausch ruhig Gerichte, die du nicht magst, gegen andere aus dem Buch aus – der Plan ist dein Werkzeug, kein Gesetz."
+ ],
+ "wochen": [
+  {
+   "titel": "Woche 1: Tag 1–5",
+   "tage": [
+    {
+     "tag": 1,
+     "fruehstueck": "Overnight Oats Schoko-Banane (Nr. 2)",
+     "mittag": "Lunchbox-Nudelsalat (Nr. 14)",
+     "abend": "Express-Bolognese (Nr. 44)",
+     "snack": "Apfel-Nachos (Nr. 24)"
+    },
+    {
+     "tag": 2,
+     "fruehstueck": "Cremiges Rührei auf Toast (Nr. 4)",
+     "mittag": "Rest: Express-Bolognese (Nr. 44)",
+     "abend": "Teriyaki-Hähnchen mit Reis (Nr. 30)",
+     "snack": "Erdbeer-Bananen-Smoothie (Nr. 95)"
+    },
+    {
+     "tag": 3,
+     "fruehstueck": "Apfel-Zimt-Porridge (Nr. 10)",
+     "mittag": "Wrap-Schnecken mit Frischkäse und Schinken (Nr. 13)",
+     "abend": "Burrito-Bowl (Nr. 63)",
+     "snack": "Reiswaffeln mit Erdnussbutter und Banane (Nr. 22)"
+    },
+    {
+     "tag": 4,
+     "fruehstueck": "Joghurt-Bowl mit Pfannen-Granola (Nr. 8)",
+     "mittag": "Couscous-Salat mit Feta (Nr. 19)",
+     "abend": "Pizza-Toast (Nr. 46)",
+     "snack": "Schoko-Energy-Balls (Nr. 18)"
+    },
+    {
+     "tag": 5,
+     "fruehstueck": "Fluffige Pancakes (Nr. 1)",
+     "mittag": "Gebratener Reis mit Ei (Nr. 25)",
+     "abend": "Smash-Burger (Nr. 51)",
+     "snack": "Rest: Schoko-Energy-Balls (Nr. 18)"
+    }
+   ],
+   "einkauf": [
+    {
+     "gruppe": "Obst & Gemüse",
+     "artikel": [
+      "1 Avocado",
+      "1 Handvoll Babyspinat",
+      "3 Bananen",
+      "150 g Beeren",
+      "100 g Datteln",
+      "200 g Erdbeeren",
+      "4 Frühlingszwiebeln",
+      "300 g Kirschtomaten",
+      "½ Salatgurke",
+      "½ Bund Schnittlauch",
+      "2 Zitronen",
+      "2 Zwiebeln",
+      "3 Äpfel"
+     ]
+    },
+    {
+     "gruppe": "Kühlregal",
+     "artikel": [
+      "15 g Butter",
+      "2 Scheiben Cheddar",
+      "7 Eier",
+      "100 g Feta",
+      "100 g Frischkäse",
+      "100 g geriebener Gouda",
+      "300 g Joghurt griechischer Art",
+      "1,1 l Milch",
+      "125 g Mini-Mozzarella-Kugeln",
+      "300 g Naturjoghurt"
+     ]
+    },
+    {
+     "gruppe": "Fleisch, Wurst & Fisch",
+     "artikel": [
+      "300 g Hähnchenbrustfilet",
+      "200 g Kochschinken",
+      "550 g Rinderhackfleisch"
+     ]
+    },
+    {
+     "gruppe": "Tiefkühlung",
+     "artikel": [
+      "150 g TK-Erbsen-Möhren-Mix"
+     ]
+    },
+    {
+     "gruppe": "Brot & Backwaren",
+     "artikel": [
+      "2 Burgerbrötchen",
+      "4 Scheiben Toastbrot",
+      "4 Scheiben Vollkorntoast",
+      "2 Weizentortillas"
+     ]
+    },
+    {
+     "gruppe": "Vorrat, Nudeln, Dosen & Gewürze",
+     "artikel": [
+      "2 EL Ahornsirup",
+      "3 EL Backkakao",
+      "1 TL Backpulver",
+      "150 g Basmatireis",
+      "150 g Couscous",
+      "6 EL Erdnussbutter",
+      "1 Beutel Express-Reis",
+      "200 g Fusilli",
+      "30 g gehackte Haselnüsse",
+      "250 g gekochter Reis vom Vortag",
+      "1 TL getrocknete italienische Kräuter",
+      "1 TL getrockneter Oregano",
+      "3 EL grünes Pesto",
+      "3 EL Honig",
+      "80 g kernige Haferflocken",
+      "4 EL Ketchup",
+      "1 Dose Kidneybohnen",
+      "3 EL Kokosraspeln",
+      "1 Dose Mais",
+      "150 g Mehl",
+      "4 EL passierte Tomaten",
+      "400 g passierte Tomaten",
+      "4 EL Salsa",
+      "1 TL Sesam",
+      "2 EL Sojasauce",
+      "200 g Spaghetti",
+      "5 EL Teriyakisauce",
+      "4 Vollkorn-Reiswaffeln",
+      "20 g Zartbitterschokolade",
+      "280 g zarte Haferflocken",
+      "1½ TL Zimt"
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Woche 2: Tag 6–10",
+   "tage": [
+    {
+     "tag": 6,
+     "fruehstueck": "French Toast mit Zimt (Nr. 3)",
+     "mittag": "Hummus selbst gemacht mit Gemüsesticks (Nr. 16)",
+     "abend": "Rotes Linsen-Dal mit Kokosmilch (Nr. 38)",
+     "snack": "Bananen-Nice-Cream (Nr. 87)"
+    },
+    {
+     "tag": 7,
+     "fruehstueck": "Apfel-Zimt-Porridge (Nr. 10)",
+     "mittag": "Rest: Rotes Linsen-Dal mit Kokosmilch (Nr. 38)",
+     "abend": "Pesto-Pasta mit Hähnchen (Nr. 42)",
+     "snack": "Rest: Hummus selbst gemacht mit Gemüsesticks (Nr. 16)"
+    },
+    {
+     "tag": 8,
+     "fruehstueck": "Avocado-Toast mit Spiegelei (Nr. 5)",
+     "mittag": "Club-Sandwich (Nr. 15)",
+     "abend": "Süßkartoffel-Bowl mit Kichererbsen (Nr. 65)",
+     "snack": "Reiswaffeln mit Erdnussbutter und Banane (Nr. 22)"
+    },
+    {
+     "tag": 9,
+     "fruehstueck": "Tassen-Omelett aus der Mikrowelle (Nr. 9)",
+     "mittag": "Chicken-Caesar-Wrap (Nr. 20)",
+     "abend": "Gnocchi-Pfanne mit Tomaten und Mozzarella (Nr. 33)",
+     "snack": "Mango-Lassi (Nr. 98)"
+    },
+    {
+     "tag": 10,
+     "fruehstueck": "Bananen-Hafer-Muffins (Nr. 7)",
+     "mittag": "Onigiri mit Thunfisch (Nr. 23)",
+     "abend": "Döner-Wrap mit Hähnchen (Nr. 55)",
+     "snack": "Rest: Bananen-Hafer-Muffins (Nr. 7)"
+    }
+   ],
+   "einkauf": [
+    {
+     "gruppe": "Obst & Gemüse",
+     "artikel": [
+      "1 Apfel",
+      "1 Avocado",
+      "100 g Babyspinat",
+      "6 Bananen",
+      "4 Blätter Eisbergsalat",
+      "150 g fertiger Krautsalat",
+      "3 Karotten",
+      "400 g Kirschtomaten",
+      "2 Knoblauchzehen",
+      "250 g Mangostücke (TK oder frisch)",
+      "1 Romanasalatherz",
+      "½ rote Paprika",
+      "1 Süßkartoffel",
+      "1 Tomate",
+      "1 Zitrone",
+      "1 Zwiebel"
+     ]
+    },
+    {
+     "gruppe": "Kühlregal",
+     "artikel": [
+      "15 g Butter",
+      "10 Eier",
+      "40 g geriebener Gouda",
+      "50 g geriebener Parmesan",
+      "500 g Gnocchi",
+      "4 EL Hummus",
+      "770 ml Milch",
+      "125 g Mozzarella",
+      "450 g Naturjoghurt"
+     ]
+    },
+    {
+     "gruppe": "Fleisch, Wurst & Fisch",
+     "artikel": [
+      "750 g Hähnchenbrustfilet",
+      "50 g Kochschinken",
+      "100 g Putenbrust-Aufschnitt",
+      "1 Dose Thunfisch im eigenen Saft"
+     ]
+    },
+    {
+     "gruppe": "Brot & Backwaren",
+     "artikel": [
+      "10 Scheiben Toastbrot",
+      "2 Scheiben Vollkornbrot",
+      "4 Weizentortillas"
+     ]
+    },
+    {
+     "gruppe": "Vorrat, Nudeln, Dosen & Gewürze",
+     "artikel": [
+      "1 TL Backpulver",
+      "3 EL Caesar-Dressing",
+      "1 Prise Chiliflocken",
+      "2 TL Currypulver",
+      "2 TL Dönergewürz",
+      "3 EL Erdnussbutter",
+      "200 g Fusilli",
+      "1 Prise gemahlener Kardamom",
+      "1 TL getrockneter Oregano",
+      "4 EL grünes Pesto",
+      "2 EL Honig",
+      "1 Dose Kokosmilch",
+      "4 EL Mayonnaise",
+      "2 Dosen Kichererbsen",
+      "2 Blätter Nori-Algen",
+      "1 TL Paprikapulver",
+      "250 g rote Linsen",
+      "1 EL Schokoraspeln",
+      "50 g Schokotropfen",
+      "1 EL Sojasauce",
+      "1 Dose stückige Tomaten",
+      "200 g Sushireis",
+      "2 EL Tahin",
+      "4 Vollkorn-Reiswaffeln",
+      "250 g zarte Haferflocken",
+      "2,5 TL Zimt"
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Woche 3: Tag 11–15",
+   "tage": [
+    {
+     "tag": 11,
+     "fruehstueck": "Frühstücks-Burrito (Nr. 6)",
+     "mittag": "Herzhafte Käse-Schinken-Muffins (Nr. 21)",
+     "abend": "Chili con Carne Express (Nr. 31)",
+     "snack": "Knusper-Kichererbsen (Nr. 84)"
+    },
+    {
+     "tag": 12,
+     "fruehstueck": "Bagel mit Frischkäse und Gurke (Nr. 11)",
+     "mittag": "Rest: Chili con Carne Express (Nr. 31)",
+     "abend": "Gebratene Gemüse-Nudeln (Nr. 69)",
+     "snack": "Rest: Herzhafte Käse-Schinken-Muffins (Nr. 21)"
+    },
+    {
+     "tag": 13,
+     "fruehstueck": "Shakshuka – Eier in Tomatensauce (Nr. 12)",
+     "mittag": "Pizzaschnecken aus Blätterteig (Nr. 17)",
+     "abend": "Knuspriges Hähnchenschnitzel (Nr. 37)",
+     "snack": "Erdbeer-Bananen-Smoothie (Nr. 95)"
+    },
+    {
+     "tag": 14,
+     "fruehstueck": "Overnight Oats Schoko-Banane (Nr. 2)",
+     "mittag": "Rest: Pizzaschnecken aus Blätterteig (Nr. 17)",
+     "abend": "Gemüse-Curry mit Kokosmilch (Nr. 67)",
+     "snack": "Apfel-Nachos (Nr. 24)"
+    },
+    {
+     "tag": 15,
+     "fruehstueck": "Fluffige Pancakes (Nr. 1)",
+     "mittag": "Kalter Erdnuss-Nudelsalat (Nr. 72)",
+     "abend": "Tortilla-Pizza (Nr. 45)",
+     "snack": "Schoko-Cookies (Nr. 86)"
+    }
+   ],
+   "einkauf": [
+    {
+     "gruppe": "Obst & Gemüse",
+     "artikel": [
+      "2 Bananen",
+      "200 g Erdbeeren",
+      "4 Frühlingszwiebeln",
+      "1 Knoblauchzehe",
+      "1 Möhre",
+      "1 rote Paprika",
+      "1 Salatgurke",
+      "½ Bund Schnittlauch",
+      "1 Tomate",
+      "2 Zitronen",
+      "2 Zwiebeln",
+      "2 Äpfel"
+     ]
+    },
+    {
+     "gruppe": "Kühlregal",
+     "artikel": [
+      "1 Rolle Blätterteig",
+      "100 g Butter",
+      "13 Eier",
+      "100 g Frischkäse",
+      "260 g geriebener Gouda",
+      "650 ml Milch",
+      "125 g Mozzarella",
+      "300 g Naturjoghurt"
+     ]
+    },
+    {
+     "gruppe": "Fleisch, Wurst & Fisch",
+     "artikel": [
+      "300 g Hähnchenschnitzel",
+      "100 g Kochschinken, gewürfelt",
+      "400 g Rinderhackfleisch",
+      "130 g Salami"
+     ]
+    },
+    {
+     "gruppe": "Tiefkühlung",
+     "artikel": [
+      "400 g TK-Asia-Pfannengemüse",
+      "400 g TK-Gemüsemischung"
+     ]
+    },
+    {
+     "gruppe": "Brot & Backwaren",
+     "artikel": [
+      "2 Bagels",
+      "4 Weizentortillas"
+     ]
+    },
+    {
+     "gruppe": "Vorrat, Nudeln, Dosen & Gewürze",
+     "artikel": [
+      "2 EL Ahornsirup",
+      "1 EL Backkakao",
+      "3,5 TL Backpulver",
+      "150 g Basmatireis",
+      "2 TL Chili-Gewürzmischung",
+      "2 TL Currypulver",
+      "5 EL Erdnussbutter",
+      "2 TL getrockneter Oregano",
+      "1 EL Honig",
+      "1 Dose Kidneybohnen",
+      "½ TL Knoblauchpulver",
+      "400 ml Kokosmilch",
+      "1 EL Kokosraspeln",
+      "530 g Mehl",
+      "200 g Mie-Nudeln",
+      "3 Dosen Kichererbsen",
+      "3 Dosen stückige Tomaten",
+      "60 g Paniermehl",
+      "1 TL Paprikapulver edelsüß",
+      "1 TL Paprikapulver geräuchert",
+      "200 g passierte Tomaten",
+      "75 g Schokotropfen",
+      "6 EL Sojasauce",
+      "200 g Spaghetti",
+      "20 g Zartbitterschokolade",
+      "100 g zarte Haferflocken"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1094 @@
+{
+  "kapitel": [
+    {
+      "nr": 3,
+      "titel": "Schnelles Mittagessen nach der Schule",
+      "untertitel": "Hunger? In 20 Minuten steht was auf dem Tisch",
+      "intro": "Die Schule ist aus, der Magen knurrt und eigentlich willst du nur noch aufs Sofa? Genau dafür ist dieses Kapitel da. Hier findest du Gerichte, die schnell gehen, richtig satt machen und trotzdem nicht nach Fertigessen schmecken. Vom gebratenen Reis mit Resten vom Vortag über knusprige Nuggets aus dem Ofen bis zum cremigen Linsen-Dal ist für jede Laune etwas dabei. Viele Rezepte klappen mit Zutaten, die sowieso im Kühlschrank liegen. Und das Beste: Wenn deine Eltern abends nach Hause kommen, kannst du ganz nebenbei erzählen, dass du heute selbst gekocht hast.",
+      "rezepte": [
+        {
+          "nr": 25,
+          "titel": "Gebratener Reis mit Ei",
+          "teaser": "Reis vom Vortag übrig? Perfekt! Daraus zauberst du in einer Viertelstunde ein Pfannengericht wie vom Asia-Imbiss.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "250 g gekochter Reis vom Vortag (oder 1 Beutel Express-Reis)",
+            "2 Eier",
+            "150 g TK-Erbsen-Möhren-Mix",
+            "2 Frühlingszwiebeln",
+            "2 EL Sojasauce"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Wasche die Frühlingszwiebeln und schneide sie in feine Ringe. Lockere den Reis mit den Fingern auf, damit keine dicken Klumpen bleiben.",
+            "Erhitze 2 EL Öl in einer großen Pfanne bei mittlerer bis hoher Hitze. Brate das TK-Gemüse und die weißen Zwiebelringe darin 3 Minuten an.",
+            "Gib den Reis dazu und brate ihn 4–5 Minuten unter Rühren, bis er richtig heiß ist und an einigen Stellen leicht knusprig wird.",
+            "Schiebe den Reis an den Rand, schlage die Eier in die freie Stelle und verrühre sie mit dem Pfannenwender. Lass sie stocken, bis sie nicht mehr flüssig sind, und mische alles unter den Reis.",
+            "Würze mit Sojasauce, etwas Salz und Pfeffer und streue die grünen Zwiebelringe darüber."
+          ],
+          "tipp": "Kalter Reis vom Vortag ist hier der Game Changer: Er ist trockener und klebt nicht, deshalb wird er schön körnig.",
+          "variante": "Für mehr Eiweiß brätst du klein geschnittenes Hähnchen oder Schinkenwürfel gleich am Anfang mit.",
+          "naehrwerte": {
+            "kcal": 420,
+            "eiweiss": 15,
+            "kohlenhydrate": 60,
+            "fett": 13
+          },
+          "tags": [
+            "vegetarisch",
+            "Lunchbox"
+          ],
+          "foto_prompt": "Top-down shot of egg fried rice with peas, diced carrots and sliced spring onions in a dark pan, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 26,
+          "titel": "Knusper-Nuggets aus dem Ofen",
+          "teaser": "Die Panade aus Cornflakes macht diese Nuggets mega knusprig – und das ganz ohne Fritteuse.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "300 g Hähnchenbrustfilet",
+            "60 g Cornflakes (ungezuckert)",
+            "1 Ei",
+            "3 EL Mehl",
+            "1 TL Paprikapulver edelsüß"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Öl"
+          ],
+          "schritte": [
+            "Heize den Ofen auf 200 °C Ober-/Unterhitze vor und lege ein Backblech mit Backpapier aus. Gib die Cornflakes in einen Gefrierbeutel und zerdrücke sie mit dem Nudelholz zu groben Bröseln.",
+            "Schneide das Hähnchen auf einem Brett in etwa 3 cm große Stücke und würze sie mit Salz, Pfeffer und Paprikapulver. Wasch dir danach gründlich die Hände und das Brett.",
+            "Stelle drei tiefe Teller bereit: einen mit Mehl, einen mit dem verquirlten Ei und einen mit den Cornflakes-Bröseln.",
+            "Wende jedes Stück erst in Mehl, dann im Ei und zum Schluss in den Bröseln, drücke die Panade gut an und lege die Nuggets aufs Blech. Beträufle sie mit 2 EL Öl.",
+            "Backe die Nuggets 15 Minuten, bis sie goldbraun sind. Schneide ein dickes Stück auf: Innen muss das Fleisch komplett weiß sein, nicht mehr rosa. Hol das Blech nur mit Ofenhandschuhen raus."
+          ],
+          "tipp": "Würze die Cornflakes-Brösel mit einer Prise Salz – so schmeckt die Kruste nicht fad.",
+          "variante": "Für eine scharfe Version mischst du eine Prise Chilipulver unter die Brösel.",
+          "naehrwerte": {
+            "kcal": 400,
+            "eiweiss": 42,
+            "kohlenhydrate": 35,
+            "fett": 9
+          },
+          "tags": [
+            "Airfryer-geeignet",
+            "Party"
+          ],
+          "foto_prompt": "Golden cornflake-crusted chicken nuggets on parchment paper with a small bowl of ketchup dip, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 27,
+          "titel": "Käse-Quesadillas",
+          "teaser": "Außen knusprig, innen fließender Käse: Quesadillas sind in 15 Minuten fertig und schmecken einfach immer.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "4 Weizentortillas",
+            "150 g geriebener Gouda",
+            "1 kleine Dose Mais (140 g)",
+            "1 rote Paprika",
+            "4 EL Salsa-Dip (Glas)"
+          ],
+          "vorrat": [
+            "Öl"
+          ],
+          "schritte": [
+            "Wasche die Paprika, entferne die Kerne und schneide sie in kleine Würfel. Gieße den Mais in einem Sieb ab.",
+            "Lege 2 Tortillas auf die Arbeitsfläche, verteile die Hälfte vom Käse darauf und streue Paprika und Mais darüber. Bedecke alles mit dem restlichen Käse und den anderen 2 Tortillas.",
+            "Erhitze eine große Pfanne mit 1 TL Öl bei mittlerer Hitze. Lege eine Quesadilla hinein und brate sie 2–3 Minuten, bis die Unterseite goldbraun ist.",
+            "Wende sie vorsichtig mit einem großen Pfannenwender (oder mithilfe eines Tellers) und brate sie weitere 2 Minuten, bis der Käse geschmolzen ist. Mach dann die zweite genauso.",
+            "Schneide die Quesadillas wie eine Pizza in Ecken und serviere sie mit dem Salsa-Dip."
+          ],
+          "tipp": "Drück die Quesadilla beim Braten mit dem Pfannenwender leicht an – dann verbindet der Käse beide Fladen und nichts fällt raus.",
+          "variante": "Mit einer Handvoll Kidneybohnen oder Hähnchenresten wird daraus eine richtig sättigende Mahlzeit.",
+          "naehrwerte": {
+            "kcal": 560,
+            "eiweiss": 24,
+            "kohlenhydrate": 58,
+            "fett": 25
+          },
+          "tags": [
+            "vegetarisch",
+            "Lunchbox",
+            "Party"
+          ],
+          "foto_prompt": "Crispy cheese quesadilla wedges filled with melted cheese, corn and red pepper, with a small bowl of salsa, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 28,
+          "titel": "Blitz-Ofenkartoffel aus der Mikrowelle mit Kräuterquark",
+          "teaser": "Ofenkartoffel ohne eine Stunde Wartezeit? Die Mikrowelle schafft das in 10 Minuten – mit cremigem Kräuterquark obendrauf.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 große mehligkochende Kartoffeln (je ca. 250 g)",
+            "250 g Magerquark",
+            "4 EL Milch",
+            "1/2 Bund Schnittlauch (oder 2 EL TK-Kräuter)"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Öl"
+          ],
+          "schritte": [
+            "Schrubbe die Kartoffeln unter fließendem Wasser sauber und trockne sie ab. Stich sie rundherum 6–8 Mal mit einer Gabel ein, damit der Dampf entweichen kann.",
+            "Lege die Kartoffeln auf einen mikrowellengeeigneten Teller und gare sie 5 Minuten bei 800 Watt. Wende sie mit Ofenhandschuhen – sie sind sehr heiß!",
+            "Gare sie weitere 4–6 Minuten. Sie sind fertig, wenn eine Gabel ganz leicht bis zur Mitte hineingleitet.",
+            "Rühre in der Zwischenzeit Quark und Milch glatt. Schneide den Schnittlauch in feine Röllchen, rühre ihn unter und schmecke mit Salz und Pfeffer ab.",
+            "Schneide die Kartoffeln oben längs ein, drücke sie etwas auseinander, beträufle sie mit wenig Öl und Salz und fülle den Kräuterquark hinein."
+          ],
+          "tipp": "Für eine knusprige Schale schiebst du die Kartoffeln nach der Mikrowelle noch 5 Minuten in den heißen Ofen oder Airfryer.",
+          "variante": "Streu noch geriebenen Käse und ein paar Schinkenwürfel über die Kartoffel, bevor der Quark draufkommt.",
+          "naehrwerte": {
+            "kcal": 330,
+            "eiweiss": 22,
+            "kohlenhydrate": 50,
+            "fett": 3
+          },
+          "tags": [
+            "vegetarisch",
+            "Mikrowelle"
+          ],
+          "foto_prompt": "Two microwave baked potatoes split open and topped with creamy herb quark and fresh chives on a plate, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 29,
+          "titel": "Bratkartoffeln mit Spiegelei",
+          "teaser": "Ein echter Klassiker, der satt und glücklich macht. Mit vorgekochten Kartoffeln geht er richtig fix.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "600 g gekochte Kartoffeln (vom Vortag oder vorgegart aus der Packung)",
+            "1 Zwiebel",
+            "4 Eier",
+            "1 EL Butter",
+            "1/2 Bund Schnittlauch"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Pelle die Kartoffeln, falls nötig, und schneide sie in etwa 1/2 cm dicke Scheiben. Schäle die Zwiebel und schneide sie in feine Würfel – das Messer immer vom Körper weg führen.",
+            "Erhitze 3 EL Öl in einer großen Pfanne bei mittlerer bis hoher Hitze. Verteile die Kartoffelscheiben nebeneinander darin und lass sie 5 Minuten in Ruhe braten, ohne zu rühren.",
+            "Wende die Kartoffeln, gib die Zwiebel dazu und brate alles weitere 6–8 Minuten, bis die Kartoffeln rundherum goldbraun und knusprig sind. Würze mit Salz und Pfeffer und halte sie auf zwei Tellern warm.",
+            "Lass die Butter in derselben Pfanne bei mittlerer Hitze schmelzen. Schlage die Eier hinein und brate sie 3–4 Minuten, bis das Eiweiß komplett weiß und fest ist.",
+            "Lege die Spiegeleier auf die Bratkartoffeln, salze sie leicht und streue Schnittlauchröllchen darüber."
+          ],
+          "tipp": "Das Geheimnis knuspriger Bratkartoffeln: Geduld! Je weniger du am Anfang rührst, desto besser wird die Kruste.",
+          "variante": "Brate 50 g Speckwürfel mit der Zwiebel mit – dann wird es ein deftiges Bauernfrühstück.",
+          "naehrwerte": {
+            "kcal": 520,
+            "eiweiss": 20,
+            "kohlenhydrate": 50,
+            "fett": 26
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Golden crispy fried potato slices with onions topped with two sunny-side-up eggs and chives in a cast iron pan, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 30,
+          "titel": "Teriyaki-Hähnchen mit Reis",
+          "teaser": "Süß, salzig, glänzend: Dieses Teriyaki-Hähnchen schmeckt wie beim Lieblings-Asiaten, nur günstiger.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "150 g Basmatireis",
+            "300 g Hähnchenbrustfilet",
+            "5 EL Teriyakisauce (Flasche)",
+            "2 Frühlingszwiebeln",
+            "1 TL Sesam"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Wasser"
+          ],
+          "schritte": [
+            "Koche den Reis mit 300 ml Wasser und 1 Prise Salz auf, stelle die Hitze auf niedrig und lass ihn mit Deckel 12–15 Minuten quellen, bis das Wasser aufgesogen ist.",
+            "Schneide das Hähnchen in mundgerechte Stücke und die Frühlingszwiebeln in Ringe. Wasch dir nach dem rohen Fleisch gründlich die Hände.",
+            "Erhitze 1 EL Öl in einer Pfanne bei mittlerer bis hoher Hitze und brate das Hähnchen 6–7 Minuten rundherum goldbraun. Schneide ein Stück auf: Es muss innen durch und weiß sein.",
+            "Gieße die Teriyakisauce dazu und lass sie 1–2 Minuten unter Rühren einköcheln, bis sie dicklich wird und das Fleisch glänzt.",
+            "Verteile den Reis auf zwei Schüsseln, gib das Hähnchen darauf und bestreue alles mit Frühlingszwiebeln und Sesam."
+          ],
+          "tipp": "Röste den Sesam vorher 1 Minute ohne Öl in der Pfanne, bis er duftet – das bringt richtig viel Aroma.",
+          "variante": "Statt Hähnchen funktioniert auch Tofu, den du vorher in Würfeln knusprig anbrätst.",
+          "naehrwerte": {
+            "kcal": 560,
+            "eiweiss": 42,
+            "kohlenhydrate": 72,
+            "fett": 9
+          },
+          "tags": [
+            "Meal-Prep",
+            "Lunchbox"
+          ],
+          "foto_prompt": "Bowl of fluffy rice topped with glossy teriyaki chicken pieces, sesame seeds and spring onion rings, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 31,
+          "titel": "Chili con Carne Express",
+          "teaser": "Würzig, wärmend und perfekt für die ganze Familie – dieses Chili braucht nur 30 Minuten statt Stunden.",
+          "zeit_min": 30,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "400 g Rinderhackfleisch",
+            "1 Zwiebel",
+            "1 Dose Kidneybohnen (400 g)",
+            "2 Dosen stückige Tomaten (je 400 g)",
+            "2 TL Chili-Gewürzmischung"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer",
+            "Zucker"
+          ],
+          "schritte": [
+            "Schäle die Zwiebel und schneide sie in kleine Würfel. Gieße die Kidneybohnen in ein Sieb und spüle sie mit kaltem Wasser ab.",
+            "Erhitze 1 EL Öl in einem großen Topf bei mittlerer bis hoher Hitze. Brate das Hackfleisch darin 5–6 Minuten krümelig an, bis nichts Rosafarbenes mehr zu sehen ist.",
+            "Gib die Zwiebel und die Chili-Gewürzmischung dazu und brate alles 2 Minuten weiter, bis es duftet.",
+            "Rühre die Tomaten und die Bohnen unter und lass das Chili offen bei kleiner bis mittlerer Hitze 12–15 Minuten köcheln. Rühre ab und zu um, damit nichts anbrennt.",
+            "Schmecke mit Salz, Pfeffer und 1 Prise Zucker ab. Das Chili ist fertig, wenn die Sauce sämig eingedickt ist."
+          ],
+          "tipp": "Chili schmeckt am nächsten Tag noch besser – koch also ruhig mehr und nimm den Rest mit in die Schule.",
+          "variante": "Für ein vegetarisches Chili ersetzt du das Hack durch eine zweite Dose Bohnen und eine Dose Mais.",
+          "naehrwerte": {
+            "kcal": 410,
+            "eiweiss": 30,
+            "kohlenhydrate": 25,
+            "fett": 19
+          },
+          "tags": [
+            "Meal-Prep"
+          ],
+          "foto_prompt": "Bowl of hearty chili con carne with kidney beans in tomato sauce, a spoon beside it, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 32,
+          "titel": "Tomatensuppe mit Käse-Croutons",
+          "teaser": "Cremige Tomatensuppe mit knusprigen Käse-Croutons obendrauf – Wohlfühlessen in 20 Minuten.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "500 g passierte Tomaten",
+            "1 TL Gemüsebrühe (Pulver)",
+            "100 ml Sahne",
+            "2 Scheiben Toastbrot",
+            "40 g geriebener Gouda"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Zucker",
+            "Öl",
+            "Wasser"
+          ],
+          "schritte": [
+            "Gib die passierten Tomaten mit 200 ml Wasser und dem Brühpulver in einen Topf und bringe alles bei mittlerer Hitze zum Köcheln.",
+            "Lass die Suppe 8–10 Minuten leicht köcheln und rühre dann die Sahne ein. Schmecke mit Salz, Pfeffer und 1 Prise Zucker ab.",
+            "Schneide das Toastbrot in kleine Würfel. Erhitze 2 EL Öl in einer Pfanne bei mittlerer Hitze und brate die Würfel 3–4 Minuten, bis sie rundherum goldbraun sind.",
+            "Streue den Käse über die Croutons, lege einen Deckel auf und warte etwa 1 Minute, bis der Käse geschmolzen ist.",
+            "Fülle die Suppe in Schalen und gib die Käse-Croutons direkt obendrauf."
+          ],
+          "tipp": "Die Croutons erst ganz zum Schluss auf die Suppe geben, sonst werden sie weich.",
+          "variante": "Rühre einen Klecks Pesto in die Suppe – das gibt eine italienische Note.",
+          "naehrwerte": {
+            "kcal": 380,
+            "eiweiss": 13,
+            "kohlenhydrate": 32,
+            "fett": 22
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Bowl of creamy tomato soup topped with golden cheesy croutons and a swirl of cream, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 33,
+          "titel": "Gnocchi-Pfanne mit Tomaten und Mozzarella",
+          "teaser": "Gnocchi direkt in der Pfanne knusprig braten? Ja! Mit geschmolzenem Mozzarella wird das richtig lecker.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "500 g Gnocchi (Kühlregal)",
+            "250 g Kirschtomaten",
+            "125 g Mozzarella",
+            "1 Knoblauchzehe",
+            "1 TL getrockneter Oregano"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Halbiere die Kirschtomaten. Schäle den Knoblauch und hacke ihn fein. Lass den Mozzarella abtropfen und zupfe ihn in kleine Stücke.",
+            "Erhitze 2 EL Öl in einer großen Pfanne bei mittlerer bis hoher Hitze. Gib die Gnocchi ungekocht hinein und brate sie 6–8 Minuten, bis sie rundherum goldbraun und knusprig sind. Wende sie zwischendurch.",
+            "Gib Tomaten, Knoblauch und Oregano dazu und brate alles weitere 3 Minuten, bis die Tomaten weich werden und leicht platzen.",
+            "Würze mit Salz und Pfeffer. Verteile den Mozzarella darauf, lege einen Deckel auf und lass ihn bei niedriger Hitze 2 Minuten schmelzen."
+          ],
+          "tipp": "Gnocchi aus dem Kühlregal musst du nicht vorher kochen – direkt in die Pfanne, so werden sie außen knusprig und innen fluffig.",
+          "variante": "Ein paar Handvoll Babyspinat in der letzten Minute untergemischt machen das Gericht noch grüner.",
+          "naehrwerte": {
+            "kcal": 580,
+            "eiweiss": 18,
+            "kohlenhydrate": 82,
+            "fett": 19
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Skillet of golden pan-fried gnocchi with blistered cherry tomatoes and melted mozzarella, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 34,
+          "titel": "Fischstäbchen-Tacos",
+          "teaser": "Fischstäbchen mal anders: knusprig in weichen Tortillas mit Krautsalat und Remoulade. Fühlt sich an wie Streetfood.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "10 Fischstäbchen (TK)",
+            "6 kleine Weizentortillas",
+            "150 g fertiger Krautsalat (Kühlregal)",
+            "4 EL Remoulade",
+            "1 Limette"
+          ],
+          "vorrat": [
+            "Öl"
+          ],
+          "schritte": [
+            "Heize den Ofen auf 220 °C Ober-/Unterhitze vor. Lege die Fischstäbchen auf ein Blech mit Backpapier und beträufle sie mit 1 EL Öl.",
+            "Backe die Fischstäbchen 12–15 Minuten, bis sie goldbraun und knusprig sind. Wende sie nach der Hälfte der Zeit und nimm das Blech nur mit Ofenhandschuhen heraus.",
+            "Erwärme die Tortillas in den letzten 2 Minuten kurz in einer Pfanne ohne Öl bei mittlerer Hitze, bis sie weich und biegsam sind.",
+            "Schneide die Limette in Spalten. Halbiere die Fischstäbchen.",
+            "Verteile auf jeder Tortilla etwas Krautsalat, lege 3–4 Fischstäbchen-Hälften darauf, gib einen Klecks Remoulade dazu und beträufle alles mit Limettensaft."
+          ],
+          "tipp": "Bewahre die warmen Tortillas in einem sauberen Küchentuch eingewickelt auf – so bleiben sie weich, bis alle fertig sind.",
+          "variante": "Statt Remoulade passt auch Joghurt mit etwas Knoblauch und Salz als frischer Dip.",
+          "naehrwerte": {
+            "kcal": 620,
+            "eiweiss": 26,
+            "kohlenhydrate": 62,
+            "fett": 29
+          },
+          "tags": [
+            "Airfryer-geeignet",
+            "Party"
+          ],
+          "foto_prompt": "Three soft tacos filled with crispy fish sticks, creamy coleslaw and remoulade with lime wedges on a board, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 35,
+          "titel": "Currywurst selbst gemacht",
+          "teaser": "Die Currywurst-Bude kommt zu dir nach Hause: Mit dieser schnellen Sauce wird jede Bratwurst zum Kult-Snack.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "4 Bratwürste (ca. 400 g)",
+            "200 g passierte Tomaten",
+            "3 EL Tomatenketchup",
+            "3 TL Currypulver",
+            "1 TL Paprikapulver edelsüß"
+          ],
+          "vorrat": [
+            "Zucker",
+            "Öl",
+            "Salz"
+          ],
+          "schritte": [
+            "Erhitze 1 EL Öl in einer Pfanne bei mittlerer Hitze. Brate die Bratwürste darin 10–12 Minuten rundherum, bis sie goldbraun sind. Wende sie regelmäßig.",
+            "Gib in der Zwischenzeit passierte Tomaten, Ketchup, 2 TL Currypulver, Paprikapulver und 1 TL Zucker in einen kleinen Topf.",
+            "Lass die Sauce bei kleiner bis mittlerer Hitze 5 Minuten köcheln und rühre dabei öfter um, bis sie dicklich ist. Schmecke mit Salz ab.",
+            "Schneide die Würste mit einem scharfen Messer schräg in Scheiben – halte die Wurst dabei mit einer Gabel fest.",
+            "Verteile die Wurststücke auf Teller, gieße die Sauce darüber und bestäube alles mit dem restlichen Currypulver."
+          ],
+          "tipp": "Für extra Tiefe einen Schuss Apfelsaft in die Sauce geben – so schmeckt sie wie an der Imbissbude.",
+          "variante": "Für eine vegetarische Version nimmst du einfach vegetarische Bratwürste aus dem Kühlregal.",
+          "naehrwerte": {
+            "kcal": 640,
+            "eiweiss": 26,
+            "kohlenhydrate": 16,
+            "fett": 52
+          },
+          "tags": [],
+          "foto_prompt": "Sliced bratwurst covered in thick curry ketchup sauce dusted with curry powder on a paper tray with a small wooden fork, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 36,
+          "titel": "Instant-Ramen-Upgrade",
+          "teaser": "Aus der 50-Cent-Nudelsuppe wird eine richtige Ramen-Schüssel – mit wachsweichem Ei und frischem Grün.",
+          "zeit_min": 10,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 Päckchen Instant-Nudeln mit Würzpulver (z. B. Gemüse-Geschmack)",
+            "2 Eier",
+            "2 Frühlingszwiebeln",
+            "100 g Babyspinat",
+            "1 EL Sojasauce"
+          ],
+          "vorrat": [
+            "Wasser"
+          ],
+          "schritte": [
+            "Bringe einen kleinen Topf Wasser zum Kochen. Lass die Eier mit einem Löffel vorsichtig hineingleiten und koche sie 7 Minuten bei mittlerer Hitze.",
+            "Schrecke die Eier sofort unter kaltem Wasser ab, damit sie nicht weitergaren. Schneide die Frühlingszwiebeln in feine Ringe.",
+            "Koche in einem zweiten Topf 800 ml Wasser auf. Gib Nudeln und Würzpulver hinein und gare sie nach Packungsanweisung, meist 3 Minuten.",
+            "Rühre in der letzten Minute Spinat und Sojasauce unter, bis der Spinat zusammenfällt.",
+            "Verteile die Suppe auf zwei Schüsseln, schäle die Eier, halbiere sie und lege sie zusammen mit den Frühlingszwiebeln obendrauf."
+          ],
+          "tipp": "Nimm nur die Hälfte vom Würzpulver und gib dafür die Sojasauce dazu – schmeckt genauso intensiv, ist aber weniger salzig.",
+          "variante": "Mit ein paar Scheiben Hähnchen- oder Putenaufschnitt wird die Schüssel noch sättigender.",
+          "naehrwerte": {
+            "kcal": 480,
+            "eiweiss": 17,
+            "kohlenhydrate": 55,
+            "fett": 21
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Bowl of upgraded instant ramen with a halved jammy soft-boiled egg, spinach and spring onions, chopsticks on the rim, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 37,
+          "titel": "Knuspriges Hähnchenschnitzel",
+          "teaser": "Goldbraun, knusprig und saftig: Das Hähnchenschnitzel ist der Liebling am Familientisch – und du kannst es selbst.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€€",
+          "zutaten": [
+            "2 dünne Hähnchenschnitzel (ca. 300 g)",
+            "1 Ei",
+            "3 EL Mehl",
+            "60 g Paniermehl",
+            "1 Zitrone"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Lege die Schnitzel zwischen zwei Lagen Frischhaltefolie und klopfe sie mit einem Topfboden auf etwa 1 cm Dicke flach. Würze sie mit Salz und Pfeffer und wasch dir danach die Hände.",
+            "Stelle drei tiefe Teller bereit: Mehl, verquirltes Ei mit 1 Prise Salz und Paniermehl. Wende die Schnitzel nacheinander darin und drücke die Panade nicht zu fest an.",
+            "Erhitze reichlich Öl (etwa 1/2 cm hoch) in einer großen Pfanne bei mittlerer bis hoher Hitze. Das Öl ist heiß genug, wenn ein Paniermehl-Krümel sofort zischt.",
+            "Lege die Schnitzel vom Körper weg ins Öl, damit nichts auf dich spritzt. Brate sie pro Seite 3–4 Minuten, bis sie goldbraun sind.",
+            "Prüfe, ob das Fleisch innen komplett weiß ist. Lass die Schnitzel kurz auf Küchenpapier abtropfen und serviere sie mit Zitronenspalten."
+          ],
+          "tipp": "Schwenke die Pfanne beim Braten leicht, damit das Öl über die Schnitzel schwappt – so wellt sich die Panade schön auf.",
+          "variante": "Mische 2 EL geriebenen Parmesan unter das Paniermehl für eine extra würzige Kruste.",
+          "naehrwerte": {
+            "kcal": 480,
+            "eiweiss": 42,
+            "kohlenhydrate": 30,
+            "fett": 20
+          },
+          "tags": [
+            "Airfryer-geeignet"
+          ],
+          "foto_prompt": "Two golden crispy breaded chicken schnitzels with lemon wedges on a white plate, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 38,
+          "titel": "Rotes Linsen-Dal mit Kokosmilch",
+          "teaser": "Cremig, mild-würzig und richtig sättigend: Dieses Dal ist komplett pflanzlich und kocht fast von allein.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 4,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "250 g rote Linsen",
+            "1 Dose Kokosmilch (400 ml)",
+            "1 Dose stückige Tomaten (400 g)",
+            "1 Zwiebel",
+            "2 TL Currypulver"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Wasser"
+          ],
+          "schritte": [
+            "Schäle die Zwiebel und schneide sie in kleine Würfel. Spüle die Linsen in einem Sieb unter kaltem Wasser ab, bis das Wasser klar bleibt.",
+            "Erhitze 1 EL Öl in einem Topf bei mittlerer Hitze. Dünste die Zwiebel darin 3 Minuten an, bis sie glasig ist, und rühre das Currypulver 30 Sekunden mit ein.",
+            "Gib Linsen, Tomaten, Kokosmilch und 400 ml Wasser dazu und bringe alles einmal zum Kochen.",
+            "Lass das Dal bei kleiner Hitze 15 Minuten köcheln und rühre ab und zu um, damit nichts am Boden ansetzt. Es ist fertig, wenn die Linsen zerfallen und alles cremig ist.",
+            "Schmecke mit Salz ab. Ist es zu dick, rührst du noch einen Schuss Wasser unter."
+          ],
+          "tipp": "Rote Linsen musst du nicht einweichen – sie kochen schnell und machen das Dal ganz von selbst sämig. Dazu passen Reis oder Fladenbrot.",
+          "variante": "Rühre am Ende zwei Handvoll Babyspinat unter, bis er zusammenfällt.",
+          "naehrwerte": {
+            "kcal": 450,
+            "eiweiss": 17,
+            "kohlenhydrate": 45,
+            "fett": 21
+          },
+          "tags": [
+            "vegan",
+            "vegetarisch",
+            "Meal-Prep",
+            "Lunchbox"
+          ],
+          "foto_prompt": "Bowl of creamy orange red lentil dal with coconut milk swirl and a piece of flatbread beside it, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        }
+      ]
+    },
+    {
+      "nr": 4,
+      "titel": "Pasta, Pizza & Co.",
+      "untertitel": "Die Klassiker, die immer gehen",
+      "intro": "Pasta und Pizza gehen einfach immer – nach dem Training, beim Filmabend oder wenn Freunde spontan vorbeikommen. In diesem Kapitel lernst du die großen Klassiker kennen, von der echten Carbonara über eine schnelle Bolognese bis zur Lasagne aus der Pfanne. Dazu kommen Tricks wie Pizza mit Tortilla-Boden oder Pasta, die komplett in einem einzigen Topf gart. Du brauchst dafür keine Profi-Ausrüstung, nur einen großen Topf, eine Pfanne und ein bisschen Neugier. Nach ein paar Rezepten weißt du, wie man Nudeln richtig bissfest kocht und warum Nudelwasser Gold wert ist.",
+      "rezepte": [
+        {
+          "nr": 39,
+          "titel": "One-Pot-Pasta Tomate-Mozzarella",
+          "teaser": "Alles in einen Topf, umrühren, fertig: Weniger Abwasch geht nicht – und die Sauce wird von allein cremig.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "250 g Penne",
+            "1 Dose stückige Tomaten (400 g)",
+            "1 TL Gemüsebrühe (Pulver)",
+            "125 g Mozzarella",
+            "1 Knoblauchzehe"
+          ],
+          "vorrat": [
+            "Wasser",
+            "Salz",
+            "Pfeffer",
+            "Öl"
+          ],
+          "schritte": [
+            "Schäle den Knoblauch und hacke ihn fein. Lass den Mozzarella abtropfen und schneide ihn in kleine Würfel.",
+            "Gib Nudeln, Tomaten, Knoblauch, Brühpulver, 1 EL Öl und 500 ml Wasser in einen großen Topf.",
+            "Bringe alles bei hoher Hitze zum Kochen, stelle dann auf mittlere Hitze und lass die Pasta offen 10–12 Minuten köcheln. Rühre alle 1–2 Minuten um, damit nichts am Boden klebt.",
+            "Die Pasta ist fertig, wenn sie bissfest ist und fast die ganze Flüssigkeit aufgesogen hat. Nimm den Topf vom Herd.",
+            "Rühre die Mozzarella-Würfel unter, bis sie Fäden ziehen, und würze mit Salz und Pfeffer."
+          ],
+          "tipp": "Kurze Nudeln wie Penne oder Fusilli funktionieren im One-Pot besser als Spaghetti, weil sie gleichmäßiger garen.",
+          "variante": "Rühre am Ende ein paar Blätter frisches Basilikum oder eine Handvoll Rucola unter.",
+          "naehrwerte": {
+            "kcal": 640,
+            "eiweiss": 26,
+            "kohlenhydrate": 98,
+            "fett": 14
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Pot of one-pot penne in tomato sauce with melting mozzarella cubes, a wooden spoon in it, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 40,
+          "titel": "Spaghetti Carbonara",
+          "teaser": "Das Original aus Rom kommt ganz ohne Sahne aus – nur Ei, Speck und Parmesan. Cremiger geht es kaum.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€€",
+          "zutaten": [
+            "200 g Spaghetti",
+            "100 g Speckwürfel",
+            "2 Eier",
+            "50 g Parmesan (gerieben)"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Wasser"
+          ],
+          "schritte": [
+            "Koche die Spaghetti in reichlich Salzwasser nach Packungsanweisung bissfest. Verquirle in der Zwischenzeit die Eier mit dem Parmesan und viel frisch gemahlenem Pfeffer in einer Schüssel.",
+            "Brate die Speckwürfel in einer großen Pfanne ohne Öl bei mittlerer Hitze 5–6 Minuten, bis sie knusprig sind. Stelle die Herdplatte dann auf die niedrigste Stufe.",
+            "Nimm vor dem Abgießen eine Tasse Nudelwasser ab. Gieße die Spaghetti ab und gib sie sofort tropfnass zum Speck in die Pfanne.",
+            "Gieße die Ei-Käse-Mischung über die heißen Nudeln und rühre sofort kräftig mit zwei Gabeln 1–2 Minuten weiter. Die Hitze gart das Ei, bis die Sauce cremig und leicht angedickt ist.",
+            "Ist die Sauce zu dick, gib schluckweise Nudelwasser dazu. Serviere sofort mit extra Pfeffer und Parmesan."
+          ],
+          "tipp": "Die Pfanne darf nicht zu heiß sein, sonst wird aus der Sauce Rührei. Niedrigste Stufe und schnelles Rühren sind das Geheimnis.",
+          "variante": "Für eine vegetarische Version brätst du statt Speck Zucchiniwürfel goldbraun an.",
+          "naehrwerte": {
+            "kcal": 720,
+            "eiweiss": 32,
+            "kohlenhydrate": 76,
+            "fett": 31
+          },
+          "tags": [],
+          "foto_prompt": "Plate of creamy spaghetti carbonara with crispy bacon pieces, grated parmesan and black pepper, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 41,
+          "titel": "Mac and Cheese aus einem Topf",
+          "teaser": "Der Comfort-Food-Klassiker aus den USA: Nudeln direkt in Milch gekocht und mit ganz viel Käse – ein Topf, null Stress.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "200 g Makkaroni (oder Hörnchennudeln)",
+            "400 ml Milch",
+            "120 g geriebener Cheddar (oder Gouda)",
+            "1 EL Butter",
+            "1/2 TL Paprikapulver edelsüß"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer",
+            "Wasser"
+          ],
+          "schritte": [
+            "Gib Nudeln, Milch, 200 ml Wasser und 1/2 TL Salz in einen mittelgroßen Topf.",
+            "Bringe alles bei mittlerer Hitze unter Rühren zum Köcheln. Achtung: Milch kocht schnell über, bleib also beim Topf.",
+            "Lass die Nudeln 10–12 Minuten bei kleiner bis mittlerer Hitze köcheln und rühre dabei oft um, bis sie weich sind und die Flüssigkeit fast ganz aufgesogen ist.",
+            "Nimm den Topf vom Herd. Rühre Butter und Käse ein, bis alles geschmolzen und schön cremig ist.",
+            "Würze mit Paprikapulver und Pfeffer und serviere sofort, solange es noch fließt."
+          ],
+          "tipp": "Käse am Stück selbst reiben lohnt sich: Fertig geriebener enthält Trennmittel und schmilzt weniger cremig.",
+          "variante": "Streu vor dem Servieren knusprig gebratene Speckwürfel oder geröstete Semmelbrösel darüber.",
+          "naehrwerte": {
+            "kcal": 770,
+            "eiweiss": 35,
+            "kohlenhydrate": 82,
+            "fett": 32
+          },
+          "tags": [
+            "vegetarisch"
+          ],
+          "foto_prompt": "Bowl of creamy macaroni and cheese with a dusting of paprika, a spoon lifting a cheesy bite, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 42,
+          "titel": "Pesto-Pasta mit Hähnchen",
+          "teaser": "Grünes Pesto, saftiges Hähnchen und süße Tomaten – das ist die perfekte Pasta für Hunger nach dem Training.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "200 g Fusilli",
+            "250 g Hähnchenbrustfilet",
+            "4 EL grünes Pesto (Glas)",
+            "150 g Kirschtomaten",
+            "20 g Parmesan (gerieben)"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer",
+            "Wasser"
+          ],
+          "schritte": [
+            "Koche die Nudeln in reichlich Salzwasser nach Packungsanweisung bissfest. Halbiere die Kirschtomaten.",
+            "Schneide das Hähnchen in mundgerechte Stücke und würze es mit Salz und Pfeffer. Wasch dir danach gründlich die Hände.",
+            "Erhitze 1 EL Öl in einer Pfanne bei mittlerer bis hoher Hitze und brate das Hähnchen 6–7 Minuten, bis es rundherum goldbraun und innen komplett weiß ist.",
+            "Nimm eine halbe Tasse Nudelwasser ab und gieße die Nudeln ab. Gib Nudeln, Tomaten und Pesto zum Hähnchen in die Pfanne.",
+            "Vermische alles bei kleiner Hitze 1 Minute und gib so viel Nudelwasser dazu, bis die Sauce schön cremig ist. Mit Parmesan bestreut servieren."
+          ],
+          "tipp": "Pesto nie stark erhitzen, sonst wird das Basilikum braun und bitter – nur kurz untermischen.",
+          "variante": "Mit rotem Pesto und ein paar Oliven schmeckt das Ganze mediterraner.",
+          "naehrwerte": {
+            "kcal": 720,
+            "eiweiss": 47,
+            "kohlenhydrate": 76,
+            "fett": 24
+          },
+          "tags": [
+            "Lunchbox",
+            "Meal-Prep"
+          ],
+          "foto_prompt": "Bowl of fusilli tossed in green pesto with golden chicken pieces, halved cherry tomatoes and grated parmesan, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 43,
+          "titel": "Spaghetti Aglio e Olio",
+          "teaser": "Nur vier Zutaten und trotzdem Italien pur: Knoblauch, Olivenöl und ein bisschen Schärfe. Das perfekte Notfall-Essen.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "200 g Spaghetti",
+            "3 Knoblauchzehen",
+            "1/2 TL Chiliflocken",
+            "1/2 Bund glatte Petersilie"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Wasser"
+          ],
+          "schritte": [
+            "Koche die Spaghetti in reichlich Salzwasser nach Packungsanweisung bissfest.",
+            "Schäle den Knoblauch und schneide ihn in dünne Scheiben. Hacke die Petersilie fein – das Messer immer vom Körper weg führen.",
+            "Erhitze 5 EL Olivenöl in einer großen Pfanne bei niedriger bis mittlerer Hitze. Brate Knoblauch und Chiliflocken darin 2–3 Minuten, bis der Knoblauch hellgolden ist – nicht dunkel, sonst wird er bitter.",
+            "Nimm eine Tasse Nudelwasser ab, gieße die Spaghetti ab und gib sie in die Pfanne.",
+            "Gieße 4–5 EL Nudelwasser dazu und schwenke alles 1 Minute, bis das Öl die Nudeln glänzend überzieht. Streue die Petersilie darüber und salze nach Geschmack."
+          ],
+          "tipp": "Das stärkehaltige Nudelwasser verbindet sich mit dem Öl zu einer leichten Sauce – nie ganz weglassen!",
+          "variante": "Wer es nicht vegan braucht, reibt zum Schluss noch etwas Parmesan darüber.",
+          "naehrwerte": {
+            "kcal": 590,
+            "eiweiss": 15,
+            "kohlenhydrate": 72,
+            "fett": 26
+          },
+          "tags": [
+            "vegan",
+            "vegetarisch"
+          ],
+          "foto_prompt": "Plate of spaghetti aglio e olio glistening with olive oil, golden garlic slices, red chili flakes and chopped parsley, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 44,
+          "titel": "Express-Bolognese",
+          "teaser": "Bolognese muss nicht stundenlang köcheln: Diese Version ist in 25 Minuten fertig und schmeckt trotzdem wie bei Oma.",
+          "zeit_min": 25,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "200 g Spaghetti",
+            "250 g Rinderhackfleisch",
+            "1 Zwiebel",
+            "400 g passierte Tomaten",
+            "1 TL getrocknete italienische Kräuter"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer",
+            "Zucker",
+            "Wasser"
+          ],
+          "schritte": [
+            "Schäle die Zwiebel und schneide sie in kleine Würfel.",
+            "Erhitze 1 EL Öl in einer großen Pfanne bei mittlerer bis hoher Hitze. Brate das Hackfleisch darin 5 Minuten krümelig an, bis es nicht mehr rosa ist. Gib die Zwiebel dazu und brate sie 2 Minuten mit.",
+            "Gieße die passierten Tomaten dazu, rühre die Kräuter und 1 Prise Zucker ein und lass die Sauce bei kleiner Hitze 12–15 Minuten köcheln, bis sie schön eindickt.",
+            "Koche in der Zwischenzeit die Spaghetti in reichlich Salzwasser nach Packungsanweisung bissfest und gieße sie ab.",
+            "Schmecke die Sauce mit Salz und Pfeffer ab und verteile sie über die Spaghetti."
+          ],
+          "tipp": "Lass das Hack am Anfang ruhig 1–2 Minuten ohne Rühren anbraten – die braunen Röststellen bringen den meisten Geschmack.",
+          "variante": "Für eine vegetarische Bolognese nimmst du 150 g rote Linsen statt Hack und lässt die Sauce 5 Minuten länger köcheln.",
+          "naehrwerte": {
+            "kcal": 780,
+            "eiweiss": 42,
+            "kohlenhydrate": 82,
+            "fett": 30
+          },
+          "tags": [
+            "Meal-Prep"
+          ],
+          "foto_prompt": "Plate of spaghetti topped with rich meat bolognese sauce and a sprinkle of herbs, fork twirled in, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 45,
+          "titel": "Tortilla-Pizza",
+          "teaser": "Kein Teig, kein Warten: Mit einer Tortilla als Boden hast du in 15 Minuten eine superdünne, knusprige Pizza.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "2 große Weizentortillas",
+            "100 g passierte Tomaten",
+            "125 g Mozzarella",
+            "50 g Salami (Scheiben)",
+            "1 TL getrockneter Oregano"
+          ],
+          "vorrat": [
+            "Salz",
+            "Öl"
+          ],
+          "schritte": [
+            "Heize den Ofen auf 220 °C Ober-/Unterhitze vor und lege ein Backblech mit Backpapier aus.",
+            "Verrühre die passierten Tomaten mit Oregano und 1 Prise Salz. Lass den Mozzarella abtropfen und zupfe ihn in kleine Stücke.",
+            "Lege die Tortillas aufs Blech, bestreiche sie dünn mit der Tomatensauce und lass dabei einen schmalen Rand frei.",
+            "Verteile Mozzarella und Salami darauf und beträufle alles mit ein paar Tropfen Öl.",
+            "Backe die Pizzen 8–10 Minuten, bis der Käse blubbert und der Rand goldbraun ist. Hol das Blech mit Ofenhandschuhen heraus und schneide die Pizzen in Stücke."
+          ],
+          "tipp": "Nicht zu viel Sauce nehmen – sonst wird die dünne Tortilla matschig statt knusprig.",
+          "variante": "Vegetarisch belegst du die Pizza mit Paprikastreifen und Mais statt Salami.",
+          "naehrwerte": {
+            "kcal": 480,
+            "eiweiss": 22,
+            "kohlenhydrate": 40,
+            "fett": 25
+          },
+          "tags": [
+            "Party",
+            "Airfryer-geeignet"
+          ],
+          "foto_prompt": "Thin crispy tortilla pizza with bubbling mozzarella and salami slices cut into wedges on parchment, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 46,
+          "titel": "Pizza-Toast",
+          "teaser": "Der Snack-Klassiker für jeden Hunger zwischendurch – knusprig, käsig und in 15 Minuten aus dem Ofen.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "4 Scheiben Toastbrot",
+            "4 EL passierte Tomaten",
+            "4 Scheiben Kochschinken",
+            "100 g geriebener Gouda",
+            "1 TL getrockneter Oregano"
+          ],
+          "vorrat": [
+            "Salz",
+            "Pfeffer"
+          ],
+          "schritte": [
+            "Heize den Ofen auf 200 °C Ober-/Unterhitze vor und lege ein Backblech mit Backpapier aus.",
+            "Verrühre die passierten Tomaten mit Oregano, Salz und Pfeffer und bestreiche damit die Toastscheiben.",
+            "Lege je 1 Scheibe Schinken auf jeden Toast und streue den Käse großzügig darüber.",
+            "Backe die Toasts 8–10 Minuten, bis der Käse geschmolzen und an den Rändern leicht goldbraun ist. Nimm das Blech nur mit Ofenhandschuhen heraus."
+          ],
+          "tipp": "Im Airfryer bei 180 °C sind die Pizza-Toasts schon nach 5–6 Minuten fertig und extra knusprig.",
+          "variante": "Statt Schinken passen Thunfisch und Zwiebelringe oder Ananasstücke für einen Hawaii-Toast.",
+          "naehrwerte": {
+            "kcal": 420,
+            "eiweiss": 24,
+            "kohlenhydrate": 34,
+            "fett": 20
+          },
+          "tags": [
+            "Airfryer-geeignet",
+            "Party"
+          ],
+          "foto_prompt": "Four golden pizza toasts with melted cheese, ham and tomato sauce on a baking tray, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 47,
+          "titel": "Pfannen-Lasagne",
+          "teaser": "Lasagne in 30 Minuten? Klappt, wenn die Nudelplatten direkt in der Sauce garen. Schmeckt wie die echte – nur mit weniger Abwasch.",
+          "zeit_min": 30,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Mittel",
+          "kosten": "€€",
+          "zutaten": [
+            "250 g Rinderhackfleisch",
+            "1 Zwiebel",
+            "500 g passierte Tomaten",
+            "6 Lasagneplatten (ca. 120 g)",
+            "125 g Mozzarella"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer",
+            "Zucker",
+            "Wasser"
+          ],
+          "schritte": [
+            "Schäle die Zwiebel und schneide sie in kleine Würfel. Brich die Lasagneplatten in etwa briefmarkengroße Stücke.",
+            "Erhitze 1 EL Öl in einer großen, tiefen Pfanne bei mittlerer bis hoher Hitze. Brate das Hack 5 Minuten krümelig an, bis es nicht mehr rosa ist, und brate die Zwiebel 2 Minuten mit.",
+            "Gieße passierte Tomaten und 250 ml Wasser dazu, würze mit Salz, Pfeffer und 1 Prise Zucker und bringe alles zum Kochen.",
+            "Rühre die Nudelstücke unter, sodass sie mit Sauce bedeckt sind. Lass alles mit Deckel bei kleiner bis mittlerer Hitze 12–15 Minuten köcheln, bis die Nudeln weich sind. Rühre alle paar Minuten um.",
+            "Zupfe den Mozzarella darüber, lege den Deckel wieder auf und lass ihn 2–3 Minuten schmelzen."
+          ],
+          "tipp": "Wird die Sauce zu dick, bevor die Nudeln weich sind, gib einfach noch einen Schuss Wasser dazu.",
+          "variante": "Statt Mozzarella kannst du auch Kleckse Frischkäse oder Ricotta daraufsetzen – noch cremiger.",
+          "naehrwerte": {
+            "kcal": 740,
+            "eiweiss": 45,
+            "kohlenhydrate": 62,
+            "fett": 33
+          },
+          "tags": [],
+          "foto_prompt": "Skillet lasagna with broken pasta sheets in meaty tomato sauce topped with melted mozzarella, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 48,
+          "titel": "Pasta mit Thunfisch-Tomatensauce",
+          "teaser": "Aus dem Vorratsschrank auf den Teller: Mit einer Dose Thunfisch wird eine einfache Tomatensauce zur Eiweiß-Pasta.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "200 g Penne",
+            "1 Dose Thunfisch im eigenen Saft (150 g)",
+            "1 Dose stückige Tomaten (400 g)",
+            "1 Zwiebel",
+            "1 TL getrockneter Oregano"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer",
+            "Zucker",
+            "Wasser"
+          ],
+          "schritte": [
+            "Koche die Nudeln in reichlich Salzwasser nach Packungsanweisung bissfest. Schäle die Zwiebel und schneide sie in kleine Würfel.",
+            "Erhitze 1 EL Öl in einer Pfanne bei mittlerer Hitze und dünste die Zwiebel 3 Minuten, bis sie glasig ist.",
+            "Gib Tomaten, Oregano und 1 Prise Zucker dazu und lass die Sauce 8 Minuten köcheln, bis sie etwas eindickt.",
+            "Lass den Thunfisch abtropfen, zerpflücke ihn mit einer Gabel und rühre ihn unter. Erwärme alles noch 2 Minuten.",
+            "Würze mit Salz und Pfeffer, gieße die Nudeln ab und vermische sie mit der Sauce."
+          ],
+          "tipp": "Thunfisch erst zum Schluss dazugeben – sonst wird er trocken und faserig.",
+          "variante": "Mit einem Esslöffel Kapern oder ein paar schwarzen Oliven schmeckt die Sauce wie in Italien.",
+          "naehrwerte": {
+            "kcal": 580,
+            "eiweiss": 33,
+            "kohlenhydrate": 80,
+            "fett": 12
+          },
+          "tags": [
+            "Lunchbox",
+            "Meal-Prep"
+          ],
+          "foto_prompt": "Bowl of penne in tomato sauce with flaked tuna and oregano, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 49,
+          "titel": "Tortellini in Schinken-Sahne-Sauce",
+          "teaser": "Ein Gericht wie aus der Kindheit, nur selbst gemacht: gefüllte Tortellini in cremiger Sauce mit Schinken und Erbsen.",
+          "zeit_min": 15,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€€",
+          "zutaten": [
+            "400 g Tortellini mit Käsefüllung (Kühlregal)",
+            "100 g Kochschinken (gewürfelt)",
+            "150 ml Sahne",
+            "100 g TK-Erbsen",
+            "20 g Parmesan (gerieben)"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer",
+            "Wasser"
+          ],
+          "schritte": [
+            "Koche die Tortellini in reichlich Salzwasser nach Packungsanweisung, meist 2–4 Minuten, und gieße sie ab.",
+            "Erhitze in der Zwischenzeit 1 TL Öl in einer Pfanne bei mittlerer Hitze und brate die Schinkenwürfel 2 Minuten an.",
+            "Gib die gefrorenen Erbsen und die Sahne dazu und lass alles 3–4 Minuten köcheln, bis die Erbsen heiß sind und die Sauce leicht eindickt.",
+            "Rühre die Hälfte vom Parmesan ein und würze mit Salz und Pfeffer.",
+            "Schwenke die Tortellini in der Sauce, bis sie überall cremig überzogen sind, und bestreue sie mit dem restlichen Parmesan."
+          ],
+          "tipp": "Gib einen Schuss Nudelwasser in die Sauce, wenn sie zu dick wird – dann bleibt sie samtig.",
+          "variante": "Für eine vegetarische Variante ersetzt du den Schinken durch angebratene Champignons.",
+          "naehrwerte": {
+            "kcal": 880,
+            "eiweiss": 34,
+            "kohlenhydrate": 82,
+            "fett": 45
+          },
+          "tags": [],
+          "foto_prompt": "Plate of cheese tortellini in creamy ham sauce with green peas and grated parmesan, 45-degree angle, bright natural light, appetizing, modern casual table, no text, no people."
+        },
+        {
+          "nr": 50,
+          "titel": "Cremige Spinat-Feta-Pasta",
+          "teaser": "Grün, cremig und ein bisschen salzig vom Feta: Diese Pasta überzeugt sogar Spinat-Skeptiker.",
+          "zeit_min": 20,
+          "wartezeit": null,
+          "portionen": 2,
+          "level": "Einfach",
+          "kosten": "€",
+          "zutaten": [
+            "200 g Penne",
+            "200 g Babyspinat",
+            "100 g Feta",
+            "100 g Frischkäse",
+            "1 Knoblauchzehe"
+          ],
+          "vorrat": [
+            "Öl",
+            "Salz",
+            "Pfeffer",
+            "Wasser"
+          ],
+          "schritte": [
+            "Koche die Nudeln in reichlich Salzwasser nach Packungsanweisung bissfest. Nimm vor dem Abgießen eine Tasse Nudelwasser ab.",
+            "Schäle den Knoblauch und hacke ihn fein. Wasche den Spinat und lass ihn abtropfen.",
+            "Erhitze 1 EL Öl in einer großen Pfanne bei mittlerer Hitze und brate den Knoblauch 1 Minute an. Gib den Spinat dazu und rühre, bis er nach 1–2 Minuten zusammenfällt.",
+            "Rühre den Frischkäse und etwa 100 ml Nudelwasser unter, bis eine glatte Sauce entsteht. Bröckle den Feta hinein.",
+            "Gib die Nudeln dazu, vermische alles gut und würze mit Pfeffer. Salz brauchst du kaum, weil der Feta schon salzig ist."
+          ],
+          "tipp": "Babyspinat fällt stark zusammen – keine Panik, wenn die Pfanne anfangs übervoll aussieht.",
+          "variante": "Ein paar halbierte Kirschtomaten bringen Farbe und eine fruchtige Note dazu.",
+          "naehrwerte": {
+            "kcal": 640,
+            "eiweiss": 26,
+            "kohlenhydrate": 76,
+            "fett": 24
+          },
+          "tags": [
+            "vegetarisch",
+            "Lunchbox"
+          ],
+          "foto_prompt": "Bowl of penne in creamy green spinach sauce with crumbled feta cheese, top-down, bright natural light, appetizing, modern casual table, no text, no people."
+        }
+      ]
+    }
+  ]
+}
