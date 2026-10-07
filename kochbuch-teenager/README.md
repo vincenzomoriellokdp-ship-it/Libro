@@ -23,17 +23,12 @@ Riscrittura completa del libro di Gertraud Kron sul modello dei bestseller Amazo
 
 ## Foto
 
-Le 100 foto sono state generate con GPT Image 2.5 (Higgsfield, 2K, qualità alta) e sono nella libreria Higgsfield.
-Nel manoscritto ci sono ancora i segnaposto `[FOTO n: …]`, perché da questo ambiente cloud il CDN delle immagini è bloccato.
+Le 100 foto sono state generate con GPT Image 2.5 (Higgsfield, 2K, qualità alta).
+Il manoscritto contiene un'immagine segnaposto per ogni ricetta (`word/media/fotoNNN.jpg`).
 
-Per inserirle (da un computer con accesso a internet, Node.js e Python con Pillow):
-
-```bash
-cd kochbuch-teenager/quelle
-python3 fotos_laden.py        # scarica le 100 foto in fotos/
-python3 fotos_vorbereiten.py  # ritaglia al formato del riquadro, 300 dpi
-npm install docx && node build.js && python3 mirror.py Kochbuch_fuer_Teenager_NEU.docx
-```
+**Installazione su Windows:** scarica `Kochbuch_fuer_Teenager_Paket.zip`, estrailo e fai doppio clic su `INSTALLA_LIBRO.bat`.
+Lo script crea `C:\Users\vmori\OneDrive\Book\ACCOUNT\Vincenzo.kdp\KOCHBUCH FÜR TEENAGER` con la sottocartella `Foto`,
+scarica le foto, le ritaglia a 300 dpi e le inserisce nel manoscritto.
 
 ## Prima di pubblicare
 
